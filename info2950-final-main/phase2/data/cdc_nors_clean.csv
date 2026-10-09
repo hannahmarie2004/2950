@@ -1,0 +1,1107 @@
+Year,Month,State,Primary Mode,Etiology,Serotype or Genotype,Etiology Status,Setting,Illnesses,Hospitalizations,Info On Hospitalizations,Deaths,Info On Deaths,Food Vehicle,Food Contaminated Ingredient,IFSAC Category,Water Exposure,Water Type,Animal Type,pathogen,food_category
+2002,1,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,15.0,0.0,14.0,0.0,15,"strawberries;pineapple, unspecified;melon, unspecified",,Fruits,,,,Norovirus,Fruits
+2002,1,Connecticut,Food,Norovirus unknown,,Confirmed,Caterer,113.0,1.0,113.0,0.0,113,"sandwich, deli",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2002,1,Illinois,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,22.0,0.0,16.0,0.0,16,"fish eggs, unspecified",,Fish,,,,Norovirus,Fish
+2002,1,Massachusetts,Food,Salmonella enterica,Typhimurium var Cope,Confirmed,Restaurant: Other,10.0,0.0,10.0,0.0,10,"mushrooms, unspecified",,Fungi,,,,Salmonella,Fungi
+2002,1,Maine,Food,Salmonella enterica,Enteritidis,Confirmed,Unknown,15.0,1.0,1.0,,,"pad thai, unspecified",sprouts,Sprouts,,,,Salmonella,Sprouts
+2002,2,Multistate,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,8.0,3.0,7.0,0.0,7,grape tomato,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2002,2,Missouri,Food,Salmonella enterica,Heidelberg,Confirmed,Restaurant: Other,104.0,22.0,104.0,,,macaroni and cheese,egg,Eggs,,,,Salmonella,Eggs
+2002,2,Michigan,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,5.0,0.0,5.0,0.0,5,ice,,Other,,,,Norovirus,Other
+2002,2,Michigan,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,196.0,24.0,165.0,0.0,165,"cannelloni;cake, cassata",egg,Eggs,,,,Salmonella,Eggs
+2002,3,California,Food,Norovirus Genogroup I,,Confirmed,Grocery store/bakery/deli/convenience store,10.0,,,,,"potato salad;cake, unspecified",Root (eg. potato),Root/Underground,,,,Norovirus,Root/Underground
+2002,3,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,3.0,2.0,3.0,,,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2002,3,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,8.0,0.0,8.0,0.0,8,"soda, unspecified;ice",,Other,,,,Norovirus,Other
+2002,3,California,Food,Norovirus Genogroup I,,Confirmed,Other,85.0,0.0,85.0,0.0,85,"asparagus, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2002,3,California,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,27.0,0.0,20.0,0.0,20,ice,,Other,,,,Norovirus,Other
+2002,3,Louisiana,Food,Norovirus Genogroup I,,Confirmed,Other,32.0,0.0,0.0,0.0,0,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2002,4,Maryland,Food,Salmonella enterica,unknown,Suspected,Restaurant: Other,2.0,1.0,2.0,0.0,2,caesar salad,leafy green,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2002,4,Indiana,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,25.0,0.0,23.0,0.0,23,"other cheese, pasteurized",,Dairy,,,,Norovirus,Dairy
+2002,4,California,Food,Norovirus Genogroup I,,Suspected,Caterer,18.0,0.0,18.0,0.0,18,"potato, unspecified",,Root/Underground,,,,Norovirus,Root/Underground
+2002,4,Multistate,Food,Salmonella enterica,Poona,Confirmed,Long-term care/nursing home/assisted living facility;Private home/residence;Grocery store/bakery/deli/convenience store,48.0,10.0,,,,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2002,5,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,7.0,,,,,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2002,5,Minnesota,Food,Norovirus Genogroup I,,Suspected,Private home/residence,12.0,0.0,12.0,0.0,12,"condiment, unspecified",,Other,,,,Norovirus,Other
+2002,5,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Private home/residence,9.0,0.0,9.0,0.0,9,"fruit punch, unspecified",,Other,,,,Norovirus,Other
+2002,6,Florida,Food,Norovirus Genogroup I,,Confirmed,Camp,34.0,0.0,34.0,0.0,34,ice,,Other,,,,Norovirus,Other
+2002,6,Illinois,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,4.0,3.0,4.0,0.0,4,"ice, unspecified",,Other,,,,E. coli,Other
+2002,6,Florida,Food,Salmonella enterica,,Suspected,Restaurant: Other,2.0,0.0,2.0,0.0,2,"eggs, over-easy",,Eggs,,,,Salmonella,Eggs
+2002,6,Florida,Food,Norovirus Genogroup I,,Confirmed,Camp,34.0,0.0,34.0,0.0,34,ice,,Other,,,,Norovirus,Other
+2002,6,Massachusetts,Food,Salmonella enterica,Javiana,Confirmed,Restaurant: Other;Other,3.0,1.0,3.0,0.0,3,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2002,6,Florida,Food,Salmonella enterica,Javiana,Confirmed,Restaurant: Other;Other,159.0,3.0,80.0,0.0,80,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2002,7,Colorado,Food,Salmonella enterica,Newport,Confirmed,Private home/residence;Restaurant: Other,13.0,6.0,13.0,0.0,13,"cilantro, unspecified",,Herbs,,,,Salmonella,Herbs
+2002,7,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Other;Office/indoor workplace,5.0,3.0,5.0,0.0,5,alfalfa sprouts,,Sprouts,,,,E. coli,Sprouts
+2002,7,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,5.0,0.0,5.0,0.0,5,ice,,Other,,,,Norovirus,Other
+2002,7,Multistate,Food,Salmonella enterica,Newport,Confirmed,Hospital;Restaurant: Other;School/college/university,510.0,43.0,510.0,0.0,510,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2002,8,Kansas,Food,Norovirus unknown,,Confirmed,Restaurant: Other,29.0,0.0,29.0,0.0,29,ice,,Other,,,,Norovirus,Other
+2002,8,Kansas,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,10.0,1.0,10.0,0.0,10,"ice cream, homemade",egg,Eggs,,,,Salmonella,Eggs
+2002,8,Wyoming,Food,Salmonella enterica,Typhimurium,Confirmed,School/college/university,116.0,4.0,116.0,0.0,116,"milk, 2% milk pasteurized",,Dairy,,,,Salmonella,Dairy
+2002,8,Kentucky,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,6.0,,,,,"ice cream, homemade",egg,Eggs,,,,Salmonella,Eggs
+2002,8,Wisconsin,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,29.0,0.0,29.0,0.0,29,"shell eggs, scrambled hard",,Eggs,,,,Norovirus,Eggs
+2002,9,Washington,Food,Salmonella enterica,Berta,Confirmed,Caterer,29.0,,,,,"watermelon;grapes, unspecified;cantaloupe",,Fruits,,,,Salmonella,Fruits
+2002,9,Michigan,Food,Salmonella enterica,Bovismorbificans,Confirmed,Private home/residence,7.0,2.0,6.0,0.0,6,"homemade cheese, unspecified",,Dairy,,,,Salmonella,Dairy
+2002,9,Michigan,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,19.0,0.0,13.0,0.0,13,"salad, unspecified",Vine-stalk eg. tomato,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2002,10,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Other;Private home/residence,50.0,1.0,48.0,0.0,48,candy unspecified,,Oils-sugars,,,,Norovirus,Oils-sugars
+2002,10,Arkansas,Food,Salmonella enterica,Newport,Confirmed,Camp;Other,7.0,4.0,5.0,0.0,5,"beans, baked",Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2002,11,Connecticut,Food,Norovirus Genogroup I,,Suspected,Caterer,11.0,0.0,11.0,0.0,11,"sandwich, deli",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2002,11,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,34.0,6.0,34.0,0.0,34,"stuffing, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2002,11,Ohio,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Other,107.0,6.0,45.0,0.0,107,"other milk, unpasteurized",milk,Dairy,,,,Salmonella,Dairy
+2002,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Other,16.0,5.0,16.0,0.0,16,"iceberg lettuce, unspecified",leafy green,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2002,12,Texas,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,21.0,1.0,21.0,0.0,21,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2002,12,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,4.0,0.0,4.0,0.0,4,"leaf lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2002,12,Washington,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence;Restaurant: Other,40.0,2.0,40.0,0.0,40,"eggs, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2003,1,Multistate,Food,Salmonella enterica,Newport,Confirmed,Hospital;Restaurant: Other;Long-term care/nursing home/assisted living facility;Caterer;Private home/residence;Grocery store/bakery/deli/convenience store,68.0,13.0,18.0,2.0,18,honeydew melon,,Fruits,,,,Salmonella,Fruits
+2003,1,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Festival/fair;Restaurant: Other;Caterer;Other,20.0,3.0,20.0,0.0,20,alfalfa sprouts,,Sprouts,,,,E. coli,Sprouts
+2003,2,Texas,Food,Listeria monocytogenes,,Confirmed,Other,12.0,12.0,12.0,1.0,12,"queso fresco, unpasteurized",cheese,Dairy,,,,Listeria,Dairy
+2003,2,Nevada,Food,Norovirus Genogroup I,,Confirmed,Long-term care/nursing home/assisted living facility,104.0,2.0,104.0,1.0,104,ice,,Other,,,,Norovirus,Other
+2003,2,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,Other;Grocery store/bakery/deli/convenience store,16.0,0.0,,0.0,,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2003,2,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2003,2,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2003,2,Colorado,Food,Norovirus Genogroup I,,Suspected,Long-term care/nursing home/assisted living facility,73.0,0.0,73.0,0.0,73,ice,,Other,,,,Norovirus,Other
+2003,3,California,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,7.0,0.0,7.0,0.0,7,"omelette;eggs, other;eggs benedict",egg,Eggs,,,,Salmonella,Eggs
+2003,3,Michigan,Food,Norovirus Genogroup I,,Confirmed,Other,150.0,1.0,23.0,0.0,23,coffee speciality drink,,Other,,,,Norovirus,Other
+2003,3,Pennsylvania,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,3.0,1.0,2.0,0.0,2,"shell eggs, fried soft",egg,Eggs,,,,Salmonella,Eggs
+2003,3,California,Food,Salmonella enterica,Virchow,Confirmed,Other,11.0,2.0,11.0,0.0,11,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2003,3,Pennsylvania,Food,Norovirus Genogroup I,,Suspected,Private home/residence,7.0,0.0,0.0,0.0,0,potato chips,,Root/Underground,,,,Norovirus,Root/Underground
+2003,3,California,Food,Salmonella enterica,,Confirmed,Other,13.0,2.0,13.0,,,strawberries,,Fruits,,,,Salmonella,Fruits
+2003,3,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Other,42.0,10.0,30.0,1.0,30,"nuts, almonds",,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2003,4,District of Columbia,Food,Norovirus unknown;Norovirus Genogroup II,,Confirmed;Confirmed,Caterer;Other,181.0,0.0,116.0,0.0,116,water,,Other,,,,Norovirus,Other
+2003,5,Wisconsin,Food,Salmonella enterica,Enteritidis,Confirmed,Correctional/detention facility,3.0,,,,,"eggs, unspecified",,Eggs,,,,Salmonella,Eggs
+2003,5,California,Food,Salmonella enterica,unknown,Confirmed,Caterer;Other;Private home/residence,23.0,,,0.0,20,bottled water,,Other,,,,Salmonella,Other
+2003,5,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,4.0,1.0,4.0,0.0,4,"shell egg, other",egg,Eggs,,,,Salmonella,Eggs
+2003,5,California,Food,Norovirus Genogroup I,,Suspected,Long-term care/nursing home/assisted living facility,14.0,0.0,14.0,0.0,14,"ice, unspecified",,Other,,,,Norovirus,Other
+2003,5,Washington,Food,"Campylobacter jejuni;Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed;Suspected,Private home/residence;Other,3.0,0.0,3.0,0.0,3,"other milk, unpasteurized",,Dairy,,,,E. coli,Dairy
+2003,5,Multistate,Food,Salmonella enterica,Muenchen,Confirmed,Private home/residence;Child daycare/preschool;Grocery store/bakery/deli/convenience store,58.0,15.0,44.0,,,honeydew melon;cantaloupe,,Fruits,,,,Salmonella,Fruits
+2003,6,Maryland,Food,Salmonella enterica,Lika,Confirmed,Private home/residence,3.0,1.0,3.0,0.0,3,unspecified grains,,Grains-beans,,,,Salmonella,Grains-beans
+2003,6,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,17.0,7.0,17.0,0.0,17,"pie, merengue",egg,Eggs,,,,Salmonella,Eggs
+2003,6,District of Columbia,Food,Adenovirus;Norovirus Genogroup I,,Suspected;Suspected,Restaurant: Other;Caterer,48.0,0.0,45.0,0.0,45,ice,,Other,,,,Norovirus,Other
+2003,7,Georgia,Food,Salmonella enterica,Enteritidis,Confirmed,Hospital,38.0,,,,,"eggs, scrambled",egg,Eggs,,,,Salmonella,Eggs
+2003,7,Colorado,Food,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,Caterer;Restaurant: Other;Festival/fair;Private home/residence;Other,13.0,1.0,13.0,0.0,13,alfalfa sprouts,,Sprouts,,,,E. coli,Sprouts
+2003,7,North Carolina,Food,Salmonella enterica,Heidelberg,Confirmed,Private home/residence;Other,13.0,0.0,0.0,0.0,0,"tortilla, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2003,7,Oregon,Food,Norovirus Genogroup I,,Confirmed,Festival/fair,2.0,,,,,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2003,7,Pennsylvania,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,9.0,0.0,9.0,0.0,9,"pie, merengue",egg,Eggs,,,,Salmonella,Eggs
+2003,8,Florida,Food,Norovirus Genogroup I,,Suspected,Unknown,2.0,0.0,2.0,0.0,2,ice,,Other,,,,Norovirus,Other
+2003,8,Maryland,Food,Salmonella enterica,Enteritidis,Confirmed,Religious facility,104.0,12.0,104.0,0.0,104,crab cakes,egg,Eggs,,,,Salmonella,Eggs
+2003,8,Florida,Food,Norovirus Genogroup I,,Confirmed,Long-term care/nursing home/assisted living facility,16.0,,,,,"pineapple, unspecified;cantaloupe;banana, unspecified",,Fruits,,,,Norovirus,Fruits
+2003,8,Wisconsin,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,9.0,0.0,9.0,0.0,9,"mozarella, pasteurized",,Dairy,,,,Norovirus,Dairy
+2003,8,Florida,Food,Norovirus Genogroup I,unknown,Suspected,Restaurant: Other,16.0,0.0,16.0,0.0,16,unspecified fruit,,Fruits,,,,Norovirus,Fruits
+2003,8,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,13.0,0.0,11.0,0.0,11,unspecified fruit,,Fruits,,,,Norovirus,Fruits
+2003,8,Texas,Food,Salmonella enterica,Typhi,Confirmed,Restaurant: Other,6.0,4.0,6.0,0.0,6,"oysters, raw","oysters, raw",Mollusks,,,,Salmonella,Mollusks
+2003,8,California,Food,Salmonella enterica,Typhimurium,Confirmed,Grocery store/bakery/deli/convenience store;Other,50.0,7.0,50.0,0.0,50,"queso fresco, unpasteurized",cheese,Dairy,,,,Salmonella,Dairy
+2003,9,Maryland,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,3.0,1.0,3.0,0.0,3,"pie, coconut cream",egg,Eggs,,,,Salmonella,Eggs
+2003,9,Minnesota,Food,Salmonella enterica,Saintpaul,Confirmed,Private home/residence,5.0,0.0,5.0,0.0,5,"candy, toffee;cake, unspecified;cake, brownie",egg,Eggs,,,,Salmonella,Eggs
+2003,9,Florida,Food,Norovirus Genogroup I,unknown,Confirmed,School/college/university,52.0,,,,,"romaine lettuce, unspecified",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2003,10,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,30.0,10.0,27.0,0.0,27,"french toast, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2003,10,California,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,5.0,0.0,5.0,0.0,5,"banana, unspecified",,Fruits,,,,Norovirus,Fruits
+2003,10,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Long-term care/nursing home/assisted living facility,16.0,10.0,16.0,1.0,16,"spinach, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2003,11,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,9.0,0.0,9.0,0.0,9,"tuna, raw",,Fish,,,,Norovirus,Fish
+2003,11,North Carolina,Food,Norovirus Genogroup I,,Confirmed,Religious facility;Private home/residence,32.0,0.0,32.0,0.0,32,ice,,Other,,,,Norovirus,Other
+2003,11,California,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,14.0,0.0,8.0,0.0,8,"lettuce, unspecified",,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2003,11,Washington,Food,Norovirus Genogroup I,,Suspected,Private home/residence;Other;Restaurant: Other,28.0,0.0,28.0,0.0,28,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2003,11,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,15.0,0.0,15.0,0.0,15,cheese sticks,cheese,Dairy,,,,Norovirus,Dairy
+2003,11,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,13.0,0.0,13.0,0.0,13,"cheddar cheese, unspecified",cheese,Dairy,,,,Norovirus,Dairy
+2003,11,Multistate,Food,Salmonella enterica,Chester,Confirmed,Private home/residence;Grocery store/bakery/deli/convenience store;Restaurant: Other,26.0,3.0,12.0,1.0,1,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2003,12,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,4.0,0.0,4.0,0.0,4,"oysters, unspecified",,Mollusks,,,,Norovirus,Mollusks
+2003,12,Oregon,Food,Norovirus Genogroup I,,Confirmed,Private home/residence,6.0,0.0,0.0,0.0,0,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2003,12,Oregon,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,8.0,,,,,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2003,12,Washington,Food,Norovirus Genogroup I,,Suspected,Other;Private home/residence,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,1,Wisconsin,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,7.0,,,,,ice,,Other,,,,Norovirus,Other
+2004,1,Oregon,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,3.0,0.0,0.0,0.0,0,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,1,North Carolina,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,11.0,0.0,10.0,0.0,10,house salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2004,1,California,Food,Norovirus Genogroup I,,Suspected,Other,50.0,0.0,17.0,0.0,17,ice,,Other,,,,Norovirus,Other
+2004,1,Colorado,Food,Norovirus Genogroup I,,Confirmed,Caterer,12.0,0.0,10.0,0.0,10,fruit salad,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2004,1,Washington,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,7.0,0.0,7.0,0.0,7,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,1,California,Food,Salmonella enterica,Heidelberg,Confirmed,Caterer;Child daycare/preschool,9.0,5.0,9.0,0.0,9,"shell eggs, boiled hard",,Eggs,,,,Salmonella,Eggs
+2004,1,Louisiana,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other;Camp,12.0,0.0,11.0,0.0,11,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,2,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Private home/residence;Grocery store/bakery/deli/convenience store,7.0,0.0,7.0,0.0,7,"soda, unspecified",,Other,,,,Norovirus,Other
+2004,2,Wisconsin,Food,Norovirus Genogroup I,,Confirmed,Caterer;Restaurant: Other,380.0,,,0.0,35,fish salad,Fin fish,Fish,,,,Norovirus,Fish
+2004,2,Florida,Food,Norovirus Genogroup II,unknown,Suspected,Private home/residence,4.0,,,,,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,2,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,7.0,,,,,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,2,Colorado,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,65.0,0.0,34.0,0.0,34,ice,,Other,,,,Norovirus,Other
+2004,2,Texas,Food,Norovirus Genogroup I,,Confirmed,Caterer,47.0,1.0,29.0,0.0,29,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,2,Ohio,Food,Norovirus Genogroup I,,Confirmed,Other,44.0,,,,,ice,,Other,,,,Norovirus,Other
+2004,3,Wisconsin,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,15.0,0.0,15.0,0.0,15,ice,,Other,,,,Norovirus,Other
+2004,3,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,2.0,,,,,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,3,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,4.0,,,,,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,3,Hawaii,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,4.0,0.0,4.0,0.0,4,"sushi, unspecified",rice,Grains-beans,,,,Norovirus,Grains-beans
+2004,3,Florida,Food,Norovirus Genogroup I,unknown,Suspected,Restaurant: Other,4.0,0.0,3.0,0.0,3,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,3,California,Food,Norovirus Genogroup I,,Suspected,Unknown,67.0,0.0,65.0,0.0,65,unspecified fruit,,Fruits,,,,Norovirus,Fruits
+2004,3,New Hampshire,Food,Salmonella enterica,Group B,Confirmed,Private home/residence,3.0,0.0,3.0,0.0,3,raw cake/cookie dough,egg,Eggs,,,,Salmonella,Eggs
+2004,3,Kansas,Food,Norovirus unknown,,Confirmed,School/college/university,100.0,1.0,99.0,0.0,99,watermelon;honeydew melon;cantaloupe,,Fruits,,,,Norovirus,Fruits
+2004,4,Multistate,Food,Salmonella enterica,Bovismorbificans,Confirmed,Other,35.0,5.0,23.0,,,alfalfa sprouts,sprouts,Sprouts,,,,Salmonella,Sprouts
+2004,4,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,110.0,0.0,105.0,0.0,105,"mixed fruit;beets, unspecified","fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2004,4,Oregon,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,4.0,0.0,0.0,0.0,0,"oysters, unspecified",,Mollusks,,,,Norovirus,Mollusks
+2004,4,Georgia,Food,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,Restaurant: Other,2.0,0.0,2.0,0.0,2,alfalfa sprouts,,Sprouts,,,,E. coli,Sprouts
+2004,4,Oregon,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,3.0,0.0,3.0,0.0,3,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,5,Washington,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Restaurant: Other,3.0,2.0,3.0,0.0,3,"queso fresco, unpasteurized",,Dairy,,,,E. coli,Dairy
+2004,5,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,4.0,2.0,3.0,0.0,3,"eggs, unspecified",,Eggs,,,,Salmonella,Eggs
+2004,6,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Other;Private home/residence,137.0,25.0,125.0,0.0,125,roma tomato,Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2004,6,Wisconsin,Food,Norovirus Genogroup I,,Confirmed,Religious facility,34.0,2.0,34.0,0.0,34,watermelon;musk melon;honeydew melon,,Fruits,,,,Norovirus,Fruits
+2004,6,Hawaii,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,24.0,0.0,24.0,0.0,24,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2004,6,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,22.0,0.0,22.0,0.0,22,"cucumber, unspecified",Vine-stalk eg. tomato,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2004,6,California,Food,Salmonella enterica,Newport,Confirmed,Other,100.0,5.0,25.0,0.0,25,"other milk, pasteurized",,Dairy,,,,Salmonella,Dairy
+2004,6,Hawaii,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,74.0,0.0,74.0,0.0,74,multiple foods,Vine-stalk eg. tomato,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2004,7,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other,97.0,,,,,"iceberg lettuce, unspecified",leafy green,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2004,7,Multistate,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,Anatum;Javiana;Muenchen;Thompson;Typhimurium;unknown,Confirmed;Confirmed;Confirmed;Confirmed;Confirmed;Confirmed,Restaurant: Other,429.0,129.0,429.0,0.0,429,roma tomato,Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2004,7,Tennessee,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,41.0,1.0,41.0,0.0,41,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2004,7,New York,Food,Salmonella enterica,Enteritidis,Confirmed,Caterer;Restaurant: Other,13.0,0.0,13.0,0.0,13,"shell eggs, scrambled hard;french toast, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2004,7,Oregon,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,24.0,0.0,0.0,0.0,0,ice,,Other,,,,Norovirus,Other
+2004,7,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,12.0,0.0,12.0,0.0,12,ice,water,Other,,,,Norovirus,Other
+2004,7,Oklahoma,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,13.0,2.0,13.0,0.0,13,"ice cream, homemade",egg,Eggs,,,,Salmonella,Eggs
+2004,8,Minnesota,Food,Salmonella enterica,Heidelberg,Confirmed,Private home/residence,5.0,1.0,5.0,0.0,5,egg baked/casserole,egg,Eggs,,,,Salmonella,Eggs
+2004,8,California,Food,Norovirus Genogroup I,,Suspected,Caterer,19.0,0.0,19.0,0.0,19,ice,,Other,,,,Norovirus,Other
+2004,8,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,33.0,0.0,33.0,0.0,33,unspecified beverage,,Other,,,,Norovirus,Other
+2004,8,Pennsylvania,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,2.0,0.0,2.0,0.0,2,"eggs, over-easy",,Eggs,,,,Salmonella,Eggs
+2004,9,New York,Food,"Cryptosporidium parvum;Escherichia coli, Shiga toxin-producing",O111,Confirmed;Confirmed,Other,212.0,14.0,212.0,0.0,212,"apple cider, unpasteurized","fruit, unspecified",Fruits,,,,E. coli,Fruits
+2004,9,Florida,Food,Salmonella enterica,,Suspected,Restaurant: Other,2.0,1.0,2.0,,,"shell eggs, fried soft",,Eggs,,,,Salmonella,Eggs
+2004,10,Illinois,Food,Norovirus Genogroup I,,Confirmed,Caterer;Religious facility,40.0,,,0.0,31,"soda, unspecified;ice",,Other,,,,Norovirus,Other
+2004,10,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,9.0,0.0,9.0,0.0,9,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2004,11,Connecticut,Food,Norovirus Genogroup I,,Confirmed,Camp,92.0,1.0,92.0,0.0,91,"tomato, unspecified",,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2004,11,Illinois,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,5.0,2.0,,0.0,,"eggs, other",,Eggs,,,,Salmonella,Eggs
+2004,11,Florida,Food,Salmonella enterica,unknown,Suspected,Caterer,26.0,,,,,"potato, unspecified",,Root/Underground,,,,Salmonella,Root/Underground
+2004,11,Florida,Food,Salmonella enterica,unknown,Suspected,Caterer,16.0,,,,,"potato, unspecified",,Root/Underground,,,,Salmonella,Root/Underground
+2004,11,New York,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,26.0,0.0,26.0,0.0,26,"sandwich, deli;lettuce-based salads unspecified",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2004,11,New Jersey,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Other,6.0,4.0,6.0,0.0,6,"lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2004,11,California,Food,Norovirus Genogroup I,,Suspected,Other,30.0,0.0,30.0,0.0,30,watermelon;honeydew melon;cantaloupe,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2004,11,Washington,Food,Norovirus Genogroup I,,Confirmed,Other,97.0,1.0,49.0,0.0,97,"unknown beverage;ice;condiment, unspecified",,Other,,,,Norovirus,Other
+2004,11,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,4.0,0.0,4.0,0.0,4,onions;multiple foods,Root (eg. potato),Root/Underground,,,,Norovirus,Root/Underground
+2004,11,California,Food,Salmonella enterica,Typhimurium,Confirmed,Grocery store/bakery/deli/convenience store;Other,12.0,1.0,12.0,1.0,12,"queso fresco, unpasteurized",milk,Dairy,,,,Salmonella,Dairy
+2004,12,Illinois,Food,Norovirus Genogroup I,,Confirmed,Other;Restaurant: Other,39.0,,,,,water,,Other,,,,Norovirus,Other
+2004,12,Wisconsin,Food,Norovirus Genogroup I,,Confirmed,Caterer,47.0,3.0,47.0,0.0,47,"corn, unspecified",,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2004,12,Oregon,Food,Norovirus Genogroup I,,Confirmed,Caterer,20.0,0.0,0.0,0.0,0,"green beans, unspecified",nuts,Nuts-seeds,,,,Norovirus,Nuts-seeds
+2004,12,Washington,Food,Norovirus unknown,,Suspected,Restaurant: Other,14.0,0.0,14.0,0.0,14,"cheese, pasteurized",,Dairy,,,,Norovirus,Dairy
+2004,12,Virginia,Food,Salmonella enterica;Salmonella enterica,Weltevreden,Confirmed;Confirmed,Other,63.0,,,,,"tuna, unspecified",,Fish,,,,Salmonella,Fish
+2005,1,Florida,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,7.0,1.0,6.0,0.0,6,"french-toast, unspecified;eggs, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2005,1,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,4.0,0.0,4.0,0.0,4,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,2,Pennsylvania,Food,Salmonella enterica,Typhimurium,Confirmed,Other,8.0,3.0,6.0,0.0,7,"carrots, unspecified",,Root/Underground,,,,Salmonella,Root/Underground
+2005,2,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,91.0,,,,,green leaf lettuce,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,3,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other;Caterer,30.0,0.0,0.0,0.0,0,"salad, unspecified",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,3,Oregon,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,9.0,0.0,9.0,0.0,9,sour cream,,Dairy,,,,Norovirus,Dairy
+2005,3,California,Food,Salmonella enterica,Heidelberg,Confirmed,Restaurant: Other,6.0,1.0,6.0,0.0,6,"pudding, chocolate",egg,Eggs,,,,Salmonella,Eggs
+2005,3,Pennsylvania,Food,Salmonella enterica,Chincol,Confirmed,Private home/residence,3.0,3.0,3.0,0.0,3,"eggs, raw",,Eggs,,,,Salmonella,Eggs
+2005,3,Virginia,Food,Salmonella enterica,Enteritidis,Confirmed,Correctional/detention facility,27.0,1.0,27.0,0.0,27,"eggs, other",egg,Eggs,,,,Salmonella,Eggs
+2005,3,California,Food,Norovirus Genogroup I,,Confirmed,,17.0,0.0,17.0,0.0,17,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2005,4,Georgia,Food,Salmonella enterica,Enteritidis,Confirmed,Other,38.0,2.0,38.0,0.0,38,"shell eggs, scrambled hard",egg,Eggs,,,,Salmonella,Eggs
+2005,4,Maryland,Food,Norovirus Genogroup II,unknown,Confirmed,Other,148.0,0.0,53.0,0.0,53,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2005,4,Virginia,Food,Norovirus unknown,,Suspected,Restaurant: Other,6.0,,,,,"salad, unspecified",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,5,California,Food,Norovirus Genogroup I,,Suspected,Private home/residence;Restaurant: Other,19.0,5.0,19.0,0.0,19,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,5,Multistate,Food,Salmonella enterica;Salmonella enterica,Saintpaul;Typhimurium,Confirmed;Confirmed,Other,157.0,,,,,"orange juice, unpasteurized",,Fruits,,,,Salmonella,Fruits
+2005,5,New York,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,18.0,0.0,18.0,0.0,18,caesar salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,5,New York,Food,Clostridium perfringens;Salmonella enterica;Salmonella enterica,Infantis;London,Confirmed;Confirmed;Confirmed,Restaurant: Other;Private home/residence,35.0,0.0,35.0,0.0,35,potato salad,Root (eg. potato),Root/Underground,,,,Salmonella,Root/Underground
+2005,6,California,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica,Brandenburg;Heidelberg;Saintpaul,Confirmed;Confirmed;Confirmed,Correctional/detention facility,157.0,1.0,157.0,0.0,157,"spread/filling, other",egg,Eggs,,,,Salmonella,Eggs
+2005,6,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,85.0,7.0,77.0,0.0,77,"salsa, unspecified",Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2005,6,Michigan,Food,Norovirus unknown,,Confirmed,Private home/residence;Grocery store/bakery/deli/convenience store;Other;School/college/university,31.0,0.0,31.0,0.0,31,unspecified beverage,,Other,,,,Norovirus,Other
+2005,6,Texas,Food,Listeria monocytogenes,,Confirmed,Other,12.0,12.0,12.0,0.0,12,"queso fresco, unpasteurized",,Dairy,,,,Listeria,Dairy
+2005,7,Ohio,Food,Norovirus Genogroup I,,Suspected,Private home/residence,10.0,1.0,10.0,0.0,10,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,7,Idaho,Food,Norovirus Genogroup I,,Confirmed,Camp,18.0,0.0,18.0,0.0,18,watermelon,,Fruits,,,,Norovirus,Fruits
+2005,7,California,Food,Salmonella enterica,,Confirmed,Restaurant: Other,12.0,2.0,12.0,0.0,12,"cake, tiramisu",egg,Eggs,,,,Salmonella,Eggs
+2005,7,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other,72.0,8.0,52.0,0.0,52,"Tomato, beefsteak",Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2005,7,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other;Private home/residence,23.0,5.0,23.0,0.0,23,"mayonnaise, homemade;eggs, other;crab cakes;cake, tiramisu",egg,Eggs,,,,Salmonella,Eggs
+2005,8,Georgia,Food,Norovirus Genogroup I,,Confirmed,Other,40.0,0.0,32.0,0.0,32,strawberries,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2005,8,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Caterer,21.0,0.0,21.0,0.0,21,"soda, unspecified",,Other,,,,Norovirus,Other
+2005,8,Utah,Food,Salmonella enterica,Enteritidis,Suspected,Private home/residence,7.0,0.0,1.0,0.0,1,"ice cream, homemade",egg,Eggs,,,,Salmonella,Eggs
+2005,9,North Carolina,Food,Norovirus unknown,,Confirmed,Other,15.0,0.0,14.0,0.0,14,"squash, unspecified",,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2005,9,Hawaii,Food,Salmonella enterica,Weltevreden,Confirmed,Private home/residence,7.0,2.0,7.0,0.0,7,"shrimp, raw",,Crustaceans,,,,Salmonella,Crustaceans
+2005,9,Colorado,Food,Norovirus Genogroup I,,Confirmed,Caterer,17.0,0.0,17.0,0.0,17,"tomato, unspecified",,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2005,9,Georgia,Food,Norovirus Genogroup I,,Confirmed,Private home/residence,22.0,0.0,22.0,0.0,22,"taco dip;grapes, unspecified","fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2005,9,Idaho,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,17.0,0.0,17.0,0.0,17,"refried beans, unspecified",rice,Grains-beans,,,,Norovirus,Grains-beans
+2005,9,California,Food,Salmonella enterica,Typhimurium,Suspected,Grocery store/bakery/deli/convenience store,12.0,2.0,12.0,0.0,12,"queso fresco, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2005,9,California,Food,Salmonella enterica,Typhimurium,Suspected,Unknown,3.0,0.0,3.0,0.0,3,"queso fresco, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2005,9,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,34.0,12.0,30.0,,,"lettuce, prepackaged",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2005,9,California,Food,Salmonella unknown,,Confirmed,Other,2.0,0.0,2.0,0.0,2,"queso fresco, unpasteurized",milk,Dairy,,,,Salmonella,Dairy
+2005,10,Washington,Food,Norovirus Genogroup I,,Confirmed,,49.0,0.0,49.0,0.0,49,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2005,10,Pennsylvania,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,19.0,0.0,12.0,0.0,12,"tomato, unspecified",,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2005,10,California,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,17.0,0.0,0.0,0.0,0,"shell eggs, scrambled soft",egg,Eggs,,,,Norovirus,Eggs
+2005,10,California,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,6.0,0.0,6.0,0.0,6,"eggs, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2005,10,Pennsylvania,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,11.0,0.0,0.0,0.0,11,"beef, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2005,11,Oregon,Food,Norovirus unknown,,Suspected,Private home/residence,12.0,0.0,12.0,0.0,12,"punch, unspecified",,Other,,,,Norovirus,Other
+2005,11,Ohio,Food,Norovirus Genogroup I,,Confirmed,School/college/university,14.0,0.0,14.0,0.0,14,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2005,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Other,18.0,5.0,18.0,0.0,3,"whole milk, unpasteurized",,Dairy,,,,E. coli,Dairy
+2005,11,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Other,84.0,8.0,19.0,0.0,38,roma tomato,Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2005,11,Massachusetts,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Other;Private home/residence,2.0,0.0,2.0,0.0,2,mung bean sprouts,,Sprouts,,,,Salmonella,Sprouts
+2005,12,California,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,4.0,,,,,"seafood dish, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2006,1,Connecticut,Food,Norovirus Genogroup II,unknown,Confirmed,Banquet Facility (food prepared and served on-site),59.0,0.0,52.0,0.0,52,ice,,Other,,,,Norovirus,Other
+2006,1,Wisconsin,Food,Norovirus Genogroup I,,Confirmed,Private home/residence;Caterer,14.0,0.0,14.0,0.0,14,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2006,1,Minnesota,Food,Norovirus Genogroup I,,Suspected,Unknown,16.0,0.0,16.0,0.0,16,unspecified fruit,,Fruits,,,,Norovirus,Fruits
+2006,1,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,113.0,23.0,112.0,0.0,113,"oil, unspecified;liver, chicken",egg,Eggs,,,,Salmonella,Eggs
+2006,1,Oregon,Food,Norovirus unknown,,Suspected,Restaurant: Other,8.0,0.0,8.0,0.0,8,"oysters, unspecified",,Mollusks,,,,Norovirus,Mollusks
+2006,1,California,Food,Norovirus Genogroup II,unknown,Confirmed,Religious facility;Caterer;Private home/residence,23.0,0.0,0.0,0.0,0,alcohol,,Other,,,,Norovirus,Other
+2006,1,North Carolina,Food,Norovirus unknown,,Confirmed,Restaurant: Other,42.0,,,,,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2006,1,Pennsylvania,Food,Salmonella enterica,Berta,Confirmed,Long-term care/nursing home/assisted living facility;Restaurant: Other;Hospital,16.0,4.0,16.0,0.0,16,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2006,2,Oregon,Food,Norovirus unknown,,Confirmed,Festival/fair;Restaurant: Other,6.0,0.0,5.0,0.0,5,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2006,2,Oregon,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Other,4.0,0.0,4.0,0.0,4,bean sprouts,sprouts,Sprouts,,,,Salmonella,Sprouts
+2006,3,Oregon,Food,Norovirus unknown,,Confirmed,Restaurant: Other,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2006,3,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,2.0,,,,,"lemonade, unspecified",,Fruits,,,,Norovirus,Fruits
+2006,3,Illinois,Food,Salmonella enterica;Salmonella enterica,Newport;Meleagridis,Confirmed;Confirmed,Unknown,96.0,36.0,93.0,0.0,94,"other cheese, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2006,3,California,Food,Salmonella enterica,Dublin,Confirmed,Other,4.0,4.0,4.0,0.0,4,Mexican Cheese (queso fresco and/or other),,Dairy,,,,Salmonella,Dairy
+2006,4,Rhode Island,Food,Norovirus unknown,,Confirmed,Banquet Facility (food prepared and served on-site),99.0,0.0,95.0,0.0,99,lettuce based salads,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2006,4,Illinois,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,23.0,0.0,23.0,0.0,23,ice,,Other,,,,Norovirus,Other
+2006,4,California,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,3.0,0.0,3.0,0.0,3,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2006,4,Washington,Food,Norovirus Genogroup I,,Suspected,Banquet Facility (food prepared and served on-site),43.0,,,,,"shrimp, steamed",,Crustaceans,,,,Norovirus,Crustaceans
+2006,4,California,Food,Norovirus Genogroup II,unknown,Confirmed,,21.0,,,,,"beans, unspecified",,Grains-beans,,,,Norovirus,Grains-beans
+2006,4,California,Food,Salmonella enterica,Heidelberg,Confirmed,Restaurant: Other,22.0,5.0,17.0,0.0,21,mayonnaise made with raw eggs,,Other,,,,Salmonella,Other
+2006,5,Idaho,Food,Norovirus unknown,,Confirmed,Restaurant: Other,24.0,0.0,24.0,0.0,24,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2006,5,Wisconsin,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,48.0,2.0,48.0,0.0,48,"broccoli, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2006,6,North Dakota,Food,Norovirus unknown,,Confirmed,Caterer;Restaurant: Other,37.0,0.0,29.0,0.0,29,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2006,6,Ohio,Food,Norovirus Genogroup I,,Confirmed,Other;Banquet Facility (food prepared and served on-site);Restaurant: Other,38.0,1.0,38.0,0.0,38,ice,,Other,,,,Norovirus,Other
+2006,6,Oregon,Food,Norovirus unknown,,Confirmed,Restaurant: Other,17.0,0.0,17.0,0.0,17,ice,,Other,,,,Norovirus,Other
+2006,6,California,Food,Norovirus unknown,,Suspected,Restaurant: Other,57.0,0.0,57.0,0.0,57,potato salad,Root (eg. potato),Root/Underground,,,,Norovirus,Root/Underground
+2006,6,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other,115.0,8.0,32.0,0.0,32,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2006,7,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,14.0,0.0,14.0,0.0,14,ice tea,,Other,,,,Norovirus,Other
+2006,7,Colorado,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,13.0,0.0,13.0,0.0,13,"fish, raw fish",Fin fish,Fish,,,,Norovirus,Fish
+2006,7,California,Food,Norovirus Genogroup II,unknown,Confirmed,Private home/residence,32.0,0.0,30.0,0.0,30,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2006,7,Georgia,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Other,3.0,1.0,3.0,0.0,3,Dosai,,Grains-beans,,,,Salmonella,Grains-beans
+2006,7,California,Food,Salmonella enterica,Heidelberg,Confirmed,Other,5.0,1.0,5.0,0.0,5,milkshake,egg,Eggs,,,,Salmonella,Eggs
+2006,7,Michigan,Food,Norovirus Genogroup I,unknown,Confirmed,Other,23.0,0.0,23.0,0.0,23,"salmon, smoked",,Fish,,,,Norovirus,Fish
+2006,7,California,Food,Norovirus unknown,,Confirmed,Grocery store/bakery/deli/convenience store,14.0,0.0,14.0,0.0,14,watermelon,,Fruits,,,,Norovirus,Fruits
+2006,7,Massachusetts,Food,"Escherichia coli, Shiga toxin-producing",O26,Confirmed,Other,5.0,1.0,4.0,0.0,4,strawberries;blueberries,,Fruits,,,,E. coli,Fruits
+2006,8,New York,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other,20.0,2.0,16.0,0.0,16,watermelon,"fruit, unspecified",Fruits,,,,Salmonella,Fruits
+2006,8,Oregon,Food,Listeria monocytogenes,,Confirmed,Other,3.0,2.0,2.0,1.0,2,"other cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2006,8,California,Food,Salmonella enterica,Newport,Confirmed,Religious facility,27.0,2.0,27.0,0.0,27,"potato, boiled",,Root/Underground,,,,Salmonella,Root/Underground
+2006,8,North Carolina,Food,Salmonella enterica,Bareilly,Confirmed,School/college/university,25.0,0.0,25.0,0.0,25,ice tea,,Other,,,,Salmonella,Other
+2006,8,California,Food,Norovirus unknown,,Suspected,Restaurant: Other,6.0,,,,,"rice;beans, unspecified",,Grains-beans,,,,Norovirus,Grains-beans
+2006,8,Pennsylvania,Food,Salmonella enterica,Typhimurium,Confirmed,Grocery store/bakery/deli/convenience store;Other,20.0,2.0,20.0,0.0,20,"Raw Milk;queso fresco, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2006,8,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Other,238.0,103.0,205.0,5.0,238,spinach,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2006,8,Multistate,Food,Salmonella enterica,Tennessee,Confirmed,Other,715.0,129.0,633.0,0.0,635,Peanut Butter,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2006,9,Washington,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,2.0,1.0,2.0,0.0,2,"whole milk, unpasteurized",,Dairy,,,,E. coli,Dairy
+2006,9,Maine,Food,Salmonella enterica,Typhimurium,Confirmed,,8.0,1.0,7.0,0.0,7,tomato (see fruit),,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2006,9,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,6.0,3.0,6.0,0.0,6,RAW COLOSTRUM;Raw Milk,,Dairy,,,,E. coli,Dairy
+2006,9,Arizona,Food,Salmonella enterica,Oranienburg,Confirmed,Restaurant: Other,59.0,,,0.0,59,hard ice tea,,Other,,,,Salmonella,Other
+2006,9,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Other;Private home/residence,192.0,24.0,109.0,0.0,109,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2006,10,South Carolina,Food,Salmonella enterica,Thompson,Confirmed,Festival/fair,100.0,3.0,23.0,0.0,23,peanuts,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2006,10,Washington,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,10.0,0.0,7.0,0.0,7,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2006,11,Idaho,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,4.0,0.0,4.0,0.0,4,"whole milk, unpasteurized",,Dairy,,,,E. coli,Dairy
+2006,11,Oregon,Food,Norovirus unknown,,Confirmed,Caterer,13.0,0.0,10.0,0.0,10,oysters,,Mollusks,,,,Norovirus,Mollusks
+2006,11,Tennessee,Food,Salmonella enterica,Javiana,Confirmed,Restaurant: Other,16.0,7.0,16.0,0.0,16,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2006,11,Washington,Food,Norovirus Genogroup I,,Suspected,Other,4.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2006,11,Arizona,Food,Salmonella enterica,Heidelberg,Confirmed,Private home/residence;Restaurant: Other,13.0,5.0,13.0,0.0,13,"eggs, over-easy",,Eggs,,,,Salmonella,Eggs
+2006,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Other,77.0,55.0,77.0,0.0,77,"lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2006,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Other,80.0,23.0,80.0,0.0,80,"lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2006,12,Connecticut,Food,Norovirus Genogroup II,unknown,Confirmed,Grocery store/bakery/deli/convenience store,11.0,0.0,11.0,0.0,11,"swiss cheese, pasteurized",,Dairy,,,,Norovirus,Dairy
+2006,12,Connecticut,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,7.0,0.0,7.0,0.0,7,coffee,,Other,,,,Norovirus,Other
+2006,12,California,Food,Norovirus unknown,,Suspected,Other,15.0,0.0,15.0,0.0,15,"beverage with ice, unspecified",,Other,,,,Norovirus,Other
+2006,12,Washington,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,46.0,0.0,42.0,0.0,42,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2006,12,Washington,Food,Norovirus Genogroup I,,Suspected,,4.0,0.0,4.0,0.0,4,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2006,12,Pennsylvania,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,13.0,0.0,13.0,0.0,13,"green beans, unspecified",,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2006,12,Florida,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,24.0,2.0,24.0,0.0,24,ice,,Other,,,,Norovirus,Other
+2007,1,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,81.0,9.0,81.0,0.0,81,"eggs, scrambled",egg,Eggs,,,,Salmonella,Eggs
+2007,1,New York,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,12.0,0.0,12.0,0.0,12,coleslaw,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2007,2,Multistate,Food,Norovirus Genogroup I,unknown,Confirmed,Banquet Facility (food prepared and served on-site);Restaurant: Other,40.0,0.0,35.0,0.0,35,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2007,2,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Other;Grocery store/bakery/deli/convenience store;Private home/residence,76.0,4.0,20.0,0.0,20,"spinach;lettuce, unspecified",leafy green,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2007,2,Indiana,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,15.0,6.0,15.0,0.0,15,"eggs, scrambled",,Eggs,,,,Salmonella,Eggs
+2007,2,California,Food,Salmonella enterica,Montevideo,Confirmed,Restaurant: Other;Private home/residence;Other,24.0,3.0,23.0,0.0,23,bean sprouts,,Sprouts,,,,Salmonella,Sprouts
+2007,2,Multistate,Food,Salmonella enterica,Senftenberg,Confirmed,Private home/residence,11.0,,,,,"basil, unspecified",leafy green,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2007,2,Multistate,Food,Salmonella enterica;Salmonella enterica,Typhimurium;Wandsworth,Confirmed;Confirmed,Other,87.0,8.0,67.0,0.0,87,"vegetable snack, commercially packed",Spices,Herbs,,,,Salmonella,Herbs
+2007,2,Tennessee,Food,Norovirus Genogroup I;Norovirus Genogroup II,unknown,Confirmed;Confirmed,Restaurant: Other,8.0,0.0,8.0,0.0,8,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2007,3,Washington,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,20.0,0.0,20.0,0.0,20,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2007,3,Hawaii,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Other,8.0,5.0,8.0,0.0,8,"mesclun mix, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2007,3,Kentucky,Food,Norovirus Genogroup II,unknown,Confirmed,Caterer,27.0,0.0,27.0,0.0,27,"sandwich, wrap",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2007,4,South Carolina,Food,Campylobacter jejuni;Salmonella enterica,Give,Confirmed;Confirmed,Other,11.0,4.0,11.0,0.0,11,Raw Milk,,Dairy,,,,Salmonella,Dairy
+2007,4,Multistate,Food,Salmonella enterica,Mbandaka,Confirmed,Private home/residence,15.0,,,0.0,15,alfalfa sprouts,sprouts,Sprouts,,,,Salmonella,Sprouts
+2007,5,New York,Food,Norovirus unknown,,Confirmed,Restaurant: Other,5.0,0.0,5.0,0.0,5,shrimp,crustacean,Crustaceans,,,,Norovirus,Crustaceans
+2007,5,Washington,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,2.0,1.0,2.0,0.0,2,chicken salad,Vine-stalk eg. tomato,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2007,5,Georgia,Food,Norovirus Genogroup I,unknown,Confirmed,Private home/residence,10.0,0.0,10.0,0.0,10,strawberries,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2007,5,Connecticut,Food,Norovirus Genogroup I,unknown,Confirmed,Restaurant: Other,7.0,0.0,7.0,0.0,7,tap water,water,Other,,,,Norovirus,Other
+2007,5,Wisconsin,Food,Norovirus Genogroup II,unknown,Confirmed,Caterer,13.0,0.0,13.0,0.0,13,"onion, unspecified",,Root/Underground,,,,Norovirus,Root/Underground
+2007,5,Florida,Food,Norovirus Genogroup I,,Suspected,Festival/fair,30.0,2.0,30.0,0.0,30,"lemonade, unspecified",,Fruits,,,,Norovirus,Fruits
+2007,5,California,Food,Salmonella enterica,Mbandaka,Confirmed,Other,20.0,,,,,bean sprouts,sprouts,Sprouts,,,,Salmonella,Sprouts
+2007,6,Maryland,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,94.0,1.0,94.0,0.0,94,tap water,,Other,,,,Norovirus,Other
+2007,6,California,Food,Norovirus unknown,,Suspected,Caterer,26.0,0.0,26.0,0.0,26,"grapes, unspecified",,Fruits,,,,Norovirus,Fruits
+2007,6,New Jersey,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,40.0,,,,,water;ice,,Other,,,,Norovirus,Other
+2007,6,Massachusetts,Food,Listeria monocytogenes,,Confirmed,Other,5.0,5.0,5.0,3.0,5,"skim milk, pasteurized;other milk, pasteurized",,Dairy,,,,Listeria,Dairy
+2007,6,Pennsylvania,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,13.0,1.0,11.0,0.0,11,Raw Milk;cheese,,Dairy,,,,Salmonella,Dairy
+2007,6,Multistate,Food,Salmonella enterica,Newport,Confirmed,Private home/residence;Restaurant: Other,65.0,11.0,65.0,0.0,65,"Tomato, beefsteak",Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2007,7,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Banquet Facility (food prepared and served on-site),9.0,0.0,9.0,0.0,9,oysters,,Mollusks,,,,Norovirus,Mollusks
+2007,7,Illinois,Food,Norovirus Genogroup I,unknown,Suspected,Restaurant: Other;Other;Private home/residence,26.0,,,,,ice water,,Other,,,,Norovirus,Other
+2007,7,Colorado,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,33.0,0.0,33.0,0.0,33,"tomato, unspecified",Vine-stalk eg. tomato,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2007,7,New York,Food,Salmonella enterica,Newport,Confirmed,Unknown,10.0,4.0,10.0,1.0,10,"tomato, unspecified",tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2007,7,Colorado,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O26;O121;O84,Confirmed;Confirmed;Confirmed,Correctional/detention facility,135.0,10.0,135.0,0.0,135,"margarine;american cheese, pasteurized",cheese,Dairy,,,,E. coli,Dairy
+2007,7,California,Food,Salmonella enterica,Infantis,Confirmed,Restaurant: Other,3.0,0.0,3.0,0.0,3,"BEANS, GARBANZO",,Grains-beans,,,,Salmonella,Grains-beans
+2007,8,New York,Food,Salmonella enterica,Enteritidis,Suspected,Restaurant: Other,5.0,0.0,5.0,0.0,5,caesar salad,egg,Eggs,,,,Salmonella,Eggs
+2007,8,Oregon,Food,Norovirus unknown,,Confirmed,Restaurant: Other,25.0,0.0,25.0,0.0,25,house salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2007,8,California,Food,Salmonella enterica,Enteritidis,Confirmed,,40.0,2.0,39.0,0.0,39,hollandaise sauce,egg,Eggs,,,,Salmonella,Eggs
+2007,8,Multistate,Food,Salmonella enterica,Paratyphi B,Confirmed,Other;Restaurant: Other;Grocery store/bakery/deli/convenience store,44.0,5.0,37.0,0.0,37,"fish, ahi",,Fish,,,,Salmonella,Fish
+2007,8,Multistate,Food,Salmonella enterica,Montevideo,Confirmed,Other,20.0,9.0,20.0,0.0,20,"Shredded Cheese, pasteurized",cheese,Dairy,,,,Salmonella,Dairy
+2007,10,Minnesota,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Other,23.0,1.0,23.0,0.0,23,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2007,10,Massachusetts,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,9.0,1.0,8.0,0.0,9,"apple cider, unpasteurized",,Fruits,,,,E. coli,Fruits
+2007,10,California,Food,Norovirus unknown,,Confirmed,Caterer,35.0,1.0,35.0,0.0,35,butter,,Dairy,,,,Norovirus,Dairy
+2007,11,New York,Food,Norovirus Genogroup I,,Confirmed,Caterer,14.0,0.0,14.0,0.0,14,chef salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2007,11,Oregon,Food,Norovirus Genogroup I,GI.1,Suspected,Caterer,25.0,1.0,25.0,0.0,25,"sandwich, turkey;sandwich, tuna fish;sandwich, ham;sandwich, beef",leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2007,11,Oregon,Food,Norovirus Genogroup II,unknown,Confirmed,School/college/university,17.0,0.0,17.0,0.0,17,"celery, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2007,11,Iowa,Food,Norovirus Genogroup I,,Confirmed,Other;Restaurant: Other,44.0,0.0,44.0,0.0,44,mixed fruit,"melon;fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2007,11,California,Food,Norovirus unknown,,Confirmed,Restaurant: Other,60.0,0.0,60.0,0.0,60,salad bar;fruit salad,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2007,12,Virginia,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,9.0,2.0,9.0,0.0,9,"lasagna, beef",egg,Eggs,,,,Salmonella,Eggs
+2007,12,Tennessee,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,8.0,0.0,8.0,0.0,8,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2007,12,Multistate,Food,Salmonella enterica,Montevideo,Confirmed,Other;Private home/residence,6.0,2.0,6.0,0.0,6,"multiple cheeses, pasteurized",cheese,Dairy,,,,Salmonella,Dairy
+2007,12,Multistate,Food,Salmonella enterica,Litchfield,Confirmed,Private home/residence;Restaurant: Other;Hospital,53.0,17.0,43.0,0.0,53,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2008,1,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Other,2.0,0.0,2.0,0.0,2,oysters,,Mollusks,,,,Norovirus,Mollusks
+2008,1,South Carolina,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,12.0,6.0,12.0,0.0,12,macaroni and cheese,egg,Eggs,,,,Salmonella,Eggs
+2008,1,Florida,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,23.0,0.0,23.0,0.0,23,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2008,1,Kansas,Food,Norovirus unknown,,Confirmed,Restaurant: Other,20.0,0.0,20.0,0.0,20,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2008,1,California,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,51.0,0.0,51.0,0.0,51,house salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2008,1,Multistate,Food,Salmonella enterica,Agona,Confirmed,,36.0,12.0,29.0,0.0,29,"cereal, puffed wheat;cereal, puffed rice",,Grains-beans,,,,Salmonella,Grains-beans
+2008,2,California,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,4.0,2.0,4.0,0.0,4,RAW COOKIE DOUGH,egg,Eggs,,,,Salmonella,Eggs
+2008,2,Washington,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,6.0,0.0,5.0,0.0,5,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2008,3,Minnesota,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,4.0,0.0,4.0,0.0,4,shrimp,,Crustaceans,,,,Norovirus,Crustaceans
+2008,3,Minnesota,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,5.0,0.0,5.0,0.0,5,"onion, unspecified",,Root/Underground,,,,Norovirus,Root/Underground
+2008,3,New York,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,15.0,1.0,15.0,0.0,15,"eggs, scrambled",,Eggs,,,,Norovirus,Eggs
+2008,3,Washington,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,20.0,0.0,20.0,0.0,20,green salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2008,3,Multistate,Food,Listeria monocytogenes,,Confirmed,Grocery store/bakery/deli/convenience store;Private home/residence,20.0,16.0,16.0,0.0,14,sprouts,,Sprouts,,,,Listeria,Sprouts
+2008,4,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Other,18.0,0.0,18.0,0.0,18,"beverage with ice, unspecified;water, unspecified",,Other,,,,Norovirus,Other
+2008,4,Wyoming,Food,Norovirus Genogroup II,unknown,Confirmed,Banquet Facility (food prepared and served on-site),23.0,1.0,23.0,0.0,23,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2008,4,Colorado,Food,Norovirus Genogroup I,,Confirmed,Caterer,16.0,0.0,15.0,0.0,15,"mushrooms, sauteed",,Fungi,,,,Norovirus,Fungi
+2008,4,Missouri,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,4.0,2.0,4.0,0.0,4,goat milk,,Dairy,,,,E. coli,Dairy
+2008,4,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,,,308.0,,2.0,"1,195","peppers, serrano;tomato, unspecified;peppers, jalapeno",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2008,4,New Jersey,Food,Salmonella enterica,Paratyphi B var. L(+) tartrate +,Confirmed,Other,70.0,0.0,70.0,0.0,70,cheddar cheese,,Dairy,,,,Salmonella,Dairy
+2008,5,Oregon,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,13.0,0.0,13.0,0.0,13,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2008,5,Colorado,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,5.0,0.0,5.0,0.0,5,"lime;lemon, unspecified",,Fruits,,,,Norovirus,Fruits
+2008,5,Colorado,Food,Norovirus Genogroup I,,Suspected,Restaurant: Other,5.0,0.0,5.0,0.0,5,tap water,water,Other,,,,Norovirus,Other
+2008,5,Washington,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,10.0,5.0,10.0,0.0,10,"lettuce, prepackaged",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2008,6,Virginia,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,6.0,0.0,6.0,0.0,6,"eggs, scrambled",,Eggs,,,,Salmonella,Eggs
+2008,6,Connecticut,Food,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,Private home/residence,14.0,5.0,14.0,0.0,14,Raw Milk,milk,Dairy,,,,E. coli,Dairy
+2008,7,New York,Food,Salmonella enterica,Panama,Confirmed,Private home/residence,17.0,1.0,6.0,0.0,17,fruit salad,"fruit, unspecified",Fruits,,,,Salmonella,Fruits
+2008,7,California,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Other;Other,17.0,0.0,16.0,0.0,17,"peppers, jalapeno",Vine-stalk eg. tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2008,7,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Unknown,24.0,,,,,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2008,8,Virginia,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,Barranquilla;Bovismorbificans;Braenderup;Javiana;Rubislaw;Thompson,Confirmed;Confirmed;Confirmed;Confirmed;Confirmed;Confirmed,Caterer,45.0,1.0,45.0,0.0,45,Hybrid Striped Bass,Fin fish,Fish,,,,Salmonella,Fish
+2008,8,Massachusetts,Food,Salmonella enterica,Barranquilla,Confirmed,Restaurant: Other,4.0,2.0,4.0,0.0,4,"tuna, raw;fish, bass",,Fish,,,,Salmonella,Fish
+2008,8,Colorado,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,3.0,1.0,2.0,0.0,2,watermelon;cantaloupe,,Fruits,,,,Salmonella,Fruits
+2008,8,Vermont,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,6.0,3.0,6.0,0.0,6,Raw Milk,milk,Dairy,,,,E. coli,Dairy
+2008,8,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,,13.0,0.0,9.0,0.0,13,spinach,leafy green,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2008,9,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,,714.0,166.0,714.0,9.0,714,Peanut Paste;Peanut Butter,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2008,9,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,,74.0,,,0.0,,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2008,10,Pennsylvania,Food,Norovirus unknown,,Confirmed,Other,125.0,0.0,11.0,0.0,11,ice,,Other,,,,Norovirus,Other
+2008,10,Iowa,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Festival/fair,5.0,2.0,5.0,0.0,5,"apple cider, unpasteurized",,Fruits,,,,E. coli,Fruits
+2008,10,Colorado,Food,Norovirus unknown,,Suspected,Restaurant: Other,5.0,0.0,5.0,0.0,5,shrimp salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2008,10,California,Food,Salmonella enterica,Javiana,Confirmed,Other,594.0,31.0,493.0,0.0,493,watermelon,melon,Fruits,,,,Salmonella,Fruits
+2008,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,8.0,8.0,8.0,0.0,8,"mexican style cheese, pasteurized",cheese,Dairy,,,,Listeria,Dairy
+2008,10,Multistate,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica,Montevideo;Newport;Senftenberg,Confirmed;Confirmed;Confirmed,,83.0,,0.0,0.0,,Pistachio,Pistachios,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2008,11,Florida,Food,Norovirus Genogroup II,unknown,Confirmed,School/college/university;Restaurant: Other,33.0,0.0,33.0,0.0,33,ice tea;ice,Water based (eg. Drink mix);water,Other,,,,Norovirus,Other
+2008,11,Multistate,Food,Salmonella enterica,Javiana,Confirmed,,10.0,,,,,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2008,12,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Banquet Facility (food prepared and served on-site),13.0,0.0,13.0,0.0,13,unspecified fruit,,Fruits,,,,Norovirus,Fruits
+2008,12,California,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,23.0,0.0,23.0,0.0,23,cantaloupe,,Fruits,,,,Norovirus,Fruits
+2008,12,California,Food,Salmonella enterica,Enteritidis,Confirmed,,15.0,3.0,15.0,0.0,15,hollandaise sauce,egg,Eggs,,,,Salmonella,Eggs
+2008,12,Pennsylvania,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,14.0,3.0,3.0,0.0,0,other food,egg,Eggs,,,,Salmonella,Eggs
+2008,12,California,Food,Norovirus unknown,,Confirmed,Banquet Facility (food prepared and served on-site),80.0,0.0,80.0,0.0,80,Asian Walnut Salad;mixed fruit,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2008,12,California,Food,Salmonella enterica,Heidelberg,Confirmed,Restaurant: Other,16.0,2.0,16.0,0.0,16,macaroni and cheese,egg,Eggs,,,,Salmonella,Eggs
+2008,12,Massachusetts,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,18.0,10.0,18.0,0.0,18,"eggnog, homemade",egg,Eggs,,,,Salmonella,Eggs
+2008,12,Florida,Food,Norovirus Genogroup I,GI.1,Confirmed,Restaurant: Other,3.0,0.0,,0.0,,ice,,Other,,,,Norovirus,Other
+2008,12,Multistate,Food,Salmonella enterica,Rissen,Confirmed,Long-term care/nursing home/assisted living facility;Restaurant: Other;Other,87.0,,,,,"White pepper, ground",,Herbs,,,,Salmonella,Herbs
+2009,1,Tennessee,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,22.0,4.0,22.0,0.0,22,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2009,1,Wisconsin,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,16.0,0.0,16.0,0.0,16,fruit,,Fruits,,,,Norovirus,Fruits
+2009,1,Connecticut,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,21.0,0.0,21.0,0.0,21,ice,,Other,,,,Norovirus,Other
+2009,1,Florida,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,3.0,,,,,"squid/calamari, unspecified",,Mollusks,,,,Norovirus,Mollusks
+2009,1,Colorado,Food,Norovirus,,Suspected,Restaurant: Fast-food (drive up service or pay at counter),10.0,1.0,10.0,0.0,10,"pizza, vegetable",mushrooms,Fungi,,,,Norovirus,Fungi
+2009,2,New York,Food,Norovirus unknown,,Confirmed,Caterer;Restaurant: Other,24.0,0.0,24.0,0.0,24,lettuce,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2009,2,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,Other,256.0,8.0,,,,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2009,2,Multistate,Food,Salmonella enterica,Carrau,Confirmed,Grocery store/bakery/deli/convenience store,53.0,4.0,,1.0,,melon,,Fruits,,,,Salmonella,Fruits
+2009,2,Multistate,Food,Salmonella enterica,Oranienburg,Confirmed,Other,25.0,,,,,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2009,3,Tennessee,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Sit-down dining,9.0,0.0,9.0,0.0,9,"oysters, raw",oysters,Mollusks,,,,Norovirus,Mollusks
+2009,3,California,Food,Norovirus Genogroup II,,Suspected,Restaurant: Other,9.0,0.0,8.0,0.0,8,tomatoes;Salads,tomato,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2009,3,Colorado,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,43.0,10.0,43.0,0.0,43,Green Chile,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2009,4,New Hampshire,Food,Salmonella enterica,Enteritidis,Confirmed,Other,45.0,1.0,39.0,0.0,39,Salads,egg,Eggs,,,,Salmonella,Eggs
+2009,4,Minnesota,Food,Salmonella enterica,Cubana,Confirmed,Other,2.0,0.0,2.0,0.0,2,"sprouts, unspecified",,Sprouts,,,,Salmonella,Sprouts
+2009,5,Michigan,Food,Salmonella enterica,Saintpaul,Confirmed,Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter),21.0,7.0,21.0,0.0,21,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2009,6,Connecticut,Food,Norovirus,,Suspected,Other,10.0,0.0,10.0,0.0,10,"orange juice, pasteurized",,Fruits,,,,Norovirus,Fruits
+2009,6,Multistate,Food,Salmonella enterica,Muenchen,Confirmed,Private home/residence,14.0,,,0.0,14,blueberries,blueberries,Fruits,,,,Salmonella,Fruits
+2009,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,8.0,3.0,3.0,0.0,3,"mexican style cheese, pasteurized",Mexican style cheese,Dairy,,,,Listeria,Dairy
+2009,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,18.0,11.0,11.0,0.0,7,Mexican-Style Cheese,,Dairy,,,,Listeria,Dairy
+2009,7,Oregon,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining;Other,31.0,1.0,31.0,0.0,31,Mixed green salad,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2009,7,New Hampshire,Food,Norovirus Genogroup II,,Suspected,Camp,31.0,1.0,31.0,0.0,31,carrots,carrots,Root/Underground,,,,Norovirus,Root/Underground
+2009,7,Oregon,Food,Salmonella enterica,Enteritidis,Confirmed,Camp,59.0,0.0,59.0,0.0,59,scrambled eggs,egg,Eggs,,,,Salmonella,Eggs
+2009,7,Virginia,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,19.0,2.0,19.0,0.0,19,lasagna,egg,Eggs,,,,Salmonella,Eggs
+2009,7,Washington,Food,Salmonella enterica,Enteritidis,Confirmed,Camp,62.0,0.0,62.0,0.0,62,"eggs, scrambled",,Eggs,,,,Salmonella,Eggs
+2009,7,Multistate,Food,Salmonella enterica,Montevideo,Confirmed,Other,272.0,52.0,,0.0,,salami,"pepper, ground",Herbs,,,,Salmonella,Herbs
+2009,7,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Grocery store/bakery/deli/convenience store,145.0,1.0,,,,shredded lettuce,iceberg lettuce,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2009,7,Multistate,Food,Salmonella enterica,Javiana,Confirmed,,9.0,,,,,green onion/scallion,,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2009,8,Michigan,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),14.0,2.0,14.0,0.0,14,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2009,8,California,Food,Salmonella enterica,Heidelberg,Confirmed,Other,16.0,0.0,16.0,0.0,16,"salmon, unspecified",,Fish,,,,Salmonella,Fish
+2009,8,Colorado,Food,Salmonella enterica,Typhimurium,Confirmed,Caterer,27.0,1.0,27.0,0.0,27,"iceberg lettuce, unspecified",lettuce,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2009,8,Florida,Food,Salmonella unknown,,Confirmed,Private home/residence,7.0,6.0,7.0,0.0,7,red snapper,fish,Fish,,,,Salmonella,Fish
+2009,8,Arizona,Food,Salmonella enterica,Newport,Confirmed,,7.0,2.0,5.0,0.0,7,"peppers, jalapeno",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2009,9,Pennsylvania,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,12.0,0.0,4.0,0.0,4,hollandaise sauce,egg,Eggs,,,,Salmonella,Eggs
+2009,9,Washington,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O121;O157:H7,Confirmed;Suspected,,3.0,0.0,3.0,0.0,3,"milk, whole milk unpasteurized",,Dairy,,,,E. coli,Dairy
+2009,9,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,tomatoes,,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2009,9,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),22.0,,,,,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2009,9,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,,10.0,0.0,10.0,0.0,10,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2009,10,New York,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,caesar dressing,egg,Eggs,,,,Salmonella,Eggs
+2009,11,Minnesota,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,29.0,0.0,29.0,0.0,29,fruit,,Fruits,,,,Norovirus,Fruits
+2009,11,South Carolina,Food,Norovirus Genogroup II,,Confirmed,Private home/residence,8.0,0.0,8.0,0.0,8,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2009,11,South Carolina,Food,Norovirus Genogroup II,,Confirmed,Private home/residence,6.0,0.0,5.0,0.0,5,oysters,,Mollusks,,,,Norovirus,Mollusks
+2009,11,California,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,4.0,1.0,4.0,0.0,4,"vegetable-based salads;mayonnaise, homemade;homemade tartar sauce",egg,Eggs,,,,Salmonella,Eggs
+2009,11,New Jersey,Food,Norovirus,,Confirmed,Restaurant: Sit-down dining,31.0,,,0.0,31,sangria,,Other,,,,Norovirus,Other
+2009,12,Wisconsin,Food,Norovirus Genogroup II,,Confirmed,Caterer,16.0,0.0,16.0,0.0,16,leaf lettuce,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2010,1,New York,Food,Norovirus,,Confirmed,Restaurant: Other,30.0,2.0,30.0,0.0,30,Egg salad;tuna salad;Salads,leafy green;leaf lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2010,1,New York,Food,Norovirus,,Confirmed,Office/indoor workplace,45.0,2.0,45.0,0.0,45,green salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2010,1,Texas,Food,Listeria monocytogenes,,Confirmed,,10.0,10.0,10.0,5.0,10,"celery, unspecified",,Vegetable Row Crops,,,,Listeria,Vegetable Row Crops
+2010,1,Multistate,Food,Salmonella enterica,Paratyphi B,Confirmed,,51.0,,,,,"fish, ahi",,Fish,,,,Salmonella,Fish
+2010,2,Tennessee,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,3.0,0.0,3.0,0.0,3,"milk, whole milk unpasteurized",,Dairy,,,,E. coli,Dairy
+2010,2,Missouri,Food,Norovirus Genogroup II,,Confirmed,Banquet Facility (food prepared and served on-site),139.0,1.0,139.0,0.0,139,fruit salad,pineapple;melon;grapes,Fruits,,,,Norovirus,Fruits
+2010,2,Oregon,Food,Norovirus Genogroup I,GI.2,Confirmed,Private home/residence;Restaurant: Sit-down dining,16.0,0.0,16.0,0.0,16,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2010,2,Oregon,Food,Norovirus Genogroup II,GII.12,Confirmed,Restaurant: Sit-down dining,23.0,0.0,23.0,0.0,23,lettuce,leaf lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2010,2,Washington,Food,"Escherichia coli, Shiga toxin-producing",O26:H11,Confirmed,Other,6.0,0.0,4.0,0.0,6,"milk, whole milk unpasteurized",,Dairy,,,,E. coli,Dairy
+2010,2,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Caterer;Private home/residence;Restaurant: Sit-down dining;Banquet Facility (food prepared and served on-site);Restaurant: Other,,,,,,"shell egg, other",egg,Eggs,,,,Salmonella,Eggs
+2010,3,Pennsylvania,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,5.0,1.0,5.0,0.0,5,fish taco,fish,Fish,,,,Norovirus,Fish
+2010,3,Florida,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,25.0,0.0,25.0,0.0,25,"leaf lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2010,3,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,6.0,4.0,6.0,1.0,5,"mexican style cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2010,3,Multistate,Food,Salmonella enterica,Newport,Confirmed,,44.0,,,,,alfalfa sprouts,alfalfa sprout seeds,Sprouts,,,,Salmonella,Sprouts
+2010,3,Mississippi,Food,Norovirus Genogroup II,,Confirmed,Banquet Facility (food prepared and served on-site),11.0,0.0,11.0,0.0,11,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2010,4,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,8.0,1.0,8.0,0.0,8,rice,rice,Grains-beans,,,,Norovirus,Grains-beans
+2010,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O145,Confirmed,School/college/university;Festival/fair;Restaurant: Fast-food (drive up service or pay at counter),31.0,14.0,31.0,0.0,31,"romaine lettuce, unspecified",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2010,4,Multistate,Food,Salmonella enterica,Typhi,Confirmed,Restaurant: Other;Private home/residence;Grocery store/bakery/deli/convenience store,12.0,9.0,,0.0,,mamey shake,mamey fruit,Fruits,,,,Salmonella,Fruits
+2010,4,Idaho,Food,Norovirus Genogroup I,,Suspected,Restaurant: Sit-down dining,7.0,0.0,4.0,0.0,4,"ground beef, hamburger;green salad;sandwich, fish-based",lettuce;romaine lettuce;leaf lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2010,5,Pennsylvania,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining;Banquet Facility (food prepared and served on-site),37.0,5.0,37.0,0.0,37,"soup, speciality, other;lasagna, beef",egg,Eggs,,,,Salmonella,Eggs
+2010,5,Minnesota,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,8.0,5.0,8.0,0.0,8,Dairy,,Dairy,,,,E. coli,Dairy
+2010,5,Washington,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,2.0,1.0,2.0,0.0,2,"milk, whole milk unpasteurized",,Dairy,,,,E. coli,Dairy
+2010,5,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Sit-down dining;Grocery store/bakery/deli/convenience store,64.0,,,,,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2010,6,Iowa,Food,Salmonella enterica,Enteritidis,Confirmed,,4.0,0.0,4.0,0.0,4,"eggs, unspecified",,Eggs,,,,Salmonella,Eggs
+2010,6,Colorado,Food,Norovirus,,Confirmed,Caterer,12.0,0.0,12.0,0.0,12,"Pre-Packaged Nuts;cake, chocolate","nuts, almonds;nuts",Nuts-seeds,,,,Norovirus,Nuts-seeds
+2010,6,Colorado,Food,"Campylobacter jejuni;Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed;Confirmed,Other,30.0,2.0,30.0,0.0,30,"goat milk, unpasteurized","goat milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2010,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,34.0,32.0,34.0,4.0,31,"cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2010,7,Minnesota,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other,6.0,1.0,6.0,0.0,6,blueberries,,Fruits,,,,Salmonella,Fruits
+2010,7,Michigan,Food,Salmonella enterica,Saintpaul,Confirmed,Private home/residence;Grocery store/bakery/deli/convenience store,17.0,11.0,17.0,0.0,17,watermelon,,Fruits,,,,Salmonella,Fruits
+2010,7,Colorado,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,29.0,4.0,29.0,0.0,29,Rattlesnake Cake,egg,Eggs,,,,Salmonella,Eggs
+2010,7,Colorado,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"eggs, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2010,7,Multistate,Food,Salmonella enterica,Javiana,Confirmed,Grocery store/bakery/deli/convenience store;Restaurant: Fast-food (drive up service or pay at counter),30.0,8.0,,,,tomatoes,tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2010,7,District of Columbia,Food,Salmonella enterica,Newport,Confirmed,,24.0,,,,,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2010,8,Illinois,Food,Norovirus Genogroup II,,Confirmed,Other,7.0,1.0,7.0,0.0,7,lettuce,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2010,8,Alaska,Food,Salmonella enterica,Thompson,Confirmed,Restaurant: Sit-down dining,7.0,2.0,7.0,0.0,7,hollandaise sauce,egg,Eggs,,,,Salmonella,Eggs
+2010,8,Michigan,Food,Salmonella enterica,Javiana,Confirmed,Long-term care/nursing home/assisted living facility,41.0,5.0,41.0,0.0,41,potato salad,yellow onion,Root/Underground,,,,Salmonella,Root/Underground
+2010,9,Multistate,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O157:H7;O157:NM (H-),Confirmed;Confirmed,Grocery store/bakery/deli/convenience store;Banquet Facility (food prepared and served on-site);Other;Restaurant: Sit-down dining,8.0,,,,,"multiple cheeses, unpasteurized",,Dairy,,,,E. coli,Dairy
+2010,10,Maryland,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,7.0,4.0,7.0,0.0,7,"apple cider, unpasteurized",,Fruits,,,,E. coli,Fruits
+2010,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Grocery store/bakery/deli/convenience store,38.0,15.0,,0.0,,Gouda cheese (unpasteurized milk),"milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2010,10,Florida,Food,Salmonella unknown,,Confirmed,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"pastry, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2010,10,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,29.0,0.0,29.0,0.0,29,water;ice;Beverages,,Other,,,,Norovirus,Other
+2010,11,Multistate,Food,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,Restaurant: Fast-food (drive up service or pay at counter),140.0,31.0,,0.0,,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2010,12,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Caterer,15.0,0.0,15.0,0.0,15,fruit,,Fruits,,,,Norovirus,Fruits
+2010,12,Ohio,Food,Norovirus Genogroup II,GII.4 New Orleans,Confirmed,Restaurant: Sit-down dining,11.0,0.0,0.0,0.0,0,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2010,12,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,10.0,0.0,10.0,0.0,10,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2010,12,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Grocery store/bakery/deli/convenience store,9.0,,,,,clover sprouts,clover sprouts,Sprouts,,,,Salmonella,Sprouts
+2010,12,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,8.0,3.0,,0.0,,"nuts, hazelnuts",,Nuts-seeds,,,,E. coli,Nuts-seeds
+2010,12,Multistate,Food,Salmonella enterica,Cubana,Confirmed,Restaurant: Other,3.0,,,,,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2011,1,Colorado,Food,Norovirus unknown,,Confirmed,Grocery store/bakery/deli/convenience store,8.0,1.0,8.0,0.0,8,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2011,1,California,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,37.0,7.0,34.0,0.0,37,"queso fresco, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2011,1,Maryland,Food,Norovirus Genogroup II,GII.4 untypeable,Confirmed,Caterer,93.0,0.0,93.0,0.0,93,"salad, unspecified;lettuce",leaf lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2011,1,Multistate,Food,Salmonella enterica,Agona,Confirmed,Private home/residence,106.0,10.0,104.0,0.0,104,papaya,,Fruits,,,,Salmonella,Fruits
+2011,2,Florida,Food,Norovirus unknown,,Suspected,Festival/fair,7.0,0.0,7.0,0.0,7,"oysters, raw",oysters,Mollusks,,,,Norovirus,Mollusks
+2011,2,Georgia,Food,Norovirus Genogroup II,,Confirmed,Office/indoor workplace,207.0,1.0,207.0,0.0,207,"juice, unspecified",,Fruits,,,,Norovirus,Fruits
+2011,2,California,Food,Norovirus unknown,,Confirmed,Restaurant: Other,27.0,0.0,27.0,0.0,27,"salsa;cilantro, unspecified",cilantro,Herbs,,,,Norovirus,Herbs
+2011,2,Multistate,Food,Salmonella enterica,Panama,Confirmed,Private home/residence,20.0,3.0,14.0,0.0,14,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2011,2,Minnesota,Food,Norovirus,,Confirmed,Other,16.0,0.0,16.0,0.0,16,"sandwich, submarine","tomato;peppers, green",Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2011,3,Florida,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,78.0,3.0,78.0,0.0,78,shredded lettuce,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2011,3,Georgia,Food,Salmonella enterica,Saintpaul,Confirmed,Restaurant: Other;Restaurant: Fast-food (drive up service or pay at counter);Private home/residence;Restaurant: Sit-down dining,14.0,2.0,14.0,0.0,14,"tomato, unspecified;cucumber",tomato;cucumber,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2011,4,Michigan,Food,Salmonella enterica,Muenchen,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),7.0,4.0,7.0,0.0,7,clover sprouts,clover sprouts,Sprouts,,,,Salmonella,Sprouts
+2011,4,Georgia,Food,Norovirus Genogroup II,,Confirmed,Banquet Facility (food prepared and served on-site),22.0,0.0,22.0,0.0,22,"pineapple, unspecified;cantaloupe",pineapple;cantaloupe,Fruits,,,,Norovirus,Fruits
+2011,4,Minnesota,Food,Norovirus,,Confirmed,Restaurant: Sit-down dining;Banquet Facility (food prepared and served on-site),61.0,0.0,61.0,0.0,61,fruit,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2011,4,Alabama,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),21.0,2.0,21.0,0.0,21,lettuce,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2011,4,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,,27.0,3.0,27.0,0.0,27,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2011,4,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),166.0,0.0,166.0,0.0,166,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2011,5,Florida,Food,Salmonella enterica,Braenderup,Confirmed,Private home/residence,3.0,0.0,3.0,0.0,3,"avocado, unspecified",avocado,Fruits,,,,Salmonella,Fruits
+2011,6,Multistate,Food,Salmonella enterica,Uganda,Confirmed,,25.0,4.0,25.0,0.0,25,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2011,6,Georgia,Food,Norovirus Genogroup II,,Confirmed,Religious facility,80.0,2.0,53.0,0.0,80,"lemonade, unspecified",,Fruits,,,,Norovirus,Fruits
+2011,6,Oregon,Food,Salmonella enterica,Typhimurium,Confirmed,Child daycare/preschool;Private home/residence,6.0,0.0,,,,Cantaloupe & Strawberry mix,,Fruits,,,,Salmonella,Fruits
+2011,7,Minnesota,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,6.0,1.0,6.0,0.0,6,fruit,watermelon;strawberries,Fruits,,,,E. coli,Fruits
+2011,7,Oregon,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,15.0,7.0,15.0,2.0,15,strawberries,,Fruits,,,,E. coli,Fruits
+2011,7,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,147.0,143.0,144.0,33.0,144,cantaloupe,cantaloupe,Fruits,,,,Listeria,Fruits
+2011,7,New York,Food,Salmonella enterica,Newport,Confirmed,Unknown,10.0,3.0,10.0,0.0,10,tomatoes,tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2011,7,New Jersey,Food,Listeria monocytogenes,,Confirmed,Private home/residence,2.0,2.0,2.0,0.0,2,"mexican style cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2011,8,Kansas,Food,Salmonella enterica,Agona,Confirmed,Unknown,7.0,1.0,7.0,0.0,7,sprouts,sprouts,Sprouts,,,,Salmonella,Sprouts
+2011,8,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,8.0,3.0,8.0,0.0,8,"eggs, other",egg,Eggs,,,,Salmonella,Eggs
+2011,8,Washington,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,3.0,3.0,3.0,0.0,3,milk,,Dairy,,,,E. coli,Dairy
+2011,8,Michigan,Food,Listeria monocytogenes,,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Private home/residence,2.0,2.0,2.0,1.0,2,"chives cheese, pasteurized;ackawi cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2011,8,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,5.0,3.0,5.0,0.0,5,Raw Milk,,Dairy,,,,E. coli,Dairy
+2011,8,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,,53.0,2.0,53.0,0.0,53,Turkish Pine Nuts,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2011,8,Minnesota,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,15.0,2.0,15.0,0.0,15,watermelon,watermelon,Fruits,,,,Salmonella,Fruits
+2011,9,Multistate,Food,Salmonella enterica,Bovismorbificans,Confirmed,Restaurant: Sit-down dining,23.0,0.0,23.0,0.0,23,hummus,tahini,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2011,9,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Other,29.0,0.0,29.0,0.0,29,ice,ice,Other,,,,Norovirus,Other
+2011,10,Minnesota,Food,"Cryptosporidium parvum;Escherichia coli, Shiga toxin-producing",O111:NM,Confirmed;Confirmed,Other,14.0,0.0,14.0,0.0,14,"apple cider, unpasteurized",apple,Fruits,,,,E. coli,Fruits
+2011,10,Nevada,Food,Norovirus Genogroup II,GII.4 Apeldoorn,Confirmed,,8.0,0.0,8.0,0.0,8,water;alcohol,lime;lemon,Fruits,,,,Norovirus,Fruits
+2011,10,California,Food,Norovirus unknown,,Suspected,Caterer,25.0,0.0,25.0,0.0,25,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2011,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Grocery store/bakery/deli/convenience store;School/college/university,60.0,35.0,52.0,0.0,52,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2011,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,26.0,5.0,17.0,0.0,26,lettuce,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2011,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Banquet Facility (food prepared and served on-site),15.0,1.0,15.0,1.0,15,"blue-veined cheese, unpasteurized",,Dairy,,,,Listeria,Dairy
+2011,11,Pennsylvania,Food,Norovirus Genogroup I,,Suspected,Restaurant: Sit-down dining,9.0,0.0,1.0,0.0,1,"oysters, raw",oysters,Mollusks,,,,Norovirus,Mollusks
+2011,12,Michigan,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining,22.0,4.0,19.0,0.0,19,"pizza, tostada;sandwich, submarine",lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2011,12,Wisconsin,Food,Norovirus Genogroup II,GII.4 New Orleans,Confirmed,Long-term care/nursing home/assisted living facility,14.0,1.0,14.0,0.0,14,"fruit punch, unspecified",,Other,,,,Norovirus,Other
+2011,12,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining;Private home/residence,17.0,0.0,17.0,0.0,17,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2011,12,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O26,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),29.0,7.0,18.0,0.0,18,clover sprouts,,Sprouts,,,,E. coli,Sprouts
+2011,12,Oregon,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,9.0,0.0,9.0,0.0,9,menu items w/ lettuce,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,1,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,7.0,0.0,7.0,0.0,7,Swiss Meringue Butter Cream,egg,Eggs,,,,Salmonella,Eggs
+2012,1,Maryland,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,8.0,7.0,8.0,0.0,8,"pie, merengue",egg,Eggs,,,,Salmonella,Eggs
+2012,1,Ohio,Food,Norovirus Genogroup II,GII.4 New Orleans,Suspected,Caterer,6.0,0.0,6.0,0.0,6,fruit salad,strawberries;pineapple;grapes;blueberries,Fruits,,,,Norovirus,Fruits
+2012,1,Florida,Food,Salmonella unknown,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"beans, unspecified",beans,Grains-beans,,,,Salmonella,Grains-beans
+2012,1,Multistate,Food,Salmonella enterica;Salmonella enterica,Bareilly;Nchanga,Confirmed;Confirmed,Restaurant: Sit-down dining;School/college/university;Restaurant: Fast-food (drive up service or pay at counter),425.0,55.0,326.0,0.0,425,tuna sushi,tuna,Fish,,,,Salmonella,Fish
+2012,2,Florida,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"potato, baked",,Root/Underground,,,,Norovirus,Root/Underground
+2012,2,North Carolina,Food,Salmonella enterica,Paratyphi B,Confirmed,Other,89.0,8.0,89.0,0.0,89,"Tempeh, unpasteurized",,Grains-beans,,,,Salmonella,Grains-beans
+2012,2,Multistate,Food,Salmonella enterica,Javiana,Confirmed,,49.0,14.0,40.0,0.0,49,cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2012,2,Virginia,Food,Norovirus,,Confirmed,School/college/university,20.0,0.0,20.0,0.0,20,fruit salad,strawberries,Fruits,,,,Norovirus,Fruits
+2012,2,Ohio,Food,Norovirus Genogroup II,GII.4 New Orleans,Confirmed,Restaurant: Other,29.0,1.0,29.0,0.0,29,ice,water,Other,,,,Norovirus,Other
+2012,3,Multistate,Food,Listeria monocytogenes,,Confirmed,Other;Grocery store/bakery/deli/convenience store,23.0,21.0,23.0,5.0,23,ricotta salata cheese,,Dairy,,,,Listeria,Dairy
+2012,3,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,School/college/university,24.0,,0.0,,0,leaf lettuce,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,3,Minnesota,Food,Norovirus other,,Confirmed,Restaurant: Sit-down dining,9.0,0.0,9.0,0.0,9,"lettuce, unspecified",leaf lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,4,Ohio,Food,Norovirus Genogroup I,GI.7,Confirmed,Caterer,29.0,0.0,29.0,0.0,29,Mesclun Mix and spinach,spinach;mesclun mix;lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,16.0,4.0,16.0,0.0,16,milk,raw milk,Dairy,,,,E. coli,Dairy
+2012,4,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,hollandaise sauce,egg,Eggs,,,,Salmonella,Eggs
+2012,4,Maryland,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,crab cakes,egg,Eggs,,,,Salmonella,Eggs
+2012,4,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining,12.0,1.0,12.0,0.0,12,vegetable-based salads unspecified,lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,5,Connecticut,Food,Salmonella enterica,Enteritidis,Confirmed,Long-term care/nursing home/assisted living facility,20.0,3.0,20.0,1.0,20,Eggs,,Eggs,,,,Salmonella,Eggs
+2012,5,New York,Food,Salmonella enterica,Javiana,Confirmed,Other,7.0,5.0,7.0,0.0,7,mixed fruit,"fruit, unspecified",Fruits,,,,Salmonella,Fruits
+2012,5,Florida,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,"romaine lettuce, unspecified",leaf lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,6,Pennsylvania,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Sit-down dining;Caterer,102.0,36.0,71.0,0.0,71,"tomato, unspecified",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2012,6,Tennessee,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,12.0,1.0,8.0,0.0,8,Eggs,,Eggs,,,,Salmonella,Eggs
+2012,6,Multistate,Food,Salmonella enterica,Bredeney,Confirmed,Private home/residence,42.0,10.0,36.0,0.0,42,Peanut Butter,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2012,6,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,,52.0,,,,,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,7,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,Eggs,egg,Eggs,,,,Salmonella,Eggs
+2012,7,California,Food,Salmonella enterica,Thompson,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),13.0,0.0,13.0,0.0,13,pinto beans,,Grains-beans,,,,Salmonella,Grains-beans
+2012,7,Colorado,Food,"Escherichia coli, Shiga toxin-producing",O111:NM,Confirmed,Private home/residence,2.0,0.0,2.0,0.0,2,Raw Milk,milk,Dairy,,,,E. coli,Dairy
+2012,7,Multistate,Food,Salmonella enterica;Salmonella enterica,Newport;Typhimurium,Confirmed;Confirmed,Private home/residence,261.0,94.0,261.0,3.0,261,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2012,7,Multistate,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,24.0,5.0,15.0,0.0,15,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2012,7,Multistate,Food,Salmonella enterica,Cubana,Confirmed,Private home/residence,19.0,0.0,19.0,0.0,19,sprouts,sprouts,Sprouts,,,,Salmonella,Sprouts
+2012,7,Multistate,Food,Salmonella enterica;Salmonella enterica,Braenderup;Worthington,Confirmed;Confirmed,Private home/residence,129.0,33.0,101.0,0.0,103,"mango, unspecified",,Fruits,,,,Salmonella,Fruits
+2012,7,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Unknown,14.0,1.0,6.0,0.0,7,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2012,8,Minnesota,Food,Norovirus Genogroup II,,Suspected,Restaurant: Sit-down dining,8.0,0.0,8.0,0.0,8,potatoes,,Root/Underground,,,,Norovirus,Root/Underground
+2012,9,Ohio,Food,Norovirus Genogroup II,GII.1,Confirmed,Banquet Facility (food prepared and served on-site),37.0,2.0,10.0,0.0,10,"iceberg lettuce, unspecified",lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,9,Minnesota,Food,Norovirus,,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),13.0,0.0,13.0,0.0,13,"cheese, unspecified","cheese, unspecified",Dairy,,,,Norovirus,Dairy
+2012,9,Oregon,Food,Norovirus Genogroup II,GII.4 New Orleans,Confirmed,Long-term care/nursing home/assisted living facility,25.0,0.0,25.0,0.0,25,lettuce,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,9,Pennsylvania,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining,9.0,7.0,9.0,0.0,9,Salads,romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,9,Florida,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,ice,ice,Other,,,,Norovirus,Other
+2012,10,Michigan,Food,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,Private home/residence,3.0,0.0,3.0,0.0,3,"apple cider, unpasteurized",apple,Fruits,,,,E. coli,Fruits
+2012,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,33.0,13.0,28.0,0.0,33,prepackaged leafy greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O145,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),16.0,6.0,16.0,0.0,16,lettuce,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,11,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Caterer,24.0,0.0,24.0,0.0,24,Salads;asparagus,asparagus,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,11,Florida,Food,Norovirus Genogroup I;Norovirus Genogroup II,GI.9; GII.4 Sydney,Confirmed;Confirmed,Restaurant: Sit-down dining,21.0,0.0,21.0,0.0,21,"iceberg lettuce, unspecified",lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,11,Massachusetts,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,School/college/university,8.0,4.0,8.0,0.0,8,"leaf lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,Private home/residence,10.0,,0.0,0.0,5,"spinach, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2012,12,Ohio,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Banquet Facility (food prepared and served on-site),49.0,0.0,0.0,0.0,0,fruit,,Fruits,,,,Norovirus,Fruits
+2012,12,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2012,12,Louisiana,Food,Norovirus Genogroup II,unknown,Suspected,Private home/residence,12.0,0.0,12.0,0.0,12,oysters,,Mollusks,,,,Norovirus,Mollusks
+2012,12,Colorado,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,27.0,0.0,27.0,0.0,27,"eggs, scrambled",egg,Eggs,,,,Norovirus,Eggs
+2012,12,Multistate,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,15.0,1.0,1.0,0.0,15,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2013,1,Ohio,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Restaurant: Sit-down dining,10.0,0.0,10.0,0.0,10,"rice;refried beans, unspecified",rice;beans,Grains-beans,,,,Norovirus,Grains-beans
+2013,1,Connecticut,Food,Campylobacter jejuni;Salmonella enterica,Mbandaka,Confirmed;Confirmed,Other,7.0,1.0,7.0,0.0,7,"milk, whole milk unpasteurized","milk, whole milk unpasteurized",Dairy,,,,Salmonella,Dairy
+2013,1,Michigan,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Sit-down dining,14.0,1.0,14.0,0.0,14,"sandwich, unspecified;salad, unspecified",tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2013,1,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,Private home/residence,84.0,17.0,60.0,0.0,0,cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2013,1,Multistate,Food,Salmonella enterica,Senftenberg,Confirmed,,8.0,1.0,4.0,0.0,,Pistachio,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2013,2,Michigan,Food,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,School/college/university,12.0,1.0,12.0,0.0,12,cucumber,cucumber,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2013,2,Multistate,Food,Salmonella enterica;Salmonella enterica,Mbandaka;Montevideo,Confirmed;Confirmed,Private home/residence,17.0,1.0,8.0,1.0,8,tahini,tahini,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2013,3,Oregon,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Caterer,16.0,,16.0,1.0,16,mixed cut fruit,,Fruits,,,,Norovirus,Fruits
+2013,3,Minnesota,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,26.0,15.0,26.0,0.0,26,"queso fresco, unpasteurized","milk, whole milk unpasteurized",Dairy,,,,Salmonella,Dairy
+2013,3,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,,131.0,23.0,87.0,0.0,29,grape tomato;cherry tomato,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2013,3,Wisconsin,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,3.0,1.0,3.0,0.0,3,"milk, unpasteurized",,Dairy,,,,E. coli,Dairy
+2013,3,Oregon,Food,Salmonella enterica,Reading,Confirmed,Restaurant: Sit-down dining,4.0,,0.0,,0,"oysters, raw",,Mollusks,,,,Salmonella,Mollusks
+2013,4,Minnesota,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Sit-down dining,12.0,0.0,12.0,0.0,12,mashed potato/gravy,potatoes,Root/Underground,,,,Norovirus,Root/Underground
+2013,4,Michigan,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Suspected,Caterer,20.0,7.0,20.0,0.0,20,"salad, unspecified",tomato,Seeded Vegetables,,,,E. coli,Seeded Vegetables
+2013,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,14.0,9.0,11.0,1.0,11,prepackaged leafy greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2013,4,Indiana,Food,Salmonella enterica;Salmonella enterica,Typhimurium;Typhimurium,Confirmed;Confirmed,Unknown,14.0,3.0,9.0,0.0,9,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2013,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O26,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),26.0,5.0,21.0,0.0,13,lettuce,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2013,5,Montana,Food,Norovirus Genogroup II,,Suspected,Private home/residence,16.0,0.0,16.0,0.0,16,fruit,,Fruits,,,,Norovirus,Fruits
+2013,5,Minnesota,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,59.0,0.0,5.0,0.0,5,cantaloupe,cantaloupe,Fruits,,,,Norovirus,Fruits
+2013,5,Tennessee,Food,Salmonella enterica,Enteritidis,Confirmed,Caterer,5.0,3.0,5.0,0.0,5,Fruit Cocktail,,Fruits,,,,Salmonella,Fruits
+2013,5,California,Food,Salmonella enterica,Enteritidis,Confirmed,School/college/university,27.0,2.0,27.0,0.0,27,"tomatoes, raw",tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2013,5,Minnesota,Food,Salmonella enterica,,Suspected,Private home/residence,7.0,1.0,7.0,0.0,7,watermelon,watermelon,Fruits,,,,Salmonella,Fruits
+2013,5,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence;Restaurant: Sit-down dining,6.0,6.0,6.0,1.0,5,Cheese-Le Frere,cheese,Dairy,,,,Listeria,Dairy
+2013,5,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining,7.0,0.0,7.0,0.0,7,"salmon, unspecified",,Fish,,,,E. coli,Fish
+2013,6,South Carolina,Food,Norovirus Genogroup I,GI.3,Confirmed,,8.0,0.0,8.0,0.0,8,lettuce,leaf lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2013,6,Pennsylvania,Food,Salmonella enterica,Typhimurium,Confirmed,Other,4.0,1.0,3.0,0.0,3,"milk, whole milk unpasteurized",,Dairy,,,,Salmonella,Dairy
+2013,6,Massachusetts,Food,Norovirus Genogroup I,GI.4,Confirmed,Restaurant: Sit-down dining,32.0,0.0,32.0,0.0,32,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2013,6,Multistate,Food,Salmonella enterica,Virchow,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Restaurant: Sit-down dining,7.0,1.0,7.0,0.0,7,sugarcane,,Oils-sugars,,,,Salmonella,Oils-sugars
+2013,6,Multistate,Food,Salmonella enterica,Thompson,Confirmed,Private home/residence,13.0,6.0,13.0,1.0,13,papaya,papaya,Fruits,,,,Salmonella,Fruits
+2013,6,Multistate,Food,Salmonella enterica,Virchow,Confirmed,Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter),7.0,1.0,7.0,0.0,7,unspecified fruit,"fruit, unspecified",Fruits,,,,Salmonella,Fruits
+2013,7,Massachusetts,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Sit-down dining,13.0,2.0,12.0,0.0,13,Eggs,egg,Eggs,,,,Salmonella,Eggs
+2013,7,Arizona,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),94.0,22.0,94.0,0.0,94,lettuce,lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2013,7,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Unknown;Other,5.0,5.0,5.0,0.0,5,green leaf lettuce,green leaf lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2013,7,Wisconsin,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,4.0,2.0,4.0,0.0,4,"eggs, unspecified",,Eggs,,,,Salmonella,Eggs
+2013,8,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,8.0,7.0,8.0,1.0,8,latin style soft cheese,,Dairy,,,,Listeria,Dairy
+2013,8,Pennsylvania,Food,Salmonella enterica,Typhimurium,Confirmed,Other,9.0,2.0,9.0,0.0,9,"milk, whole milk unpasteurized",,Dairy,,,,Salmonella,Dairy
+2013,9,New York,Food,Norovirus Genogroup I,,Confirmed,Restaurant: Sit-down dining,31.0,0.0,31.0,0.0,31,fruit,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2013,9,Florida,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Grocery store/bakery/deli/convenience store,7.0,5.0,7.0,0.0,7,kale,kale,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2013,9,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,9.0,8.0,9.0,1.0,9,"mexican style cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2013,10,Pennsylvania,Food,Salmonella enterica,Typhimurium,Confirmed,Other,10.0,5.0,10.0,0.0,10,"apple cider, unpasteurized","apple cider, unpasteurized",Fruits,,,,Salmonella,Fruits
+2013,10,Colorado,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),9.0,1.0,9.0,0.0,9,"sandwich, cucumber",cucumber,Seeded Vegetables,,,,E. coli,Seeded Vegetables
+2013,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Caterer,33.0,9.0,32.0,0.0,32,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2013,10,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Child daycare/preschool,8.0,1.0,8.0,0.0,8,green beans,,Seeded Vegetables,,,,E. coli,Seeded Vegetables
+2013,10,Utah,Food,Salmonella enterica,Montevideo,Confirmed,Other,2.0,0.0,2.0,0.0,2,"milk, whole milk unpasteurized","milk, whole milk unpasteurized",Dairy,,,,Salmonella,Dairy
+2013,10,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Private home/residence,10.0,0.0,10.0,0.0,10,fruit,,Fruits,,,,Norovirus,Fruits
+2013,10,Tennessee,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,9.0,5.0,9.0,0.0,9,"milk, unpasteurized","milk, whole milk unpasteurized",Dairy,,,,E. coli,Dairy
+2013,11,Michigan,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,62.0,2.0,62.0,0.0,62,"thai chicken lettuce wrap;salad, unspecified;chicken, grilled",egg,Eggs,,,,Salmonella,Eggs
+2013,11,Multistate,Food,Salmonella enterica,Javiana,Confirmed,,33.0,6.0,23.0,0.0,23,"fish, tilapia",,Fish,,,,Salmonella,Fish
+2013,12,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Banquet Facility (food prepared and served on-site);Restaurant: Sit-down dining,64.0,0.0,64.0,0.0,64,fruit,,Fruits,,,,Norovirus,Fruits
+2013,12,Connecticut,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining,9.0,8.0,9.0,0.0,9,lettuce,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2013,12,Utah,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),3.0,0.0,3.0,0.0,3,alfalfa sprouts,alfalfa sprouts,Sprouts,,,,Salmonella,Sprouts
+2014,1,Louisiana,Food,Norovirus Genogroup II,,Confirmed,Private home/residence,6.0,0.0,6.0,0.0,6,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2014,1,Multistate,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,Hartford;Newport;Oranienburg;Gaminara,Confirmed;Confirmed;Confirmed;Confirmed,Private home/residence,45.0,7.0,30.0,0.0,34,Chia seed powder,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2014,1,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Private home/residence,6.0,1.0,5.0,0.0,6,Nut Butter (Almond and Peanut),,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2014,3,Massachusetts,Food,Salmonella,,Confirmed,Private home/residence;School/college/university,11.0,2.0,11.0,0.0,11,"leaf lettuce, unspecified",leafy green,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2014,3,California,Food,Norovirus unknown;Norovirus Genogroup I,GI.3,Confirmed;Confirmed,Restaurant: Fast-food (drive up service or pay at counter),9.0,0.0,9.0,0.0,9,"sandwich, unspecified",lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2014,3,Michigan,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,2.0,0.0,2.0,0.0,2,Raw Milk,"milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2014,4,Minnesota,Food,"Escherichia coli, Enteroaggregative",O126,Confirmed,School/college/university,4.0,0.0,4.0,0.0,4,"romaine lettuce, unspecified",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2014,4,New York,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,4.0,1.0,4.0,0.0,4,Crab Legs,,Crustaceans,,,,Salmonella,Crustaceans
+2014,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),4.0,1.0,4.0,0.0,4,spinach,spinach,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2014,4,Multistate,Food,Salmonella enterica,Baildon,Confirmed,Private home/residence,20.0,6.0,17.0,0.0,,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2014,5,Texas,Food,Norovirus Genogroup II,unknown,Confirmed,,11.0,0.0,11.0,0.0,11,chili con queso,cheddar cheese,Dairy,,,,Norovirus,Dairy
+2014,5,Louisiana,Food,Salmonella enterica,Montevideo,Confirmed,Restaurant: Sit-down dining,8.0,2.0,8.0,0.0,8,"crawfish/crayfish, unspecified",,Crustaceans,,,,Salmonella,Crustaceans
+2014,5,North Carolina,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,46.0,0.0,46.0,0.0,46,remoulade,,Other,,,,Salmonella,Other
+2014,5,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O121,Confirmed,Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter),19.0,5.0,19.0,0.0,19,clover sprouts,clover sprouts,Sprouts,,,,E. coli,Sprouts
+2014,5,Multistate,Food,Salmonella enterica,Minnesota,Confirmed,Private home/residence,4.0,1.0,4.0,0.0,4,"mango, unspecified",mango,Fruits,,,,Salmonella,Fruits
+2014,5,Washington,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,7.0,1.0,7.0,0.0,7,"basil, unspecified",,Herbs,,,,Salmonella,Herbs
+2014,5,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other;Long-term care/nursing home/assisted living facility;Restaurant: Fast-food (drive up service or pay at counter);Private home/residence;Camp;Grocery store/bakery/deli/convenience store;Restaurant: Sit-down dining,275.0,48.0,141.0,1.0,275,cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2014,5,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,7.0,0.0,7.0,0.0,7,"lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2014,6,Minnesota,Food,Norovirus Genogroup II,,Suspected,Caterer,14.0,0.0,14.0,0.0,14,ice,,Other,,,,Norovirus,Other
+2014,6,Wisconsin,Food,Norovirus Genogroup II,,Confirmed,Caterer,21.0,0.0,21.0,0.0,21,Fruit Platter,strawberries;honeydew melon;cantaloupe;blueberries,Fruits,,,,Norovirus,Fruits
+2014,6,California,Food,Norovirus unknown,,Confirmed,Caterer,23.0,0.0,23.0,0.0,23,lettuce (source unknown),lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2014,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,2.0,2.0,2.0,1.0,2,"Nectarine;peaches, unspecified",peaches,Fruits,,,,Listeria,Fruits
+2014,6,Montana,Food,Salmonella enterica,Typhimurium,Confirmed,Other,7.0,3.0,7.0,0.0,7,"milk, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2014,6,California,Food,Norovirus unknown;Norovirus Genogroup II,GII.17,Confirmed;Confirmed,Caterer,23.0,0.0,23.0,0.0,23,onions,onion,Root/Underground,,,,Norovirus,Root/Underground
+2014,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Restaurant: Other;Unknown,5.0,3.0,3.0,2.0,5,mung bean sprouts,,Sprouts,,,,Listeria,Sprouts
+2014,6,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O111,Confirmed,Restaurant: Sit-down dining,16.0,2.0,2.0,0.0,2,cabbage,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2014,6,New Jersey,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,23.0,0.0,23.0,0.0,23,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2014,6,Multistate,Food,Salmonella enterica,Paratyphi B,Confirmed,,21.0,5.0,19.0,0.0,19,"Peppers, mini",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2014,6,Virginia,Food,Listeria monocytogenes,,Confirmed,Private home/residence;Restaurant: Sit-down dining,2.0,2.0,2.0,0.0,2,sprouts,sprouts,Sprouts,,,,Listeria,Sprouts
+2014,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Farm/dairy/agricultural setting,2.0,2.0,2.0,1.0,2,Raw Milk,,Dairy,,,,Listeria,Dairy
+2014,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,26.0,23.0,26.0,2.0,23,Mexican Cheese (queso fresco and/or other),,Dairy,,,,Listeria,Dairy
+2014,7,Minnesota,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Caterer,57.0,9.0,57.0,0.0,57,"potato salad;celery, unspecified",celery,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2014,7,Minnesota,Food,Salmonella enterica,Miami,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),7.0,1.0,7.0,0.0,7,"romaine lettuce, unspecified",romaine lettuce,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2014,7,New York,Food,Salmonella enterica,Newport,Confirmed,Unknown,21.0,5.0,21.0,0.0,21,cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2014,7,Mississippi,Food,Salmonella enterica,Paratyphi B,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),11.0,2.0,11.0,0.0,11,"crawfish/crayfish, unspecified",crawfish/crayfish,Crustaceans,,,,Salmonella,Crustaceans
+2014,7,Maryland,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,18.0,3.0,12.0,0.0,18,Eggs,egg,Eggs,,,,Salmonella,Eggs
+2014,8,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,,27.0,10.0,26.0,0.0,26,"grapes, unspecified",,Fruits,,,,Salmonella,Fruits
+2014,8,Washington,Food,Norovirus Genogroup II,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2014,8,Idaho,Food,Salmonella enterica,Enteritidis,Suspected,Restaurant: Sit-down dining,11.0,2.0,9.0,0.0,11,whipped cream,,Dairy,,,,Salmonella,Dairy
+2014,8,Multistate,Food,Listeria monocytogenes,,Confirmed,Other,18.0,16.0,16.0,3.0,9,prepackaged leafy greens,leaf lettuce,Vegetable Row Crops,,,,Listeria,Vegetable Row Crops
+2014,9,Wisconsin,Food,"Giardia;Campylobacter jejuni;Escherichia coli, Shiga toxin-producing",unknown,Suspected;Confirmed;Confirmed,Private home/residence,38.0,10.0,38.0,0.0,38,"milk, whole milk unpasteurized",,Dairy,,,,E. coli,Dairy
+2014,9,Kentucky,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other;Private home/residence,4.0,4.0,4.0,0.0,4,"milk, unpasteurized","milk, whole milk unpasteurized",Dairy,,,,E. coli,Dairy
+2014,9,Michigan,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,3.0,1.0,3.0,0.0,3,"salmon, smoked","fish, salmon",Fish,,,,Salmonella,Fish
+2014,9,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other;Restaurant: Fast-food (drive up service or pay at counter);Restaurant: Sit-down dining;Office/indoor workplace;Grocery store/bakery/deli/convenience store,115.0,19.0,75.0,0.0,75,mung bean sprouts,,Sprouts,,,,Salmonella,Sprouts
+2014,10,Minnesota,Food,Norovirus,,Suspected,Caterer,39.0,0.0,39.0,0.0,39,"ice, unspecified",,Other,,,,Norovirus,Other
+2014,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Other,35.0,34.0,35.0,7.0,34,Caramel Apple,apple,Fruits,,,,Listeria,Fruits
+2014,10,Multistate,Food,Salmonella enterica,Javiana,Confirmed,,36.0,8.0,32.0,0.0,32,"Cucumber, mini",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2014,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,8.0,7.0,7.0,2.0,6,soft cheese,,Dairy,,,,Listeria,Dairy
+2014,11,Florida,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,6.0,0.0,6.0,0.0,6,"refried beans, unspecified",rice;beans,Grains-beans,,,,Norovirus,Grains-beans
+2014,11,Illinois,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,Chilaquiles,egg,Eggs,,,,Salmonella,Eggs
+2014,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),11.0,2.0,9.0,0.0,11,salad,leaf lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2014,11,Florida,Food,"Escherichia coli, Shiga toxin-producing",unknown,Suspected,Grocery store/bakery/deli/convenience store,2.0,0.0,2.0,0.0,2,"taco, beef",lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2014,11,Illinois,Food,Salmonella enterica,Javiana,Confirmed,,4.0,2.0,,0.0,,"Cucumbers (English, mini, and Persian)",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2014,11,Washington,Food,Listeria monocytogenes,,Confirmed,Private home/residence;Other;Restaurant: Sit-down dining,3.0,2.0,3.0,1.0,3,"mexican style cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2014,11,California,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,5.0,1.0,1.0,0.0,4,"other cheese, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2014,11,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,13.0,0.0,13.0,0.0,13,"fish, salmon",,Fish,,,,Norovirus,Fish
+2014,11,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,9.0,9.0,9.0,1.0,9,smoked fish,,Fish,,,,Listeria,Fish
+2014,12,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,58.0,0.0,0.0,0.0,0,green beans,,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2014,12,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"avocado, unspecified",,Fruits,,,,Norovirus,Fruits
+2014,12,Alabama,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,rice,,Grains-beans,,,,Norovirus,Grains-beans
+2014,12,Massachusetts,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),57.0,6.0,57.0,0.0,57,Bacalhau a gomes de sa,"fish, codfish",Fish,,,,Salmonella,Fish
+2014,12,Multistate,Food,Salmonella enterica,Stanley,Confirmed,Private home/residence,18.0,4.0,16.0,0.0,17,Cashews,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2015,1,Connecticut,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Restaurant: Sit-down dining,18.0,0.0,18.0,0.0,18,mimosa,,Other,,,,Norovirus,Other
+2015,1,Oregon,Food,Listeria monocytogenes,,Confirmed,Private home/residence,2.0,0.0,1.0,0.0,1,sour cream,sour cream,Dairy,,,,Listeria,Dairy
+2015,2,Virginia,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Private home/residence,21.0,1.0,19.0,0.0,21,"peas, green",,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2015,2,Ohio,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Restaurant: Sit-down dining;Private home/residence,35.0,0.0,0.0,0.0,35,"pineapple, unspecified;grapes;cantaloupe",,Fruits,,,,Norovirus,Fruits
+2015,2,Nevada,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,7.0,2.0,7.0,0.0,7,spices,,Herbs,,,,Salmonella,Herbs
+2015,2,California,Food,Salmonella enterica;Norovirus unknown,Enteritidis,Suspected;Confirmed,Restaurant: Sit-down dining,21.0,0.0,21.0,0.0,21,"oysters, raw",oysters,Mollusks,,,,Salmonella,Mollusks
+2015,3,Wisconsin,Food,Norovirus Genogroup I,GI.2,Confirmed,Restaurant: Sit-down dining,6.0,0.0,6.0,0.0,6,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2015,3,Minnesota,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Restaurant: Sit-down dining,6.0,0.0,6.0,0.0,6,"soda, unspecified;ice",,Other,,,,Norovirus,Other
+2015,3,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),5.0,0.0,5.0,0.0,5,sour cream,,Dairy,,,,Norovirus,Dairy
+2015,3,Kansas,Food,Norovirus Genogroup I,unknown,Suspected,School/college/university,38.0,1.0,38.0,0.0,0,popcorn,,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2015,3,Texas,Food,"Escherichia coli, Shiga toxin-producing",unknown,Suspected,,4.0,0.0,4.0,0.0,4,Raw Milk,,Dairy,,,,E. coli,Dairy
+2015,3,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Restaurant: Sit-down dining;Grocery store/bakery/deli/convenience store;Restaurant: Fast-food (drive up service or pay at counter),16.0,10.0,16.0,0.0,16,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2015,3,Colorado,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2015,3,Multistate,Food,Salmonella enterica,Newport,Confirmed,Unknown,25.0,3.0,25.0,0.0,25,latin style soft cheese,,Dairy,,,,Salmonella,Dairy
+2015,3,Multistate,Food,Salmonella enterica;Salmonella enterica,Paratyphi B;Weltevreden,Confirmed;Confirmed,Office/indoor workplace;Restaurant: Sit-down dining;Grocery store/bakery/deli/convenience store,69.0,12.0,66.0,0.0,66,"tuna, raw",,Fish,,,,Salmonella,Fish
+2015,3,Multistate,Food,Salmonella enterica,Paratyphi B,Confirmed,Restaurant: Sit-down dining,11.0,2.0,10.0,0.0,10,lettuce,,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2015,3,California,Food,Campylobacter jejuni;Norovirus unknown,,Suspected;Suspected,Restaurant: Fast-food (drive up service or pay at counter);Other,19.0,0.0,16.0,0.0,16,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2015,4,Missouri,Food,Salmonella enterica;Salmonella enterica,Oranienburg;Oranienburg,Confirmed;Confirmed,Private home/residence;Grocery store/bakery/deli/convenience store;Restaurant: Sit-down dining,46.0,13.0,46.0,0.0,46,Eggs,egg,Eggs,,,,Salmonella,Eggs
+2015,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O145,Confirmed,,7.0,5.0,7.0,0.0,7,prepackaged leafy greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2015,4,Utah,Food,Salmonella enterica,Newport,Confirmed,Other,4.0,0.0,4.0,0.0,4,"milk, whole milk unpasteurized","milk, unpasteurized",Dairy,,,,Salmonella,Dairy
+2015,5,Minnesota,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,12.0,0.0,7.0,0.0,12,ice,,Other,,,,Norovirus,Other
+2015,5,Ohio,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Banquet Facility (food prepared and served on-site),48.0,1.0,47.0,0.0,47,salad,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2015,5,Ohio,Food,Norovirus Genogroup II,GII.4 Sydney,Confirmed,Banquet Facility (food prepared and served on-site),4.0,0.0,4.0,0.0,4,"salad, unspecified",lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2015,5,Oregon,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,12.0,0.0,12.0,0.0,12,french fries,potatoes,Root/Underground,,,,Norovirus,Root/Underground
+2015,5,Maryland,Food,Norovirus Genogroup I,other,Confirmed,Other,123.0,0.0,123.0,0.0,123,strawberry sauce,,Other,,,,Norovirus,Other
+2015,5,Multistate,Food,Salmonella enterica,Hartford,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Grocery store/bakery/deli/convenience store,19.0,4.0,12.0,0.0,19,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2015,6,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Sit-down dining,15.0,2.0,9.0,0.0,10,"oysters, raw",,Mollusks,,,,Salmonella,Mollusks
+2015,6,Multistate,Food,Listeria monocytogenes,,Confirmed,,19.0,19.0,19.0,1.0,19,"lettuce, prepackaged",lettuce,Vegetable Row Crops,,,,Listeria,Vegetable Row Crops
+2015,7,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Other,9.0,2.0,8.0,0.0,8,"ice cream, homemade",egg,Eggs,,,,Salmonella,Eggs
+2015,7,Florida,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,12.0,0.0,12.0,0.0,12,Salad bar items,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2015,7,Maryland,Food,"Escherichia coli, Shiga toxin-producing",O157,Confirmed,Restaurant: Sit-down dining,9.0,6.0,8.0,0.0,9,"crab, unspecified",crab,Crustaceans,,,,E. coli,Crustaceans
+2015,7,California,Food,Norovirus unknown,,Confirmed,Restaurant: Sit-down dining;Banquet Facility (food prepared and served on-site),50.0,1.0,50.0,0.0,50,ice,,Other,,,,Norovirus,Other
+2015,7,Multistate,Food,Salmonella enterica,Paratyphi B var. L(+) tartrate +,Confirmed,,13.0,0.0,11.0,0.0,12,Sprouted nut butter,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2015,7,Multistate,Food,Salmonella enterica,Poona,Confirmed,,907.0,204.0,720.0,6.0,720,cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2015,8,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),119.0,17.0,118.0,0.0,119,salsa,tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2015,8,Nevada,Food,Salmonella enterica,Typhimurium,Suspected,Camp,4.0,1.0,4.0,0.0,4,ice,,Other,,,,Salmonella,Other
+2015,8,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,9.0,1.0,9.0,0.0,9,"pastry, custard-filled",egg,Eggs,,,,Salmonella,Eggs
+2015,8,Arizona,Food,Salmonella enterica,Javiana,Confirmed,,5.0,1.0,5.0,0.0,5,frog legs,frog legs,Other Aquatic Animals,,,,Salmonella,Other Aquatic Animals
+2015,9,Hawaii,Food,Norovirus Genogroup I;Norovirus Genogroup II,unknown,Confirmed;Confirmed,Restaurant: Sit-down dining,10.0,0.0,10.0,0.0,10,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2015,9,Arizona,Food,Salmonella enterica,Enteritidis,Confirmed,Correctional/detention facility,252.0,0.0,252.0,0.0,252,Tossed Salad,iceberg lettuce;cabbage,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2015,9,Idaho,Food,"Campylobacter jejuni;Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed;Confirmed,Farm/dairy/agricultural setting,15.0,3.0,15.0,0.0,15,"milk, unpasteurized",,Dairy,,,,E. coli,Dairy
+2015,10,Illinois,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,6.0,0.0,,0.0,,salad,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2015,10,Minnesota,Food,"Escherichia coli, Shiga toxin-producing",O157,Confirmed,Farm/dairy/agricultural setting,2.0,1.0,2.0,0.0,2,"apple cider, unpasteurized",,Fruits,,,,E. coli,Fruits
+2015,10,Michigan,Food,"Escherichia coli, Shiga toxin-producing",O45,Confirmed,Other,2.0,0.0,1.0,0.0,0,"apple cider, unpasteurized",apple,Fruits,,,,E. coli,Fruits
+2015,10,Utah,Food,Salmonella enterica,Newport,Confirmed,,2.0,0.0,2.0,0.0,2,Raw Milk,,Dairy,,,,Salmonella,Dairy
+2015,10,California,Food,"Escherichia coli, Shiga toxin-producing",O111:NM,Confirmed,Other,15.0,1.0,15.0,0.0,15,"apple cider, unspecified",,Fruits,,,,E. coli,Fruits
+2015,10,New York,Food,Listeria monocytogenes,,Confirmed,Private home/residence,2.0,1.0,2.0,1.0,2,"american cheese, pasteurized","cheese, pasteurized",Dairy,,,,Listeria,Dairy
+2015,10,California,Food,Salmonella enterica,Newport,Confirmed,Unknown,47.0,17.0,43.0,0.0,47,"queso fresco, unpasteurized","queso fresco, unpasteurized",Dairy,,,,Salmonella,Dairy
+2015,11,Oregon,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,8.0,0.0,7.0,0.0,7,lettuce,lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2015,11,Oregon,Food,Norovirus Genogroup I,,Suspected,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,Oyster Shooters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2015,11,Hawaii,Food,Norovirus Genogroup I;Norovirus Genogroup II,unknown,Confirmed;Confirmed,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2015,11,Utah,Food,Salmonella enterica,Enteritidis,Confirmed,Caterer,3.0,0.0,3.0,0.0,3,"eggs, scrambled",egg,Eggs,,,,Salmonella,Eggs
+2015,11,California,Food,Norovirus unknown,,Suspected,Grocery store/bakery/deli/convenience store;Caterer,16.0,1.0,7.0,0.0,7,rice,,Grains-beans,,,,Norovirus,Grains-beans
+2015,12,Oregon,Food,Salmonella enterica,Enteritidis,Confirmed,,7.0,0.0,7.0,0.0,7,eggnog,egg,Eggs,,,,Salmonella,Eggs
+2015,12,California,Food,Norovirus unknown,,Suspected,Banquet Facility (food prepared and served on-site),20.0,0.0,20.0,0.0,20,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2015,12,Connecticut,Food,Salmonella enterica,Thompson,Confirmed,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,cucumbers,cucumber,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2015,12,California,Food,Norovirus unknown,,Suspected,Caterer,16.0,0.0,16.0,0.0,16,alcohol,,Other,,,,Norovirus,Other
+2015,12,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining,13.0,9.0,13.0,0.0,13,Pizza Dough Mix,,Grains-beans,,,,E. coli,Grains-beans
+2015,12,Multistate,Food,Salmonella enterica,Virchow,Confirmed,Private home/residence,35.0,6.0,27.0,0.0,27,Powder meal replacement,moringa leaf powder,Herbs,,,,Salmonella,Herbs
+2015,12,Multistate,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O121;O26:NM,Confirmed;Confirmed,,56.0,16.0,49.0,0.0,47,flour,,Grains-beans,,,,E. coli,Grains-beans
+2015,12,Multistate,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica,Cubana;Kentucky;Muenchen,Confirmed;Confirmed;Confirmed,Private home/residence;Restaurant: Sit-down dining;Restaurant: Other,32.0,10.0,31.0,1.0,31,Alfalfa seeds,alfalfa sprouts;alfalfa sprout seeds,Sprouts,,,,Salmonella,Sprouts
+2015,12,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,lettuce,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2015,12,California,Food,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,Unknown,42.0,8.0,42.0,0.0,42,"queso fresco, unspecified",,Dairy,,,,Salmonella,Dairy
+2016,1,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,Camp;Private home/residence;Restaurant: Sit-down dining;Grocery store/bakery/deli/convenience store,11.0,2.0,11.0,0.0,11,alfalfa sprouts,alfalfa sprouts,Sprouts,,,,E. coli,Sprouts
+2016,1,California,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,10.0,4.0,10.0,0.0,10,"milk, whole milk unpasteurized",raw milk,Dairy,,,,E. coli,Dairy
+2016,1,Multistate,Food,Salmonella enterica;Salmonella enterica,Montevideo;Senftenberg,Confirmed;Confirmed,,11.0,2.0,8.0,0.0,7,Pistachio,nuts,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2016,1,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"fish, raw fish",,Fish,,,,Norovirus,Fish
+2016,2,Oregon,Food,Norovirus Genogroup II;Norovirus Genogroup II,GII.6; GII.6,Confirmed;Confirmed,Restaurant: Sit-down dining;Private home/residence,22.0,1.0,22.0,0.0,22,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2016,2,South Carolina,Food,Norovirus Genogroup II,GII.17,Confirmed,Other,46.0,0.0,46.0,0.0,46,"oysters, steamed",,Mollusks,,,,Norovirus,Mollusks
+2016,2,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,87.0,5.0,87.0,0.0,87,mayonnaise made with raw eggs,egg,Eggs,,,,Salmonella,Eggs
+2016,2,Illinois,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Sit-down dining,8.0,0.0,7.0,0.0,7,"RICE BOWL, UNSPECIFIED",,Grains-beans,,,,Salmonella,Grains-beans
+2016,2,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,6.0,6.0,6.0,2.0,6,watermelon,watermelon,Fruits,,,,Listeria,Fruits
+2016,3,Texas,Food,Salmonella unknown;Salmonella enterica,unknown,Confirmed;Suspected,Restaurant: Sit-down dining,12.0,1.0,12.0,0.0,12,"crawfish/crayfish, unspecified",,Crustaceans,,,,Salmonella,Crustaceans
+2016,3,Utah,Food,Salmonella enterica,Saintpaul,Confirmed,Farm/dairy/agricultural setting,15.0,3.0,14.0,0.0,14,"milk, unpasteurized","milk, unpasteurized",Dairy,,,,Salmonella,Dairy
+2016,3,Michigan,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",unknown;other,Confirmed;Confirmed,Restaurant: Sit-down dining,7.0,1.0,7.0,0.0,7,"hamburger;cheese, unspecified, unpasteurized;sandwich, ham/cheese","cheddar cheese, unpasteurized;multiple cheeses, unpasteurize;other cheese, unpasteurized",Dairy,,,,E. coli,Dairy
+2016,3,Multistate,Food,Salmonella enterica,Oslo,Confirmed,,14.0,3.0,13.0,0.0,14,"Cucumbers (English, mini, and Persian)",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2016,3,California,Food,Norovirus unknown,,Confirmed,Restaurant: Sit-down dining,11.0,0.0,11.0,0.0,11,"oysters, raw",oysters,Mollusks,,,,Norovirus,Mollusks
+2016,3,Virginia,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O157:H7;other;other,Confirmed;Confirmed;Suspected,Farm/dairy/agricultural setting,14.0,7.0,14.0,0.0,14,Raw Milk,"milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2016,3,Wisconsin,Food,Norovirus Genogroup II,GII.2,Suspected,Caterer,20.0,0.0,19.0,0.0,20,vegetable tray,cucumber,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2016,4,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Other,32.0,6.0,25.0,0.0,23,mung bean sprouts,,Sprouts,,,,Salmonella,Sprouts
+2016,4,Massachusetts,Food,Salmonella enterica,Enteritidis,Confirmed,Child daycare/preschool,6.0,3.0,6.0,0.0,6,"infant formula, non-dairy based",infant formula,Other,,,,Salmonella,Other
+2016,4,North Carolina,Food,Salmonella enterica;Salmonella enterica,Typhimurium;Typhimurium,Confirmed;Confirmed,Farm/dairy/agricultural setting,101.0,18.0,101.0,0.0,101,cheese,"cheese, unpasteurized",Dairy,,,,Salmonella,Dairy
+2016,4,Multistate,Food,Salmonella enterica,Oranienburg,Confirmed,Restaurant: Sit-down dining,8.0,2.0,6.0,0.0,7,shell eggs,,Eggs,,,,Salmonella,Eggs
+2016,4,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,7.0,0.0,6.0,0.0,7,prepackaged leafy greens,,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2016,5,Ohio,Food,Norovirus Genogroup II,GII.2,Confirmed,Restaurant: Buffet,20.0,0.0,20.0,0.0,20,lettuce,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2016,5,Missouri,Food,"Escherichia coli, Shiga toxin-producing",,Suspected,Private home/residence,11.0,4.0,11.0,0.0,11,salad,arugula,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2016,5,Texas,Food,Salmonella unknown,,Confirmed,Private home/residence,12.0,0.0,0.0,0.0,0,"milk, unpasteurized",,Dairy,,,,Salmonella,Dairy
+2016,5,Tennessee,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica,Enteritidis;Enteritidis;Muenchen,Confirmed;Suspected;Suspected,Restaurant: Sit-down dining,35.0,1.0,23.0,0.0,35,Eggs,,Eggs,,,,Salmonella,Eggs
+2016,5,Multistate,Food,Salmonella enterica,Anatum,Confirmed,Restaurant: Other;Other,32.0,8.0,25.0,0.0,25,"peppers, hot",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2016,5,Multistate,Food,Salmonella enterica;Salmonella enterica,Abony;Reading,Confirmed;Confirmed,Restaurant: Fast-food (drive up service or pay at counter),36.0,7.0,34.0,0.0,34,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2016,5,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other;Private home/residence,59.0,7.0,41.0,0.0,42,"avocado, unspecified",avocado,Fruits,,,,Salmonella,Fruits
+2016,5,Multistate,Food,Salmonella enterica,Javiana,Confirmed,Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter),29.0,6.0,29.0,0.0,29,onions,onion,Root/Underground,,,,Salmonella,Root/Underground
+2016,6,Illinois,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,,96.0,19.0,,0.0,,Cilantro,,Herbs,,,,E. coli,Herbs
+2016,6,Florida,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Buffet,23.0,0.0,23.0,0.0,23,"oysters, raw;oysters, baked","oysters, raw;oysters",Mollusks,,,,Norovirus,Mollusks
+2016,6,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,,10.0,3.0,10.0,0.0,10,cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2016,6,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),11.0,4.0,11.0,0.0,11,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2016,6,Arizona,Food,Salmonella enterica,Javiana,Confirmed,Restaurant: Sit-down dining,50.0,12.0,50.0,0.0,50,"shrimp, unfried",shrimp,Crustaceans,,,,Salmonella,Crustaceans
+2016,6,Multistate,Food,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,Unknown,5.0,2.0,5.0,0.0,5,nuts,nuts,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2016,6,Multistate,Food,Salmonella enterica,Minnesota,Confirmed,Private home/residence;Restaurant: Sit-down dining;Grocery store/bakery/deli/convenience store,10.0,3.0,7.0,0.0,7,cantaloupe,cantaloupe,Fruits,,,,Salmonella,Fruits
+2016,7,Ohio,Food,Norovirus Genogroup II,,Suspected,Private home/residence;Caterer,14.0,0.0,14.0,0.0,14,alcohol,,Other,,,,Norovirus,Other
+2016,8,Missouri,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,19.0,2.0,19.0,0.0,19,mayonnaise made with raw eggs;meringue,egg,Eggs,,,,Salmonella,Eggs
+2016,8,Michigan,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,4.0,2.0,4.0,0.0,4,"milk, unpasteurized","milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2016,8,Maine,Food,Astrovirus;Vibrio parahaemolyticus;Vibrio other;Sapovirus;Norovirus other,,Suspected;Confirmed;Confirmed;Suspected;Suspected,Restaurant: Sit-down dining,13.0,1.0,13.0,0.0,13,lobster,,Crustaceans,,,,Norovirus,Crustaceans
+2016,8,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,10.0,9.0,10.0,1.0,1,"avocado, unspecified",,Fruits,,,,Listeria,Fruits
+2016,8,Minnesota,Food,Norovirus Genogroup II,GII.17,Confirmed,Other,15.0,1.0,15.0,0.0,15,Raspberry Chocolate Chip Ice Cream,raspberries,Fruits,,,,Norovirus,Fruits
+2016,9,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,10.0,9.0,10.0,2.0,10,"artisinal soft cheese, unpasteurized",,Dairy,,,,Listeria,Dairy
+2016,9,Oregon,Food,Norovirus Genogroup II;Norovirus Genogroup II,GII.4 untypeable; GII.4 untypeable,Confirmed;Confirmed,Banquet Facility (food prepared and served on-site),26.0,,24.0,0.0,24,strawberries;honeydew melon;cantaloupe,honeydew melon;cantaloupe,Fruits,,,,Norovirus,Fruits
+2016,9,West Virginia,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,10.0,1.0,10.0,0.0,10,Desserts,"fruit, unspecified",Fruits,,,,Salmonella,Fruits
+2016,9,Kansas,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Farm/dairy/agricultural setting;Festival/fair,56.0,10.0,56.0,0.0,56,"apple cider, unspecified","apple cider, unpasteurized",Fruits,,,,E. coli,Fruits
+2016,10,Massachusetts,Food,Norovirus Genogroup II,GII.4 untypeable,Confirmed,Banquet Facility (food prepared and served on-site),87.0,2.0,87.0,0.0,87,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2016,10,Hawaii,Food,Salmonella enterica,Weltevreden,Confirmed,Grocery store/bakery/deli/convenience store,16.0,4.0,16.0,0.0,16,"seaweed, unspecified",seaweed,Other,,,,Salmonella,Other
+2016,10,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Other,6.0,1.0,5.0,0.0,5,hazelnuts,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2016,10,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,,20.0,3.0,14.0,0.0,15,bean sprouts,,Sprouts,,,,Salmonella,Sprouts
+2016,11,Ohio,Food,Norovirus Genogroup I,GI.7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),2.0,0.0,2.0,0.0,2,french fries,,Root/Underground,,,,Norovirus,Root/Underground
+2016,11,Washington,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Sit-down dining,7.0,0.0,7.0,0.0,7,"eggs, scrambled",,Eggs,,,,Salmonella,Eggs
+2016,11,Alabama,Food,Salmonella enterica,Saintpaul,Confirmed,,4.0,1.0,4.0,0.0,4,cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2016,11,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,36.0,31.0,33.0,4.0,30,Enoki Mushroom,,Fungi,,,,Listeria,Fungi
+2016,12,Virginia,Food,Norovirus,,Suspected,Long-term care/nursing home/assisted living facility,35.0,1.0,35.0,0.0,35,shrimp,,Crustaceans,,,,Norovirus,Crustaceans
+2016,12,Iowa,Food,Norovirus Genogroup II,GII.4 untypeable,Confirmed,Banquet Facility (food prepared and served on-site),29.0,1.0,29.0,0.0,29,"lemonade, unspecified",,Fruits,,,,Norovirus,Fruits
+2016,12,South Carolina,Food,Norovirus Genogroup II,GII.2,Confirmed,Restaurant: Sit-down dining,6.0,0.0,6.0,0.0,6,dips,spinach,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2016,12,Oregon,Food,Norovirus Genogroup II,GII.2,Confirmed,,20.0,0.0,19.0,0.0,19,oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2016,12,Utah,Food,Salmonella enterica,Saintpaul,Confirmed,Farm/dairy/agricultural setting,10.0,2.0,10.0,0.0,9,"milk, unpasteurized","milk, unpasteurized",Dairy,,,,Salmonella,Dairy
+2016,12,Multistate,Food,Salmonella enterica,Anatum,Confirmed,Private home/residence,20.0,5.0,11.0,1.0,11,papaya,papaya,Fruits,,,,Salmonella,Fruits
+2016,12,Washington,Food,Salmonella enterica,Dublin,Confirmed,Farm/dairy/agricultural setting,3.0,3.0,3.0,0.0,3,"milk, unpasteurized","milk, unpasteurized",Dairy,,,,Salmonella,Dairy
+2017,1,Minnesota,Food,Norovirus Genogroup II,,Suspected,Long-term care/nursing home/assisted living facility,9.0,0.0,9.0,0.0,9,mixed cut fruit,honeydew melon;cantaloupe,Fruits,,,,Norovirus,Fruits
+2017,1,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,1,Washington,Food,Norovirus,,Suspected,Other;Private home/residence;Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,1,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,32.0,12.0,32.0,0.0,32,Soy butter,,Nuts-seeds,,,,E. coli,Nuts-seeds
+2017,1,Multistate,Food,Salmonella enterica;Salmonella enterica,"Newport;I 4,[5],12:b:- var. L(+) tartrate +",Confirmed;Confirmed,Private home/residence;Restaurant: Other,29.0,6.0,29.0,0.0,29,frozen shredded coconut,coconut,Fruits,,,,Salmonella,Fruits
+2017,1,Multistate,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,"Heidelberg;Javiana;Thompson;Weltevreden;Okatie;I 4,[5],12:b:- var. L(+) tartrate +",Confirmed;Confirmed;Confirmed;Confirmed;Confirmed;Confirmed,Private home/residence,199.0,54.0,143.0,0.0,143,Kratom,,Other,,,,Salmonella,Other
+2017,2,Minnesota,Food,Norovirus Genogroup II,GII.4 untypeable,Confirmed,Restaurant: Sit-down dining,9.0,0.0,9.0,0.0,9,raw oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,2,Oklahoma,Food,Salmonella enterica,Enteritidis,Confirmed,Long-term care/nursing home/assisted living facility,9.0,2.0,9.0,1.0,9,"eggs, over-easy",,Eggs,,,,Salmonella,Eggs
+2017,2,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O121,Confirmed,Private home/residence,7.0,2.0,5.0,0.0,5,flour,,Grains-beans,,,,E. coli,Grains-beans
+2017,2,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,2,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,2,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,2,California,Food,Norovirus unknown,,Confirmed,Banquet Facility (food prepared and served on-site),29.0,0.0,29.0,0.0,29,mixed fruit,,Fruits,,,,Norovirus,Fruits
+2017,2,California,Food,Sapovirus;Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II,GI.P13 GI.3;unknown;GI.P4 GI.4;GII.P16 GII.2;unknown;GII.P12 GII.3;GII.P16 GII.4 Sydney,Suspected;Suspected;Confirmed;Suspected;Confirmed;Confirmed;Suspected;Suspected,Other,55.0,0.0,36.0,0.0,36,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,2,California,Food,Norovirus unknown,,Confirmed,Restaurant: Sit-down dining,3.0,0.0,2.0,0.0,2,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2017,3,South Carolina,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,tuna sushi,tuna,Fish,,,,Salmonella,Fish
+2017,3,Oregon,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,20.0,0.0,20.0,0.0,20,"oysters, raw;oysters, baked","oysters, raw;oysters",Mollusks,,,,Norovirus,Mollusks
+2017,3,Washington,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,3,Florida,Food,Norovirus Genogroup I,GI.1,Suspected,Restaurant: Sit-down dining,7.0,0.0,7.0,0.0,7,ice,,Other,,,,Norovirus,Other
+2017,3,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,3,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining;Banquet Facility (food prepared and served on-site),22.0,0.0,12.0,0.0,12,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,3,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,3,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Unknown,151.0,31.0,125.0,0.0,125,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2017,3,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Unknown,55.0,18.0,50.0,0.0,51,papaya,,Fruits,,,,Salmonella,Fruits
+2017,3,Multistate,Food,Salmonella enterica,Chailey,Confirmed,Private home/residence,14.0,2.0,11.0,0.0,12,coconut meat,coconut,Fruits,,,,Salmonella,Fruits
+2017,3,Colorado,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Sit-down dining,18.0,2.0,18.0,0.0,18,"basil, unspecified",basil,Herbs,,,,Salmonella,Herbs
+2017,4,Connecticut,Food,Norovirus Genogroup II,,Confirmed,Restaurant: Sit-down dining,25.0,0.0,25.0,0.0,25,"fish, sole",,Fish,,,,Norovirus,Fish
+2017,4,Pennsylvania,Food,Salmonella enterica,Typhimurium,Confirmed,Farm/dairy/agricultural setting,5.0,0.0,5.0,0.0,5,"milk, whole milk unpasteurized",,Dairy,,,,Salmonella,Dairy
+2017,4,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,4,Multistate,Food,Salmonella enterica,Newport,Confirmed,Unknown,14.0,3.0,9.0,0.0,9,mexican style cheese,,Dairy,,,,Salmonella,Dairy
+2017,4,Multistate,Food,Listeria monocytogenes,,Confirmed,Grocery store/bakery/deli/convenience store;Restaurant: Sit-down dining,8.0,5.0,7.0,1.0,7,Hard-boiled eggs,,Eggs,,,,Listeria,Eggs
+2017,5,South Carolina,Food,Norovirus Genogroup I,,Suspected,Restaurant: Sit-down dining,3.0,1.0,3.0,0.0,3,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,5,Minnesota,Food,Norovirus unknown,,Suspected,Caterer,13.0,0.0,13.0,0.0,13,"sandwich, deli",unspecified grains,Grains-beans,,,,Norovirus,Grains-beans
+2017,5,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,6.0,6.0,6.0,0.0,6,"cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2017,5,Illinois,Food,"Cryptosporidium;Campylobacter jejuni;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O111;O145,Confirmed;Confirmed;Suspected;Suspected,Farm/dairy/agricultural setting,11.0,1.0,11.0,0.0,11,"milk, unpasteurized",,Dairy,,,,E. coli,Dairy
+2017,5,California,Food,Norovirus unknown,,Suspected,Banquet Facility (food prepared and served on-site),15.0,0.0,15.0,0.0,15,spinach,spinach,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2017,5,Multistate,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,Agona;Kiambu;Senftenberg;Thompson;Gaminara,Confirmed;Confirmed;Confirmed;Confirmed;Confirmed,Long-term care/nursing home/assisted living facility;Private home/residence,213.0,68.0,169.0,1.0,169,papaya,,Fruits,,,,Salmonella,Fruits
+2017,5,California,Food,Norovirus unknown,,Suspected,Banquet Facility (food prepared and served on-site),3.0,0.0,3.0,0.0,3,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2017,6,Michigan,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence;Restaurant: Sit-down dining,8.0,1.0,8.0,0.0,8,"eggs, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2017,6,Multistate,Food,Salmonella enterica,Infantis,Confirmed,Unknown,48.0,15.0,42.0,0.0,42,"mango, unspecified",,Fruits,,,,Salmonella,Fruits
+2017,6,Multistate,Food,Salmonella enterica,Newport,Confirmed,Unknown,20.0,5.0,17.0,0.0,17,watermelon,,Fruits,,,,Salmonella,Fruits
+2017,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,2.0,2.0,2.0,0.0,2,queso chonero,,Dairy,,,,Listeria,Dairy
+2017,7,Pennsylvania,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,13.0,0.0,13.0,0.0,13,watermelon,,Fruits,,,,Salmonella,Fruits
+2017,7,Wisconsin,Food,Salmonella enterica,Thompson,Confirmed,Farm/dairy/agricultural setting,21.0,0.0,21.0,0.0,21,peas,peas,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2017,7,Michigan,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,4.0,3.0,4.0,0.0,4,Tiramisu,egg,Eggs,,,,Salmonella,Eggs
+2017,7,Multistate,Food,Salmonella enterica;Salmonella enterica,Infantis;Newport,Confirmed;Confirmed,Private home/residence,4.0,2.0,4.0,0.0,4,papaya,,Fruits,,,,Salmonella,Fruits
+2017,7,Multistate,Food,Salmonella enterica,Urbana,Confirmed,Unknown,7.0,4.0,7.0,0.0,7,papaya,,Fruits,,,,Salmonella,Fruits
+2017,7,California,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,6.0,1.0,6.0,0.0,6,pasta salad,shrimp,Crustaceans,,,,Salmonella,Crustaceans
+2017,7,Multistate,Food,Salmonella enterica,Javiana,Confirmed,Unknown,27.0,4.0,20.0,0.0,19,Leafy Greens,,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2017,8,Massachusetts,Food,Norovirus Genogroup I,GI.7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),24.0,0.0,24.0,0.0,24,Fresh fruit salad,,Fruits,,,,Norovirus,Fruits
+2017,8,Rhode Island,Food,Listeria monocytogenes,,Confirmed,Private home/residence,2.0,2.0,2.0,0.0,2,"queso fresco, unspecified",queso fresco;cheese,Dairy,,,,Listeria,Dairy
+2017,8,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Restaurant: Sit-down dining;Other,68.0,18.0,62.0,0.0,68,"Mizuna;spring salad;baby leaf, unspecified",leafy green;arugula,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2017,8,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,6.0,5.0,6.0,0.0,6,Brie and Camembert Cheese,,Dairy,,,,Listeria,Dairy
+2017,9,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O26,Confirmed,Unknown,8.0,3.0,7.0,0.0,7,spinach,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2017,9,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,9,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Unknown,14.0,3.0,12.0,0.0,13,dried coconut,coconut,Fruits,,,,Salmonella,Fruits
+2017,9,California,Food,Salmonella unknown,,Confirmed,Restaurant: Sit-down dining,19.0,0.0,19.0,0.0,19,"mango, unspecified",mango,Fruits,,,,Salmonella,Fruits
+2017,9,Multistate,Food,Listeria monocytogenes,,Confirmed,Private home/residence,10.0,7.0,7.0,3.0,7,prepackaged leafy greens,,Vegetable Row Crops,,,,Listeria,Vegetable Row Crops
+2017,9,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,5.0,4.0,4.0,1.0,4,Enoki Mushroom,,Fungi,,,,Listeria,Fungi
+2017,10,Wisconsin,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,15.0,3.0,15.0,0.0,15,Pastries,egg,Eggs,,,,Salmonella,Eggs
+2017,10,Multistate,Food,Salmonella enterica,Newport,Confirmed,Unknown,24.0,6.0,21.0,1.0,21,"melon, unspecified",,Fruits,,,,Salmonella,Fruits
+2017,10,Utah,Food,Salmonella enterica,Typhimurium,Confirmed,Farm/dairy/agricultural setting,3.0,1.0,3.0,0.0,3,Raw Milk,,Dairy,,,,Salmonella,Dairy
+2017,11,New York,Food,Norovirus Genogroup II,GII.P16 GII.4 Sydney,Confirmed,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,Leafy Greens,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2017,11,Illinois,Food,Norovirus Genogroup II,GII.P16 GII.2,Suspected,Restaurant: Sit-down dining,26.0,0.0,15.0,0.0,0,ice,,Other,,,,Norovirus,Other
+2017,11,Washington,Food,Norovirus,,Confirmed,Restaurant: Sit-down dining,13.0,0.0,10.0,0.0,10,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Unknown,25.0,9.0,21.0,1.0,21,Leafy Greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2017,11,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Private home/residence;Restaurant: Sit-down dining,45.0,11.0,41.0,0.0,41,shell eggs,egg,Eggs,,,,Salmonella,Eggs
+2017,11,California,Food,Norovirus unknown,,Confirmed,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,"oysters, raw",oysters,Mollusks,,,,Norovirus,Mollusks
+2017,11,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,4.0,4.0,4.0,0.0,4,"artisial soft cheese, pasteurized",,Dairy,,,,Listeria,Dairy
+2017,12,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2017,12,Wisconsin,Food,"Escherichia coli, Shiga toxin-producing",O157,Confirmed,School/college/university,3.0,3.0,3.0,0.0,3,Mixed green salad,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2017,12,Multistate,Food,Salmonella enterica;Salmonella enterica,Cubana;Montevideo,Confirmed;Confirmed,Unknown,62.0,3.0,51.0,0.0,51,sprouts,,Sprouts,,,,Salmonella,Sprouts
+2018,1,Minnesota,Food,Norovirus Genogroup II,GII.P7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),7.0,0.0,7.0,0.0,7,"tomato, unspecified",tomato,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2018,1,Idaho,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Farm/dairy/agricultural setting,2.0,0.0,2.0,0.0,2,"milk, whole milk unpasteurized","milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2018,1,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,3.0,0.0,0.0,0.0,0,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2018,2,Tennessee,Food,Norovirus unknown,,Suspected,Restaurant: Fast-food (drive up service or pay at counter),5.0,0.0,5.0,0.0,5,chicken,hot sauce,Other,,,,Norovirus,Other
+2018,2,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,"oysters, raw",oysters,Mollusks,,,,Norovirus,Mollusks
+2018,3,Minnesota,Food,Norovirus Genogroup I,GI.P1 GI.1,Suspected,Restaurant: Sit-down dining,8.0,0.0,2.0,0.0,8,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2018,3,Multistate,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O157:H7;other,Confirmed;Confirmed,Correctional/detention facility;Restaurant: Other;Private home/residence;Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter),239.0,104.0,226.0,5.0,226,"romaine lettuce, unspecified",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2018,3,Multistate,Food,Salmonella enterica,Mbandaka,Confirmed,Private home/residence,136.0,35.0,102.0,0.0,103,"cereal, puffed wheat",,Grains-beans,,,,Salmonella,Grains-beans
+2018,3,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other;Private home/residence,41.0,9.0,36.0,0.0,36,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2018,3,Multistate,Food,Norovirus unknown,,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Restaurant: Sit-down dining;Caterer,100.0,1.0,27.0,0.0,100,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2018,4,Rhode Island,Food,Norovirus Genogroup II,,Suspected,Restaurant: Sit-down dining,8.0,0.0,5.0,0.0,5,Alcoholic Drink Garnishes,orange;lime;lemon,Fruits,,,,Norovirus,Fruits
+2018,4,Texas,Food,Salmonella enterica,unknown,Suspected,Restaurant: Sit-down dining,2.0,0.0,0.0,0.0,0,Caesar/House salad,egg,Eggs,,,,Salmonella,Eggs
+2018,4,Multistate,Food,Salmonella enterica,Adelaide,Confirmed,Other,77.0,36.0,70.0,1.0,70,"melon, unspecified",,Fruits,,,,Salmonella,Fruits
+2018,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),10.0,5.0,8.0,0.0,9,"romaine lettuce, unspecified",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2018,4,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"oysters, raw",oysters,Mollusks,,,,Norovirus,Mollusks
+2018,4,Multistate,Food,Salmonella enterica,Concord,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),6.0,0.0,6.0,0.0,6,tahini,tahini,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2018,4,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Sit-down dining,13.0,2.0,12.0,0.0,13,shell eggs,,Eggs,,,,Salmonella,Eggs
+2018,5,Florida,Food,Norovirus Genogroup II,unknown,Confirmed,Banquet Facility (food prepared and served on-site),30.0,0.0,30.0,0.0,30,fruit,"fruit, unspecified",Fruits,,,,Norovirus,Fruits
+2018,5,Texas,Food,Salmonella enterica,unknown,Suspected,Private home/residence,5.0,0.0,5.0,0.0,5,"avocado, unspecified",,Fruits,,,,Salmonella,Fruits
+2018,5,Tennessee,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O157:H7;O157:H7,Confirmed;Confirmed,Farm/dairy/agricultural setting,17.0,7.0,16.0,0.0,16,Raw Milk,raw milk,Dairy,,,,E. coli,Dairy
+2018,5,Utah,Food,Salmonella enterica,Typhimurium,Suspected,Restaurant: Buffet,3.0,0.0,3.0,0.0,3,lettuce,lettuce,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2018,5,Kansas,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,9.0,3.0,8.0,0.0,8,Leafy Greens,,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2018,5,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Other,45.0,12.0,37.0,0.0,37,shell eggs,,Eggs,,,,Salmonella,Eggs
+2018,5,South Dakota,Food,"Escherichia coli, Shiga toxin-producing",O103,Confirmed,School/college/university,30.0,0.0,30.0,0.0,30,lettuce,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2018,6,Multistate,Food,Listeria monocytogenes,,Confirmed,Other,4.0,3.0,3.0,0.0,3,Mexican-Style Cheese,,Dairy,,,,Listeria,Dairy
+2018,6,Virginia,Food,Norovirus Genogroup II,GII.P7 GII.6,Confirmed,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,house salad;caesar salad,romaine lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2018,6,Florida,Food,Norovirus,,Suspected,Restaurant: Fast-food (drive up service or pay at counter),4.0,0.0,4.0,0.0,4,cheese sauce,"cheddar cheese, pasteurized",Dairy,,,,Norovirus,Dairy
+2018,6,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Unknown,2.0,0.0,1.0,0.0,1,Whey powder,,Dairy,,,,Salmonella,Dairy
+2018,7,Multistate,Food,Salmonella enterica,Javiana,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Private home/residence;Restaurant: Sit-down dining,149.0,37.0,114.0,0.0,118,onions,,Root/Underground,,,,Salmonella,Root/Underground
+2018,7,Illinois,Food,Salmonella enterica,Miami,Confirmed,Grocery store/bakery/deli/convenience store,6.0,0.0,5.0,0.0,6,"orange juice, unpasteurized",orange,Fruits,,,,Salmonella,Fruits
+2018,7,Multistate,Food,Listeria monocytogenes,,Confirmed,Grocery store/bakery/deli/convenience store;Restaurant: Fast-food (drive up service or pay at counter);Long-term care/nursing home/assisted living facility;Restaurant: Sit-down dining;Hospital;Residence - Single-family home,19.0,18.0,19.0,1.0,19,Leafy Greens,,Vegetable Row Crops,,,,Listeria,Vegetable Row Crops
+2018,8,Washington,Food,"Escherichia coli, Shiga toxin-producing",O121,Confirmed,Farm/dairy/agricultural setting,2.0,0.0,2.0,0.0,2,Raw Milk,raw milk,Dairy,,,,E. coli,Dairy
+2018,8,Rhode Island,Food,"Escherichia coli, Other;Escherichia coli, Enteroaggregative;Escherichia coli, Enteroaggregative;Escherichia coli, Enteroaggregative;Escherichia coli, Enterotoxigenic;Escherichia coli, Enterotoxigenic",O6:H16;O148:H28,Confirmed;Confirmed;Confirmed;Suspected;Confirmed;Suspected,Restaurant: Fast-food (drive up service or pay at counter),64.0,1.0,59.0,0.0,64,menu items w/ lettuce,romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2018,8,Kansas,Food,Salmonella enterica,Newport,Confirmed,Religious facility,65.0,13.0,65.0,0.0,65,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2018,8,Multistate,Food,Salmonella enterica,Infantis,Confirmed,Other,7.0,2.0,6.0,0.0,6,english cucumber,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2018,8,Multistate,Food,Salmonella enterica,Javiana,Confirmed,Restaurant: Other;Unknown,117.0,11.0,43.0,0.0,43,onions,,Root/Underground,,,,Salmonella,Root/Underground
+2018,8,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,11.0,10.0,10.0,1.0,10,stone fruit,peaches,Fruits,,,,Listeria,Fruits
+2018,9,Washington,Food,Norovirus unknown,,Suspected,Restaurant: Other,9.0,,0.0,,0,tomatoes,,Seeded Vegetables,,,,Norovirus,Seeded Vegetables
+2018,9,Pennsylvania,Food,Salmonella other,,Confirmed,Farm/dairy/agricultural setting,33.0,2.0,26.0,0.0,26,Raw Milk,"milk, unpasteurized",Dairy,,,,Salmonella,Dairy
+2018,10,Minnesota,Food,Norovirus Genogroup II,GII.P16 GII.4 Sydney,Confirmed,Caterer,47.0,1.0,41.0,0.0,47,rice,,Grains-beans,,,,Norovirus,Grains-beans
+2018,10,Texas,Food,Salmonella unknown,,Suspected,Grocery store/bakery/deli/convenience store,3.0,0.0,3.0,0.0,3,strawberries,,Fruits,,,,Salmonella,Fruits
+2018,10,New York,Food,"Escherichia coli, Enterotoxigenic",unknown,Suspected,Restaurant: Sit-down dining,9.0,0.0,9.0,0.0,9,Dosai,,Grains-beans,,,,E. coli,Grains-beans
+2018,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Restaurant: Fast-food (drive up service or pay at counter);Restaurant: Other,25.0,8.0,21.0,0.0,21,Leafy Greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2018,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Restaurant: Sit-down dining,62.0,25.0,54.0,0.0,62,"romaine lettuce, leaf",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2018,10,Multistate,Food,Salmonella enterica,Paratyphi B var. L(+) tartrate +,Confirmed,Restaurant: Other,12.0,3.0,10.0,0.0,11,"tuna, raw",,Fish,,,,Salmonella,Fish
+2018,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining;Grocery store/bakery/deli/convenience store,22.0,10.0,21.0,0.0,21,"iceberg lettuce, unspecified",iceberg lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2018,12,Oregon,Food,Norovirus Genogroup II,,Suspected,Private home/residence,23.0,0.0,23.0,0.0,23,"cheese, unspecified",,Dairy,,,,Norovirus,Dairy
+2018,12,California,Food,Norovirus unknown,,Suspected,Restaurant: Other;Banquet Facility (food prepared and served on-site),5.0,0.0,5.0,0.0,5,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2018,12,California,Food,Norovirus Genogroup I;Norovirus Genogroup I,GI.P4 GI.5;unknown,Confirmed;Suspected,Restaurant: Sit-down dining;Private home/residence;Restaurant: Fast-food (drive up service or pay at counter),65.0,0.0,60.0,0.0,65,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2018,12,Multistate,Food,"Shigella flexneri;Vibrio parahaemolyticus;Vibrio cholerae;Campylobacter lari;Norovirus Genogroup I;Escherichia coli, Shiga toxin-producing",other;unknown;O157,Confirmed;Confirmed;Suspected;Suspected;Suspected;Suspected,Restaurant: Other,16.0,2.0,15.0,0.0,15,raw oysters,,Mollusks,,,,E. coli,Mollusks
+2018,12,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O26:H11,Confirmed,Private home/residence,21.0,3.0,20.0,0.0,21,flour,,Grains-beans,,,,E. coli,Grains-beans
+2019,1,Michigan,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2019,1,Multistate,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Other;Grocery store/bakery/deli/convenience store,15.0,2.0,12.0,0.0,12,tuna,,Fish,,,,Salmonella,Fish
+2019,1,Multistate,Food,Salmonella enterica,Uganda,Confirmed,Private home/residence,81.0,27.0,52.0,0.0,60,papaya,,Fruits,,,,Salmonella,Fruits
+2019,2,Washington,Food,Norovirus Genogroup I,unknown,Confirmed,Restaurant: Sit-down dining,26.0,0.0,26.0,0.0,26,"Mixed bar drinks, unspecified",,Other,,,,Norovirus,Other
+2019,2,Maryland,Food,Salmonella enterica;Salmonella enterica,"Berta;I 4,[5],12:i:-",Suspected;Suspected,School/college/university,4.0,1.0,4.0,0.0,4,cantaloupe,cantaloupe,Fruits,,,,Salmonella,Fruits
+2019,2,California,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,17.0,1.0,17.0,0.0,17,grilled or fried chicken salad,egg,Eggs,,,,Salmonella,Eggs
+2019,2,California,Food,Shigella unknown;Norovirus unknown,,Suspected;Suspected,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2019,3,Rhode Island,Food,Norovirus unknown,,Suspected,Restaurant: Fast-food (drive up service or pay at counter),21.0,0.0,17.0,0.0,17,"romaine lettuce, leaf",romaine lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2019,3,Multistate,Food,Salmonella enterica,Montevideo,Confirmed,Private home/residence;Restaurant: Fast-food (drive up service or pay at counter),32.0,5.0,31.0,0.0,0,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2019,3,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2019,3,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2019,3,Multistate,Food,Salmonella enterica,Carrau,Confirmed,Private home/residence,149.0,45.0,123.0,0.0,127,melon,,Fruits,,,,Salmonella,Fruits
+2019,3,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2019,3,Multistate,Food,Salmonella enterica,Concord,Confirmed,Restaurant: Other,6.0,1.0,6.0,0.0,6,tahini,tahini,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2019,4,California,Food,Norovirus Genogroup I;Norovirus Genogroup I,GI.P13 GI.3;unknown,Confirmed;Suspected,Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter),23.0,0.0,22.0,0.0,23,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2019,4,New Hampshire,Food,Salmonella enterica,Montevideo,Confirmed,Private home/residence,2.0,1.0,2.0,0.0,2,Raw Milk,raw milk,Dairy,,,,Salmonella,Dairy
+2019,5,Minnesota,Food,Norovirus Genogroup II;Norovirus Genogroup II,GII.P16 GII.4 Sydney;GII.P16 GII.4 Sydney,Confirmed;Suspected,Restaurant: Sit-down dining,5.0,0.0,0.0,0.0,0,"Beery, Wine, Mixed drinks",,Other,,,,Norovirus,Other
+2019,5,Illinois,Food,Norovirus Genogroup II,unknown,Suspected,Caterer,5.0,0.0,5.0,0.0,5,stuffed mushroom,mushrooms,Fungi,,,,Norovirus,Fungi
+2019,6,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,6.0,1.0,6.0,0.0,6,raw egg in smoothie,egg,Eggs,,,,Salmonella,Eggs
+2019,7,Minnesota,Food,Salmonella enterica,"IV 50:z4,z23:-",Confirmed,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,"tea, unspecified",,Herbs,,,,Salmonella,Herbs
+2019,7,Michigan,Food,Salmonella enterica,Agbeni,Confirmed,Grocery store/bakery/deli/convenience store,4.0,3.0,4.0,0.0,4,melon,,Fruits,,,,Salmonella,Fruits
+2019,7,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Other,23.0,12.0,19.0,0.0,17,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,8,Hawaii,Food,Salmonella enterica,Reading,Confirmed,Other,26.0,1.0,26.0,0.0,26,Ahi Tuna,,Fish,,,,Salmonella,Fish
+2019,8,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O26:H11,Confirmed,Long-term care/nursing home/assisted living facility;Private home/residence;Restaurant: Other,10.0,3.0,10.0,0.0,10,spinach,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,9,South Carolina,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,chick peas,,Grains-beans,,,,Norovirus,Grains-beans
+2019,9,Wisconsin,Food,Norovirus Genogroup II,GII.P8 GII.8,Confirmed,Restaurant: Sit-down dining,39.0,0.0,34.0,0.0,39,Beef Bourguignon,parsley,Herbs,,,,Norovirus,Herbs
+2019,9,Michigan,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,4.0,1.0,4.0,0.0,4,"eggs, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2019,9,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter);Private home/residence;Grocery store/bakery/deli/convenience store,172.0,88.0,169.0,0.0,167,"romaine lettuce, unspecified",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,9,Multistate,Food,Salmonella enterica,Telelkebir,Confirmed,Unknown,12.0,3.0,9.0,0.0,11,oysters,,Mollusks,,,,Salmonella,Mollusks
+2019,9,California,Food,Norovirus unknown,,Suspected,Restaurant: Fast-food (drive up service or pay at counter),12.0,0.0,12.0,0.0,12,french fries,,Root/Underground,,,,Norovirus,Root/Underground
+2019,10,Minnesota,Food,Norovirus Genogroup II,GII.P4 New Orleans,Confirmed,Caterer,10.0,0.0,4.0,0.0,10,horseradish;garlic,,Root/Underground,,,,Norovirus,Root/Underground
+2019,10,Arizona,Food,Norovirus Genogroup II,unknown,Suspected,Residence - Single-family home,72.0,0.0,72.0,0.0,72,water;Sports drink,ice,Other,,,,Norovirus,Other
+2019,10,Arizona,Food,Salmonella enterica,Newport,Confirmed,Unknown,14.0,4.0,14.0,0.0,14,mixed cut fruit,,Fruits,,,,Salmonella,Fruits
+2019,11,Washington,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),15.0,3.0,15.0,0.0,15,"romaine lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,11,Iowa,Food,"Escherichia coli, Shiga toxin-producing",O103,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),23.0,1.0,23.0,0.0,23,clover sprouts,,Sprouts,,,,E. coli,Sprouts
+2019,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence;Restaurant: Fast-food (drive up service or pay at counter),24.0,7.0,19.0,0.0,17,Leafy Greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,11,Multistate,Food,Salmonella enterica,Braenderup,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),24.0,9.0,21.0,0.0,21,"tomatoes, raw",tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2019,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,11.0,4.0,10.0,0.0,10,pre-packaged salad,romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,11,Multistate,Food,Salmonella enterica,Javiana,Confirmed,Other,163.0,73.0,110.0,0.0,99,mixed cut fruit,,Fruits,,,,Salmonella,Fruits
+2019,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157,Confirmed,Restaurant: Other,21.0,7.0,19.0,0.0,20,"romaine lettuce, leaf",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),11.0,5.0,10.0,0.0,9,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2019,11,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,Private home/residence;Grocery store/bakery/deli/convenience store,97.0,20.0,88.0,0.0,83,strawberries,strawberries,Fruits,,,,Salmonella,Fruits
+2019,12,Illinois,Food,Norovirus Genogroup I,unknown,Confirmed,Restaurant: Sit-down dining,9.0,0.0,9.0,0.0,9,asparagus,asparagus,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2020,1,Virginia,Food,Norovirus Genogroup II,GII.P16,Confirmed,Restaurant: Sit-down dining,3.0,0.0,0.0,0.0,0,raw oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2020,1,Ohio,Food,Norovirus Genogroup II,GII.P16 GII.4 Sydney,Confirmed,Banquet Facility (food prepared and served on-site),66.0,1.0,66.0,0.0,66,ice,,Other,,,,Norovirus,Other
+2020,1,Virginia,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Other,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2020,1,Virginia,Food,Norovirus Genogroup II,GII.P16 GII.12,Confirmed,Restaurant: Other,2.0,0.0,2.0,0.0,2,"oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2020,1,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O103,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),51.0,3.0,41.0,0.0,41,clover sprouts,clover seeds,Nuts-seeds,,,,E. coli,Nuts-seeds
+2020,1,Multistate,Food,Salmonella enterica,Stanley,Confirmed,Restaurant: Sit-down dining,55.0,6.0,48.0,0.0,55,Woodear Mushrooms,mushrooms,Fungi,,,,Salmonella,Fungi
+2020,2,Indiana,Food,Salmonella enterica,Baildon,Confirmed,Restaurant: Sit-down dining,6.0,3.0,5.0,0.0,6,,tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2020,5,Multistate,Food,Salmonella enterica,Rubislaw,Confirmed,Private home/residence,37.0,14.0,33.0,0.0,34,Mango,mango,Fruits,,,,Salmonella,Fruits
+2020,5,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,2.0,1.0,1.0,1.0,1,Dairy products,,Dairy,,,,Listeria,Dairy
+2020,6,Texas,Food,Salmonella unknown,,Suspected,Private home/residence,2.0,0.0,2.0,0.0,2,Red Onion,onion,Root/Underground,,,,Salmonella,Root/Underground
+2020,6,Multistate,Food,Salmonella enterica,Newport,Confirmed,Camp;Restaurant: Fast-food (drive up service or pay at counter);Long-term care/nursing home/assisted living facility;Restaurant: Other;Grocery store/bakery/deli/convenience store;Farm/dairy/agricultural setting;Private home/residence;Restaurant: Sit-down dining,,167.0,705.0,0.0,708,Red Onion,,Root/Underground,,,,Salmonella,Root/Underground
+2020,6,Multistate,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,101.0,28.0,90.0,0.0,88,"peaches, unspecified",peaches,Fruits,,,,Salmonella,Fruits
+2020,7,Multistate,Food,Salmonella enterica,Newport,Confirmed,Private home/residence,80.0,17.0,60.0,0.0,62,Cantaloupe; Watermelon,,Fruits,,,,Salmonella,Fruits
+2020,7,Multistate,Food,Salmonella enterica,Paratyphi B var. L(+) tartrate +,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),18.0,1.0,15.0,0.0,10,smoothie bowl;Smoothie,Cashews,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2020,7,Michigan,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,7.0,2.0,7.0,0.0,7,"pie, unspecified;cake, unspecified",egg,Eggs,,,,Salmonella,Eggs
+2020,8,Tennessee,Food,Salmonella enterica,Enteritidis,Suspected,Restaurant: Buffet,9.0,0.0,9.0,0.0,9,mayonnaise,,Other,,,,Salmonella,Other
+2020,8,Puerto Rico,Food,Salmonella enterica,unknown,Confirmed,Private home/residence,2.0,2.0,2.0,0.0,2,Eggs,,Eggs,,,,Salmonella,Eggs
+2020,8,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,School/college/university;Restaurant: Other;Grocery store/bakery/deli/convenience store;Private home/residence,40.0,4.0,28.0,0.0,33,Leafy Greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2020,8,California,Food,Salmonella enterica,Newport,Confirmed,Restaurant: Sit-down dining,14.0,3.0,14.0,0.0,14,shrimp dishes,shrimp,Crustaceans,,,,Salmonella,Crustaceans
+2020,9,Multistate,Food,Salmonella enterica,Potsdam,Confirmed,Grocery store/bakery/deli/convenience store;Restaurant: Sit-down dining,7.0,1.0,4.0,0.0,4,smoked fish,,Fish,,,,Salmonella,Fish
+2020,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,13.0,12.0,13.0,1.0,13,"queso fresco, pasteurized",,Dairy,,,,Listeria,Dairy
+2020,11,Multistate,Food,Salmonella enterica,Miami,Confirmed,School/college/university;Restaurant: Sit-down dining;Hospital;Long-term care/nursing home/assisted living facility,65.0,28.0,54.0,0.0,55,tomatoes,tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2020,12,Washington,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O103;O157:H7,Confirmed;Confirmed,Farm/dairy/agricultural setting,15.0,11.0,15.0,0.0,15,"yogurt, unspecified",,Dairy,,,,E. coli,Dairy
+2020,12,Multistate,Food,Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,Chester;Typhimurium;Urbana;Duisburg,Confirmed;Confirmed;Confirmed;Confirmed,Other,20.0,5.0,19.0,0.0,19,"Cashew cheese, raw",Cashews,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2021,1,Oregon,Food,"Escherichia coli, Shiga toxin-producing",O26,Suspected,Private home/residence,4.0,0.0,4.0,0.0,4,raw milk goat cheese,,Dairy,,,,E. coli,Dairy
+2021,1,Multistate,Food,Salmonella enterica,Oranienburg,Confirmed,Grocery store/bakery/deli/convenience store;Private home/residence,9.0,6.0,9.0,0.0,9,Hass avocado,,Fruits,,,,Salmonella,Fruits
+2021,1,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,12.0,12.0,12.0,5.0,12,Leafy Greens,,Vegetable Row Crops,,,,Listeria,Vegetable Row Crops
+2021,1,Washington,Food,Norovirus,,Suspected,Private home/residence,3.0,,0.0,0.0,3,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2021,2,Multistate,Food,Salmonella enterica,Weltevreden,Confirmed,Private home/residence;Grocery store/bakery/deli/convenience store,9.0,3.0,9.0,0.0,5,shrimp cocktail,shrimp,Crustaceans,,,,Salmonella,Crustaceans
+2021,3,Minnesota,Food,Salmonella enterica,Javiana,Confirmed,Grocery store/bakery/deli/convenience store,4.0,1.0,3.0,0.0,4,Napa Cabbage Salad,cabbage,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2021,3,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O145,Confirmed,Unknown,16.0,8.0,16.0,0.0,14,"romaine lettuce, chopped",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2021,4,Florida,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,Salads,romaine lettuce;iceberg lettuce,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2021,4,Florida,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Sit-down dining,6.0,2.0,6.0,0.0,6,Mixed green salad,leafy green,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2021,5,Alabama,Food,Norovirus Genogroup I;Norovirus Genogroup I,GI.P9 GI.9;unknown,Confirmed;Confirmed,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,"Osyters, chargrilled;oysters, raw",,Mollusks,,,,Norovirus,Mollusks
+2021,5,Multistate,Food,Salmonella enterica,Oranienburg,Confirmed,Unknown,,260.0,778.0,0.0,0,onions,,Root/Underground,,,,Salmonella,Root/Underground
+2021,5,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Other,3.0,1.0,3.0,0.0,3,shredded iceberg lettuce,iceberg lettuce,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2021,6,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Buffet,24.0,4.0,24.0,0.0,24,watermelon,watermelon,Fruits,,,,Salmonella,Fruits
+2021,6,Texas,Food,Salmonella unknown,,Suspected,Private home/residence,3.0,0.0,3.0,0.0,3,mayonnaise made with raw eggs,,Other,,,,Salmonella,Other
+2021,6,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,31.0,4.0,29.0,0.0,29,prepackaged leafy greens,,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2021,6,New York,Food,Vibrio other;Norovirus Genogroup II,unknown,Suspected;Confirmed,Restaurant: Sit-down dining,2.0,0.0,2.0,0.0,2,raw oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2021,7,Wisconsin,Food,"Campylobacter coli;Salmonella enterica;Escherichia coli, Enterotoxigenic;Cryptosporidium unknown;Escherichia coli, Enteropathogenic",Newport;unknown;unknown,Confirmed;Suspected;Confirmed;Suspected;Suspected,Long-term care/nursing home/assisted living facility,2.0,2.0,2.0,0.0,2,"milk, unpasteurized","milk, unpasteurized",Dairy,,,,Salmonella,Dairy
+2021,7,Wisconsin,Food,Salmonella enterica,Oranienburg,Confirmed,Farm/dairy/agricultural setting,8.0,2.0,8.0,0.0,8,"peas, green",,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2021,7,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Private home/residence,11.0,4.0,10.0,1.0,10,blackberries,blueberries,Fruits,,,,Salmonella,Fruits
+2021,7,Maine,Food,Salmonella enterica,Saintpaul,Confirmed,Caterer;Grocery store/bakery/deli/convenience store;Restaurant: Other,5.0,2.0,5.0,0.0,5,crab,crab,Crustaceans,,,,Salmonella,Crustaceans
+2021,8,Georgia,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Sit-down dining,6.0,1.0,6.0,0.0,6,lobster,,Crustaceans,,,,Norovirus,Crustaceans
+2021,9,Wisconsin,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",unknown;O55,Suspected;Confirmed,Other,11.0,2.0,11.0,0.0,11,"apple, unspecified",apple,Fruits,,,,E. coli,Fruits
+2021,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Residence - Single-family home;Restaurant: Sit-down dining,11.0,8.0,10.0,0.0,10,bean sprouts,,Sprouts,,,,Listeria,Sprouts
+2021,10,Idaho,Food,Salmonella enterica,Enteritidis,Suspected,Farm/dairy/agricultural setting,2.0,0.0,2.0,0.0,2,Eggs,egg,Eggs,,,,Salmonella,Eggs
+2021,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Other,15.0,4.0,12.0,0.0,11,spinach,spinach,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2021,10,Multistate,Food,Salmonella enterica,Javiana,Confirmed,Private home/residence;Long-term care/nursing home/assisted living facility;Grocery store/bakery/deli/convenience store;Other healthcare facility;Hospital,70.0,15.0,35.0,3.0,57,cut cantaloupe,cantaloupe,Fruits,,,,Salmonella,Fruits
+2021,11,Minnesota,Food,Salmonella enterica;Salmonella enterica,Typhimurium;Typhimurium,Confirmed;Confirmed,Restaurant: Sit-down dining,7.0,1.0,7.0,0.0,7,lettuce,romaine lettuce,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2021,11,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O121:H19,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,"romaine lettuce, unspecified",romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2021,11,Texas,Food,Norovirus,,Suspected,Caterer,48.0,0.0,43.0,0.0,48,"kale, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2021,11,Illinois,Food,Norovirus Genogroup II,unknown,Confirmed,Grocery store/bakery/deli/convenience store,13.0,1.0,1.0,0.0,0,Fruit Platter,strawberries;pineapple;cantaloupe,Fruits,,,,Norovirus,Fruits
+2021,12,Multistate,Food,Salmonella enterica,Saintpaul,Confirmed,Unknown,60.0,12.0,51.0,0.0,53,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2022,1,Multistate,Food,Salmonella enterica,Paratyphi B var. L(+) tartrate +,Confirmed,Unknown,14.0,3.0,14.0,0.0,14,"tuna, raw",tuna,Fish,,,,Salmonella,Fish
+2022,1,Washington,Food,Norovirus,,Suspected,Other,4.0,0.0,0.0,0.0,0,"Oysters (raw), recreationally harvested",,Mollusks,,,,Norovirus,Mollusks
+2022,1,California,Food,Norovirus unknown,,Confirmed,Restaurant: Sit-down dining,6.0,0.0,6.0,0.0,6,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2022,2,Wisconsin,Food,Norovirus Genogroup II,GII.P12 GII.3,Confirmed,Caterer,20.0,0.0,20.0,0.0,20,cantaloupe,,Fruits,,,,Norovirus,Fruits
+2022,2,Multistate,Food,Salmonella enterica,Senftenberg,Confirmed,Unknown,21.0,4.0,13.0,0.0,14,Peanut Butter,,Nuts-seeds,,,,Salmonella,Nuts-seeds
+2022,3,California,Food,Norovirus unknown,,Confirmed,Restaurant: Sit-down dining,4.0,0.0,3.0,0.0,4,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2022,3,Nebraska,Food,Norovirus Genogroup II,GII.P7 GII.6,Confirmed,Restaurant: Sit-down dining,40.0,0.0,38.0,0.0,40,Mixed green salad,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2022,3,Multistate,Food,Norovirus Genogroup II,GII.P16 GII.2,Confirmed,Restaurant: Sit-down dining,193.0,1.0,135.0,0.0,144,"oysters, raw","oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2022,3,New Hampshire,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,22.0,1.0,15.0,0.0,15,Sichuan Pepper,"pepper, ground",Herbs,,,,Salmonella,Herbs
+2022,3,Georgia,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Private home/residence,3.0,2.0,3.0,0.0,3,Leafy Greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2022,3,Washington,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,raw oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2022,3,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2022,3,California,Food,Norovirus unknown,,Suspected,Caterer;Banquet Facility (food prepared and served on-site),8.0,0.0,8.0,0.0,8,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2022,4,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157,Confirmed,Restaurant: Sit-down dining,10.0,8.0,10.0,0.0,10,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2022,5,Ohio,Food,Norovirus Genogroup I;Norovirus Genogroup I,GI.P3 GI.3;unknown,Confirmed;Suspected,Caterer,37.0,0.0,37.0,0.0,37,Fresh fruit salad,,Fruits,,,,Norovirus,Fruits
+2022,5,Connecticut,Food,"Escherichia coli, Enterotoxigenic",O169:H41,Confirmed,Restaurant: Sit-down dining,26.0,0.0,26.0,0.0,26,tacos,sour cream,Dairy,,,,E. coli,Dairy
+2022,5,Multistate,Food,Salmonella enterica,Senftenberg,Confirmed,Unknown,36.0,5.0,26.0,0.0,25,tomatoes,tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2022,6,Multistate,Food,Salmonella enterica,Litchfield,Confirmed,Restaurant: Sit-down dining,39.0,15.0,32.0,0.0,32,Raw Salmon,,Fish,,,,Salmonella,Fish
+2022,7,Wisconsin,Food,Salmonella enterica,Newport,Confirmed,Farm/dairy/agricultural setting,14.0,4.0,14.0,0.0,14,Shelled peas,peas,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2022,7,Massachusetts,Food,Salmonella unknown,,Confirmed,,8.0,0.0,0.0,0.0,8,5x6 tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2022,7,Massachusetts,Food,Salmonella unknown,,Confirmed,,3.0,0.0,3.0,0.0,3,5x6 tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2022,7,Tennessee,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Farm/dairy/agricultural setting,5.0,2.0,5.0,0.0,5,"milk, unpasteurized","milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2022,7,Multistate,Food,Salmonella enterica,Mississippi,Confirmed,Private home/residence;Restaurant: Other;Caterer;Restaurant: Sit-down dining,102.0,23.0,84.0,0.0,19,tomatoes,tomato,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2022,7,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Unknown,11.0,5.0,11.0,0.0,9,spinach,spinach,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2022,7,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Residence - Single-family home,87.0,32.0,73.0,0.0,87,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2022,7,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),109.0,52.0,97.0,0.0,109,romaine,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2022,8,Minnesota,Food,Norovirus Genogroup I,GI.P13 GI.3,Confirmed,Restaurant: Sit-down dining,6.0,0.0,6.0,0.0,6,tuna crudo,,Fish,,,,Norovirus,Fish
+2022,8,Georgia,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,28.0,5.0,28.0,0.0,28,ahi belly,,Fish,,,,Salmonella,Fish
+2022,10,Ohio,Food,Salmonella enterica,Enteritidis,Confirmed,Private home/residence,9.0,3.0,9.0,1.0,9,Egg White;cookie dough;cookies,egg,Eggs,,,,Salmonella,Eggs
+2022,10,Tennessee,Food,Norovirus unknown,,Suspected,Festival/fair,23.0,0.0,23.0,0.0,23,"lemonade, unspecified",,Fruits,,,,Norovirus,Fruits
+2022,10,Ohio,Food,Norovirus Genogroup II;Yersinia enterocolitica,GII.P16 GII.2,Confirmed;Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,raw oysters,,Mollusks,,,,Norovirus,Mollusks
+2022,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown;Restaurant: Sit-down dining;Residence - Single-family home,5.0,5.0,5.0,0.0,5,Enoki Mushrooms,mushrooms,Fungi,,,,Listeria,Fungi
+2022,11,Multistate,Food,Norovirus Genogroup II;Norovirus unknown;Norovirus Genogroup II,unknown;GII.P7 GII.7,Confirmed;Confirmed;Suspected,Restaurant: Sit-down dining;Grocery store/bakery/deli/convenience store,322.0,1.0,319.0,0.0,319,oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2022,12,Washington,Food,Norovirus,,Suspected,Restaurant: Sit-down dining,12.0,0.0,12.0,0.0,12,raw oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2022,12,Multistate,Food,Salmonella enterica,Typhimurium,Confirmed,Restaurant: Sit-down dining;Residence - Single-family home,63.0,10.0,59.0,0.0,60,alfalfa sprouts,,Sprouts,,,,Salmonella,Sprouts
+2022,12,Louisiana,Food,Salmonella enterica;Vibrio parahaemolyticus;Plesiomonas shigelloides,Oslo;unknown,Confirmed;Confirmed;Suspected,Restaurant: Fast-food (drive up service or pay at counter),28.0,10.0,28.0,0.0,28,Crawfish,,Crustaceans,,,,Salmonella,Crustaceans
+2022,12,Multistate,Food,Salmonella enterica,Infantis,Confirmed,Residence - Single-family home,14.0,3.0,13.0,0.0,13,Raw Flour,flour,Grains-beans,,,,Salmonella,Grains-beans
+2022,12,Multistate,Food,Salmonella enterica,Agbeni,Confirmed,Residence - Single-family home;Restaurant: Other;Restaurant: Sit-down dining,9.0,6.0,8.0,0.0,9,"oysters, raw",,Mollusks,,,,Salmonella,Mollusks
+2023,1,Florida,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,oysters,"oysters, raw",Mollusks,,,,Norovirus,Mollusks
+2023,1,Multistate,Food,Salmonella enterica,Hartford,Confirmed,Restaurant: Sit-down dining;Restaurant: Fast-food (drive up service or pay at counter);Residence - Single-family home;Unknown,54.0,12.0,47.0,0.0,47,tomatoes,,Seeded Vegetables,,,,Salmonella,Seeded Vegetables
+2023,2,Minnesota,Food,Norovirus Genogroup II,GII.P16 GII.4 Sydney,Suspected,Restaurant: Sit-down dining,4.0,0.0,4.0,0.0,4,lettuce,,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops
+2023,2,Texas,Food,Norovirus unknown,,Confirmed,Food truck/street vendor,28.0,0.0,28.0,0.0,28,coffee,,Other,,,,Norovirus,Other
+2023,2,Florida,Food,Norovirus Genogroup II,unknown,Suspected,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,oysters,,Mollusks,,,,Norovirus,Mollusks
+2023,3,Minnesota,Food,Norovirus Genogroup I,GI.P13 GI.3,Confirmed,Restaurant: Sit-down dining,6.0,0.0,6.0,0.0,6,wine and/or beer;beer;wine,,Other,,,,Norovirus,Other
+2023,3,Utah,Food,"Campylobacter jejuni;Escherichia coli, Shiga toxin-producing",unknown,Confirmed;Confirmed,Farm/dairy/agricultural setting,3.0,2.0,3.0,0.0,3,Raw Milk,"milk, unpasteurized",Dairy,,,,E. coli,Dairy
+2023,4,Minnesota,Food,Salmonella enterica,Enteritidis,Confirmed,Residence - Single-family home,2.0,2.0,2.0,0.0,2,tuna cake,egg,Eggs,,,,Salmonella,Eggs
+2023,5,Minnesota,Food,Vibrio;Norovirus unknown,,Suspected;Suspected,Restaurant: Sit-down dining,5.0,0.0,5.0,0.0,5,Oyster,,Mollusks,,,,Norovirus,Mollusks
+2023,5,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O26:H11,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Unknown;Residence - Single-family home,13.0,7.0,12.0,0.0,12,Iceberg Lettuce,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2023,5,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,4.0,4.0,4.0,0.0,4,Leafy Greens,,Vegetable Row Crops,,,,Listeria,Vegetable Row Crops
+2023,6,Minnesota,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Sit-down dining,18.0,4.0,16.0,0.0,18,Romaine lettuce,romaine lettuce,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2023,6,Michigan,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,oysters,,Mollusks,,,,Norovirus,Mollusks
+2023,6,Michigan,Food,"Escherichia coli, Shiga toxin-producing",O145,Confirmed,Residence - Single-family home,4.0,2.0,4.0,0.0,4,artisanal cheese,,Dairy,,,,E. coli,Dairy
+2023,6,California,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,15.0,3.0,15.0,0.0,15,"eggs, other",,Eggs,,,,Salmonella,Eggs
+2023,7,Nebraska,Food,Salmonella enterica;Salmonella enterica,Enteritidis;Enteritidis,Confirmed;Confirmed,Residence - Single-family home,11.0,1.0,10.0,0.0,10,"eggs, as single food",,Eggs,,,,Salmonella,Eggs
+2023,7,Alaska,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,24.0,1.0,24.0,0.0,24,"egg, scrammbled;Stuffed French toast",egg,Eggs,,,,Salmonella,Eggs
+2023,7,Alabama,Food,Salmonella enterica,Saintpaul,Confirmed,Restaurant: Sit-down dining,11.0,1.0,11.0,0.0,11,oysters,,Mollusks,,,,Salmonella,Mollusks
+2023,7,Multistate,Food,"Escherichia coli, Shiga toxin-producing",other,Confirmed,Unknown,7.0,1.0,7.0,0.0,7,Avocado,,Fruits,,,,E. coli,Fruits
+2023,7,Florida,Food,"Escherichia coli, Shiga toxin-producing;Campylobacter unknown",O157:H7,Confirmed;Confirmed,Residence - Single-family home,21.0,4.0,21.0,0.0,21,unpasteurized milk,,Dairy,,,,E. coli,Dairy
+2023,7,Multistate,Food,Salmonella enterica,Newport,Confirmed,Residence - Single-family home,11.0,5.0,8.0,0.0,11,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2023,7,Multistate,Food,Salmonella enterica,Newport,Confirmed,Unknown,26.0,5.0,25.0,0.0,26,onions,,Root/Underground,,,,Salmonella,Root/Underground
+2023,8,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Restaurant: Fast-food (drive up service or pay at counter);Residence - Single-family home;School/college/university;Restaurant: Sit-down dining,21.0,11.0,20.0,0.0,19,Leafy Greens,,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2023,8,Multistate,Food,Salmonella enterica,Thompson,Confirmed,Hospital;Unknown;Long-term care/nursing home/assisted living facility,80.0,18.0,72.0,1.0,71,Onions,,Root/Underground,,,,Salmonella,Root/Underground
+2023,9,Wyoming,Food,"Escherichia coli, Shiga toxin-producing;Campylobacter jejuni",O157:H7,Confirmed;Confirmed,Unknown,7.0,2.0,5.0,0.0,5,"milk, whole milk unpasteurized",,Dairy,,,,E. coli,Dairy
+2023,9,Minnesota,Food,"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",O111:H8;unknown,Confirmed;Suspected,Farm/dairy/agricultural setting,3.0,0.0,3.0,0.0,3,unpasteurized apple cider,apple,Fruits,,,,E. coli,Fruits
+2023,9,Illinois,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Sit-down dining,6.0,3.0,5.0,0.0,5,shrimp,shrimp,Crustaceans,,,,Salmonella,Crustaceans
+2023,10,Multistate,Food,Salmonella enterica;Salmonella enterica,Sundsvall;Oranienburg,Confirmed;Confirmed,Unknown,407.0,158.0,362.0,6.0,348,cantaloupe,,Fruits,,,,Salmonella,Fruits
+2023,10,Multistate,Food,Listeria monocytogenes,,Confirmed,Unknown,3.0,3.0,3.0,0.0,3,Caramel apples,apple,Fruits,,,,Listeria,Fruits
+2023,10,Illinois,Food,"Escherichia coli, Shiga toxin-producing",O26:H11,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),4.0,3.0,4.0,0.0,4,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,E. coli,Vegetable Row Crops
+2023,10,Multistate,Food,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,Unknown,11.0,5.0,11.0,0.0,11,Raw milk cheese,,Dairy,,,,E. coli,Dairy
+2023,10,California,Food,Norovirus unknown,,Suspected,Restaurant: Sit-down dining,3.0,0.0,3.0,0.0,3,oysters,oysters,Mollusks,,,,Norovirus,Mollusks
+2023,11,Utah,Food,Salmonella enterica,Enteritidis,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),31.0,5.0,31.0,0.0,31,Romaine lettuce,,Vegetable Row Crops,,,,Salmonella,Vegetable Row Crops
+2023,11,Texas,Food,Norovirus unknown,,Confirmed,Restaurant: Sit-down dining,4.0,0.0,0.0,0.0,0,rice,rice,Grains-beans,,,,Norovirus,Grains-beans
+2023,11,Illinois,Food,Norovirus Genogroup II,unknown,Confirmed,Restaurant: Fast-food (drive up service or pay at counter),77.0,1.0,77.0,0.0,77,"iceberg lettuce, unspecified",,Vegetable Row Crops,,,,Norovirus,Vegetable Row Crops

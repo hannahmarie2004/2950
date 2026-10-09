@@ -1,0 +1,1255 @@
+year,food_category,pathogen,cdc_outbreaks,total_illnesses,total_hospitalizations,total_deaths,hospitalization_info,fda_recall_events
+2002,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2002,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Dairy,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Dairy,Listeria,0,0.0,0.0,0.0,0.0,3
+2002,Dairy,Norovirus,1,25.0,0.0,0.0,23.0,0
+2002,Dairy,Salmonella,3,230.0,12.0,0.0,167.0,0
+2002,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Eggs,Norovirus,1,29.0,0.0,0.0,29.0,0
+2002,Eggs,Salmonella,7,392.0,55.0,0.0,355.0,0
+2002,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Fish,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Fish,Norovirus,1,22.0,0.0,0.0,16.0,0
+2002,Fish,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Fruits,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Fruits,Norovirus,1,15.0,0.0,0.0,14.0,0
+2002,Fruits,Salmonella,2,77.0,10.0,,,0
+2002,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2002,Fungi,Salmonella,1,10.0,0.0,0.0,10.0,0
+2002,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2002,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2002,Herbs,Salmonella,1,13.0,6.0,0.0,13.0,0
+2002,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Mollusks,Norovirus,2,53.0,1.0,0.0,21.0,0
+2002,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2002,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Oils-sugars,Norovirus,1,50.0,1.0,0.0,48.0,0
+2002,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Root/Underground,Norovirus,2,28.0,0.0,0.0,18.0,0
+2002,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2002,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2002,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Seeded Vegetables,Norovirus,1,19.0,0.0,0.0,13.0,0
+2002,Seeded Vegetables,Salmonella,5,687.0,54.0,0.0,605.0,0
+2002,Sprouts,E. coli,1,5.0,3.0,0.0,5.0,0
+2002,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Sprouts,Salmonella,1,15.0,1.0,,1.0,0
+2002,Vegetable Row Crops,E. coli,1,16.0,5.0,0.0,16.0,0
+2002,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2002,Vegetable Row Crops,Norovirus,6,223.0,3.0,0.0,216.0,0
+2002,Vegetable Row Crops,Salmonella,1,2.0,1.0,0.0,2.0,0
+2003,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2003,Dairy,E. coli,1,3.0,0.0,0.0,3.0,0
+2003,Dairy,Listeria,1,12.0,12.0,1.0,12.0,14
+2003,Dairy,Norovirus,3,37.0,0.0,0.0,37.0,0
+2003,Dairy,Salmonella,1,50.0,7.0,0.0,50.0,0
+2003,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Eggs,Salmonella,12,236.0,32.0,0.0,178.0,2
+2003,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Fish,Listeria,0,0.0,0.0,0.0,0.0,5
+2003,Fish,Norovirus,1,9.0,0.0,0.0,9.0,0
+2003,Fish,Salmonella,0,0.0,0.0,0.0,0.0,0
+2003,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Fruits,Listeria,0,0.0,0.0,0.0,0.0,3
+2003,Fruits,Norovirus,4,50.0,0.0,0.0,32.0,0
+2003,Fruits,Salmonella,3,139.0,30.0,2.0,75.0,0
+2003,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2003,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Grains-beans,Salmonella,1,3.0,1.0,0.0,3.0,0
+2003,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,0
+2003,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Mollusks,Norovirus,8,54.0,0.0,0.0,38.0,0
+2003,Mollusks,Salmonella,1,6.0,4.0,0.0,6.0,0
+2003,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Nuts-seeds,Salmonella,1,42.0,10.0,1.0,30.0,0
+2003,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2003,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2003,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Root/Underground,Norovirus,1,7.0,0.0,0.0,0.0,0
+2003,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2003,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2003,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2003,Seeded Vegetables,Salmonella,1,11.0,2.0,0.0,11.0,0
+2003,Sprouts,E. coli,2,33.0,4.0,0.0,33.0,0
+2003,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Sprouts,Salmonella,2,42.0,3.0,1.0,12.0,2
+2003,Vegetable Row Crops,E. coli,1,16.0,10.0,1.0,16.0,0
+2003,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2003,Vegetable Row Crops,Norovirus,1,52.0,,,,0
+2003,Vegetable Row Crops,Salmonella,1,14.0,0.0,0.0,8.0,0
+2004,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2004,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2004,Dairy,E. coli,1,3.0,2.0,0.0,3.0,0
+2004,Dairy,Listeria,0,0.0,0.0,0.0,0.0,2
+2004,Dairy,Norovirus,1,14.0,0.0,0.0,14.0,0
+2004,Dairy,Salmonella,2,112.0,6.0,1.0,37.0,4
+2004,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2004,Eggs,Salmonella,9,56.0,13.0,0.0,50.0,0
+2004,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Fish,Listeria,0,0.0,0.0,0.0,0.0,7
+2004,Fish,Norovirus,1,380.0,,0.0,,0
+2004,Fish,Salmonella,1,63.0,,,,0
+2004,Fruits,E. coli,1,212.0,14.0,0.0,212.0,0
+2004,Fruits,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Fruits,Norovirus,6,353.0,3.0,0.0,343.0,0
+2004,Fruits,Salmonella,0,0.0,0.0,0.0,0.0,1
+2004,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2004,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2004,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Grains-beans,Norovirus,1,4.0,0.0,0.0,4.0,0
+2004,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2004,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2004,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,0
+2004,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,1
+2004,Mollusks,Norovirus,12,121.0,1.0,0.0,77.0,0
+2004,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2004,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Nuts-seeds,Norovirus,1,20.0,0.0,0.0,0.0,0
+2004,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,50
+2004,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2004,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2004,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2004,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,1
+2004,Root/Underground,Norovirus,1,4.0,0.0,0.0,4.0,0
+2004,Root/Underground,Salmonella,2,42.0,,,,0
+2004,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2004,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Seeded Vegetables,Norovirus,4,235.0,4.0,0.0,235.0,0
+2004,Seeded Vegetables,Salmonella,2,566.0,154.0,0.0,554.0,0
+2004,Sprouts,E. coli,1,2.0,0.0,0.0,2.0,1
+2004,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Sprouts,Salmonella,1,35.0,5.0,,23.0,10
+2004,Vegetable Row Crops,E. coli,1,6.0,4.0,0.0,6.0,0
+2004,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2004,Vegetable Row Crops,Norovirus,4,87.0,1.0,0.0,86.0,0
+2004,Vegetable Row Crops,Salmonella,1,97.0,,,,0
+2005,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,1
+2005,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2005,Crustaceans,Salmonella,1,7.0,2.0,0.0,7.0,0
+2005,Dairy,E. coli,1,18.0,5.0,0.0,18.0,0
+2005,Dairy,Listeria,1,12.0,12.0,0.0,12.0,8
+2005,Dairy,Norovirus,1,9.0,0.0,0.0,9.0,0
+2005,Dairy,Salmonella,3,17.0,2.0,0.0,17.0,2
+2005,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Eggs,Listeria,0,0.0,0.0,0.0,0.0,1
+2005,Eggs,Norovirus,1,17.0,0.0,0.0,0.0,0
+2005,Eggs,Salmonella,12,301.0,16.0,0.0,279.0,2
+2005,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Fish,Listeria,0,0.0,0.0,0.0,0.0,15
+2005,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2005,Fish,Salmonella,0,0.0,0.0,0.0,0.0,0
+2005,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Fruits,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Fruits,Norovirus,4,228.0,0.0,0.0,125.0,0
+2005,Fruits,Salmonella,1,157.0,,,,3
+2005,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2005,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2005,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,1
+2005,Grains-beans,Norovirus,1,17.0,0.0,0.0,17.0,0
+2005,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2005,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2005,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,4
+2005,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Mollusks,Norovirus,2,66.0,0.0,0.0,66.0,0
+2005,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,2
+2005,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2005,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,3
+2005,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2005,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2005,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2005,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2005,Root/Underground,Salmonella,2,43.0,3.0,0.0,41.0,0
+2005,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Seeded Vegetables,Norovirus,3,51.0,0.0,0.0,43.0,0
+2005,Seeded Vegetables,Salmonella,3,241.0,23.0,0.0,148.0,0
+2005,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2005,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Sprouts,Salmonella,1,2.0,0.0,0.0,2.0,0
+2005,Vegetable Row Crops,E. coli,1,34.0,12.0,,30.0,0
+2005,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2005,Vegetable Row Crops,Norovirus,8,192.0,6.0,0.0,65.0,0
+2005,Vegetable Row Crops,Salmonella,0,0.0,0.0,0.0,0.0,1
+2006,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,2
+2006,Crustaceans,Norovirus,1,43.0,,,,0
+2006,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2006,Dairy,E. coli,3,12.0,4.0,0.0,12.0,1
+2006,Dairy,Listeria,1,3.0,2.0,1.0,2.0,2
+2006,Dairy,Norovirus,1,11.0,0.0,0.0,11.0,0
+2006,Dairy,Salmonella,3,120.0,42.0,0.0,117.0,1
+2006,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Eggs,Listeria,0,0.0,0.0,0.0,0.0,1
+2006,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2006,Eggs,Salmonella,3,131.0,29.0,0.0,130.0,0
+2006,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Fish,Listeria,0,0.0,0.0,0.0,0.0,2
+2006,Fish,Norovirus,2,36.0,0.0,0.0,36.0,0
+2006,Fish,Salmonella,0,0.0,0.0,0.0,0.0,0
+2006,Fruits,E. coli,1,5.0,1.0,0.0,4.0,0
+2006,Fruits,Listeria,0,0.0,0.0,0.0,0.0,1
+2006,Fruits,Norovirus,8,203.0,0.0,0.0,145.0,0
+2006,Fruits,Salmonella,1,20.0,2.0,0.0,16.0,4
+2006,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2006,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2006,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Grains-beans,Norovirus,2,27.0,,,,0
+2006,Grains-beans,Salmonella,1,3.0,1.0,0.0,3.0,0
+2006,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2006,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,0
+2006,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Mollusks,Norovirus,7,47.0,0.0,0.0,38.0,0
+2006,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2006,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2006,Nuts-seeds,Salmonella,2,815.0,132.0,0.0,656.0,3
+2006,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2006,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2006,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2006,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Root/Underground,Norovirus,1,57.0,0.0,0.0,57.0,0
+2006,Root/Underground,Salmonella,1,27.0,2.0,0.0,27.0,0
+2006,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Seeded Vegetables,Norovirus,1,13.0,0.0,0.0,13.0,0
+2006,Seeded Vegetables,Salmonella,4,331.0,37.0,0.0,164.0,0
+2006,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2006,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Sprouts,Salmonella,1,4.0,0.0,0.0,4.0,1
+2006,Vegetable Row Crops,E. coli,3,395.0,181.0,5.0,362.0,2
+2006,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2006,Vegetable Row Crops,Norovirus,4,174.0,2.0,0.0,170.0,0
+2006,Vegetable Row Crops,Salmonella,1,16.0,7.0,0.0,16.0,1
+2007,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,1
+2007,Crustaceans,Norovirus,1,5.0,0.0,0.0,5.0,0
+2007,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2007,Dairy,E. coli,1,135.0,10.0,0.0,135.0,0
+2007,Dairy,Listeria,1,5.0,5.0,3.0,5.0,3
+2007,Dairy,Norovirus,1,35.0,1.0,0.0,35.0,0
+2007,Dairy,Salmonella,4,50.0,16.0,0.0,48.0,2
+2007,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2007,Eggs,Salmonella,5,150.0,19.0,0.0,149.0,1
+2007,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Fish,Listeria,0,0.0,0.0,0.0,0.0,4
+2007,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2007,Fish,Salmonella,1,44.0,5.0,0.0,37.0,0
+2007,Fruits,E. coli,1,9.0,1.0,0.0,8.0,0
+2007,Fruits,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Fruits,Norovirus,6,190.0,2.0,0.0,190.0,0
+2007,Fruits,Salmonella,1,53.0,17.0,0.0,43.0,3
+2007,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2007,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2007,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2007,Grains-beans,Salmonella,1,3.0,0.0,0.0,3.0,0
+2007,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2007,Herbs,Salmonella,1,87.0,8.0,0.0,67.0,2
+2007,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,4
+2007,Mollusks,Norovirus,3,57.0,0.0,0.0,52.0,0
+2007,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2007,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2007,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,5
+2007,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2007,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2007,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2007,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Root/Underground,Norovirus,1,13.0,0.0,0.0,13.0,0
+2007,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2007,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Seeded Vegetables,Norovirus,2,35.0,1.0,0.0,35.0,0
+2007,Seeded Vegetables,Salmonella,3,98.0,16.0,1.0,98.0,0
+2007,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2007,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Sprouts,Salmonella,3,59.0,3.0,0.0,23.0,0
+2007,Vegetable Row Crops,E. coli,1,8.0,5.0,0.0,8.0,0
+2007,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2007,Vegetable Row Crops,Norovirus,7,128.0,1.0,0.0,128.0,0
+2007,Vegetable Row Crops,Salmonella,2,87.0,4.0,0.0,20.0,2
+2008,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,1
+2008,Crustaceans,Norovirus,1,4.0,0.0,0.0,4.0,0
+2008,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2008,Dairy,E. coli,3,24.0,10.0,0.0,24.0,0
+2008,Dairy,Listeria,1,8.0,8.0,0.0,8.0,2
+2008,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2008,Dairy,Salmonella,1,70.0,0.0,0.0,70.0,0
+2008,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Eggs,Norovirus,1,15.0,1.0,0.0,15.0,0
+2008,Eggs,Salmonella,7,85.0,26.0,0.0,74.0,0
+2008,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Fish,Listeria,0,0.0,0.0,0.0,0.0,4
+2008,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2008,Fish,Salmonella,2,49.0,3.0,0.0,49.0,0
+2008,Fruits,E. coli,1,5.0,2.0,0.0,5.0,0
+2008,Fruits,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Fruits,Norovirus,6,164.0,1.0,0.0,164.0,0
+2008,Fruits,Salmonella,4,624.0,33.0,0.0,501.0,21
+2008,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Fungi,Norovirus,1,16.0,0.0,0.0,15.0,0
+2008,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2008,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2008,Grains-beans,Salmonella,1,36.0,12.0,0.0,29.0,1
+2008,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2008,Herbs,Salmonella,1,87.0,,,,7
+2008,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,1
+2008,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Mollusks,Norovirus,1,2.0,0.0,0.0,2.0,0
+2008,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2008,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2008,Nuts-seeds,Salmonella,2,797.0,166.0,9.0,714.0,4
+2008,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2008,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2008,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2008,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,1
+2008,Root/Underground,Norovirus,1,5.0,0.0,0.0,5.0,0
+2008,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2008,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2008,Seeded Vegetables,Salmonella,2,17.0,308.0,2.0,16.0,4
+2008,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2008,Sprouts,Listeria,1,20.0,16.0,0.0,16.0,1
+2008,Sprouts,Salmonella,1,24.0,,,,2
+2008,Vegetable Row Crops,E. coli,3,97.0,5.0,0.0,19.0,0
+2008,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2008,Vegetable Row Crops,Norovirus,6,118.0,0.0,0.0,117.0,0
+2008,Vegetable Row Crops,Salmonella,0,0.0,0.0,0.0,0.0,0
+2009,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,2
+2009,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,2
+2009,Dairy,E. coli,1,3.0,0.0,0.0,3.0,0
+2009,Dairy,Listeria,2,26.0,14.0,0.0,14.0,7
+2009,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Dairy,Salmonella,0,0.0,0.0,0.0,0.0,52
+2009,Eggs,E. coli,0,0.0,0.0,0.0,0.0,1
+2009,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Eggs,Salmonella,7,206.0,4.0,0.0,192.0,4
+2009,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Fish,Listeria,0,0.0,0.0,0.0,0.0,4
+2009,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Fish,Salmonella,2,23.0,6.0,0.0,23.0,0
+2009,Fruits,E. coli,0,0.0,0.0,0.0,0.0,1
+2009,Fruits,Listeria,0,0.0,0.0,0.0,0.0,2
+2009,Fruits,Norovirus,3,55.0,0.0,0.0,55.0,0
+2009,Fruits,Salmonella,2,67.0,4.0,1.0,,18
+2009,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Fungi,Norovirus,1,10.0,1.0,0.0,10.0,0
+2009,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2009,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,9
+2009,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Herbs,Salmonella,1,272.0,52.0,0.0,,3
+2009,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Mollusks,Norovirus,5,48.0,4.0,0.0,44.0,0
+2009,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2009,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,1
+2009,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,2
+2009,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,460
+2009,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2009,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2009,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2009,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Root/Underground,Norovirus,1,31.0,1.0,0.0,31.0,0
+2009,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,1
+2009,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Seeded Vegetables,Norovirus,2,13.0,0.0,0.0,12.0,0
+2009,Seeded Vegetables,Salmonella,3,71.0,19.0,0.0,69.0,1
+2009,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2009,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,4
+2009,Sprouts,Salmonella,4,297.0,10.0,0.0,16.0,5
+2009,Vegetable Row Crops,E. coli,2,32.0,0.0,0.0,10.0,0
+2009,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2009,Vegetable Row Crops,Norovirus,3,71.0,1.0,0.0,71.0,0
+2009,Vegetable Row Crops,Salmonella,3,181.0,2.0,0.0,27.0,5
+2010,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,5
+2010,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,8
+2010,Dairy,E. coli,7,95.0,23.0,0.0,47.0,3
+2010,Dairy,Listeria,2,40.0,36.0,5.0,40.0,13
+2010,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Dairy,Salmonella,0,0.0,0.0,0.0,0.0,15
+2010,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Eggs,Listeria,0,0.0,0.0,0.0,0.0,1
+2010,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Eggs,Salmonella,7,83.0,11.0,0.0,83.0,12
+2010,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Fish,Listeria,0,0.0,0.0,0.0,0.0,3
+2010,Fish,Norovirus,1,5.0,1.0,0.0,5.0,0
+2010,Fish,Salmonella,1,51.0,,,,0
+2010,Fruits,E. coli,1,7.0,4.0,0.0,7.0,1
+2010,Fruits,Listeria,0,0.0,0.0,0.0,0.0,3
+2010,Fruits,Norovirus,2,154.0,1.0,0.0,154.0,0
+2010,Fruits,Salmonella,3,35.0,21.0,0.0,23.0,8
+2010,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2010,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2010,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,2
+2010,Grains-beans,Norovirus,1,8.0,1.0,0.0,8.0,0
+2010,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,16
+2010,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2010,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,12
+2010,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2010,Mollusks,Norovirus,4,48.0,0.0,0.0,37.0,0
+2010,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,3
+2010,Nuts-seeds,E. coli,1,8.0,3.0,0.0,,1
+2010,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,3
+2010,Nuts-seeds,Norovirus,1,12.0,0.0,0.0,12.0,0
+2010,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,31
+2010,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2010,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2010,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,1
+2010,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,2
+2010,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Root/Underground,Salmonella,1,41.0,5.0,0.0,41.0,4
+2010,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,3
+2010,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2010,Seeded Vegetables,Salmonella,3,118.0,8.0,,,4
+2010,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2010,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,1
+2010,Sprouts,Salmonella,4,196.0,31.0,0.0,,3
+2010,Vegetable Row Crops,E. coli,1,31.0,14.0,0.0,31.0,3
+2010,Vegetable Row Crops,Listeria,1,10.0,10.0,5.0,10.0,5
+2010,Vegetable Row Crops,Norovirus,6,137.0,5.0,0.0,134.0,0
+2010,Vegetable Row Crops,Salmonella,0,0.0,0.0,0.0,0.0,13
+2011,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,1
+2011,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2011,Dairy,E. coli,2,8.0,6.0,0.0,8.0,3
+2011,Dairy,Listeria,3,19.0,5.0,2.0,19.0,17
+2011,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Dairy,Salmonella,1,37.0,7.0,0.0,34.0,4
+2011,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Eggs,Listeria,0,0.0,0.0,0.0,0.0,1
+2011,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Eggs,Salmonella,1,8.0,3.0,0.0,8.0,3
+2011,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Fish,Listeria,0,0.0,0.0,0.0,0.0,7
+2011,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Fish,Salmonella,0,0.0,0.0,0.0,0.0,2
+2011,Fruits,E. coli,3,35.0,8.0,2.0,35.0,0
+2011,Fruits,Listeria,1,147.0,143.0,33.0,144.0,6
+2011,Fruits,Norovirus,7,411.0,4.0,0.0,384.0,0
+2011,Fruits,Salmonella,6,175.0,19.0,0.0,161.0,15
+2011,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2011,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2011,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,2
+2011,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,2
+2011,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Herbs,Listeria,0,0.0,0.0,0.0,0.0,1
+2011,Herbs,Norovirus,1,27.0,0.0,0.0,27.0,0
+2011,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,4
+2011,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,2
+2011,Mollusks,Norovirus,3,33.0,0.0,0.0,25.0,0
+2011,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,1
+2011,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,1
+2011,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,2
+2011,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Nuts-seeds,Salmonella,2,76.0,2.0,0.0,76.0,3
+2011,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2011,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2011,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,1
+2011,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2011,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2011,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2011,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,1
+2011,Seeded Vegetables,Norovirus,1,16.0,0.0,0.0,16.0,0
+2011,Seeded Vegetables,Salmonella,3,190.0,5.0,0.0,190.0,5
+2011,Sprouts,E. coli,1,29.0,7.0,0.0,18.0,0
+2011,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,1
+2011,Sprouts,Salmonella,3,41.0,8.0,0.0,41.0,5
+2011,Vegetable Row Crops,E. coli,3,108.0,44.0,0.0,88.0,2
+2011,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,8
+2011,Vegetable Row Crops,Norovirus,4,201.0,5.0,0.0,201.0,0
+2011,Vegetable Row Crops,Salmonella,0,0.0,0.0,0.0,0.0,7
+2012,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,4
+2012,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,1
+2012,Dairy,E. coli,2,18.0,4.0,0.0,18.0,1
+2012,Dairy,Listeria,1,23.0,21.0,5.0,23.0,14
+2012,Dairy,Norovirus,1,13.0,0.0,0.0,13.0,0
+2012,Dairy,Salmonella,0,0.0,0.0,0.0,0.0,7
+2012,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Eggs,Listeria,0,0.0,0.0,0.0,0.0,7
+2012,Eggs,Norovirus,1,27.0,0.0,0.0,27.0,0
+2012,Eggs,Salmonella,7,57.0,11.0,1.0,53.0,0
+2012,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Fish,Listeria,0,0.0,0.0,0.0,0.0,13
+2012,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Fish,Salmonella,1,425.0,55.0,0.0,326.0,1
+2012,Fruits,E. coli,1,3.0,0.0,0.0,3.0,0
+2012,Fruits,Listeria,0,0.0,0.0,0.0,0.0,13
+2012,Fruits,Norovirus,3,75.0,0.0,0.0,26.0,0
+2012,Fruits,Salmonella,5,435.0,138.0,3.0,390.0,26
+2012,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2012,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2012,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,8
+2012,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Grains-beans,Salmonella,3,104.0,8.0,0.0,104.0,4
+2012,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Herbs,Listeria,0,0.0,0.0,0.0,0.0,1
+2012,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,1
+2012,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,1
+2012,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2012,Mollusks,Norovirus,1,12.0,0.0,0.0,12.0,6
+2012,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2012,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,7
+2012,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Nuts-seeds,Salmonella,1,42.0,10.0,0.0,36.0,50
+2012,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2012,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2012,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,11
+2012,Root/Underground,Norovirus,2,10.0,0.0,0.0,10.0,0
+2012,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,2
+2012,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,1
+2012,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,10
+2012,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2012,Seeded Vegetables,Salmonella,2,151.0,50.0,0.0,111.0,3
+2012,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2012,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,3
+2012,Sprouts,Salmonella,1,19.0,0.0,0.0,19.0,5
+2012,Vegetable Row Crops,E. coli,8,164.0,31.0,0.0,73.0,0
+2012,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,16
+2012,Vegetable Row Crops,Norovirus,8,154.0,2.0,0.0,127.0,0
+2012,Vegetable Row Crops,Salmonella,1,15.0,1.0,0.0,1.0,4
+2013,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,5
+2013,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,2
+2013,Dairy,E. coli,2,12.0,6.0,0.0,12.0,3
+2013,Dairy,Listeria,3,23.0,21.0,3.0,23.0,10
+2013,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Dairy,Salmonella,5,48.0,19.0,0.0,47.0,3
+2013,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Eggs,Listeria,0,0.0,0.0,0.0,0.0,5
+2013,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Eggs,Salmonella,3,79.0,6.0,0.0,78.0,0
+2013,Fish,E. coli,1,7.0,0.0,0.0,7.0,0
+2013,Fish,Listeria,0,0.0,0.0,0.0,0.0,11
+2013,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Fish,Salmonella,1,33.0,6.0,0.0,23.0,0
+2013,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Fruits,Listeria,0,0.0,0.0,0.0,0.0,7
+2013,Fruits,Norovirus,6,196.0,0.0,1.0,142.0,0
+2013,Fruits,Salmonella,6,56.0,19.0,1.0,51.0,0
+2013,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2013,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2013,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,7
+2013,Grains-beans,Norovirus,1,10.0,0.0,0.0,10.0,0
+2013,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,1
+2013,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Herbs,Listeria,0,0.0,0.0,0.0,0.0,1
+2013,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,1
+2013,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2013,Mollusks,Norovirus,1,32.0,0.0,0.0,32.0,0
+2013,Mollusks,Salmonella,1,4.0,,,0.0,0
+2013,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,4
+2013,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Nuts-seeds,Salmonella,2,25.0,2.0,1.0,12.0,14
+2013,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Oils-sugars,Salmonella,1,7.0,1.0,0.0,7.0,0
+2013,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2013,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,3
+2013,Root/Underground,Norovirus,1,12.0,0.0,0.0,12.0,0
+2013,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2013,Seeded Vegetables,E. coli,3,37.0,9.0,0.0,37.0,0
+2013,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,5
+2013,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2013,Seeded Vegetables,Salmonella,5,268.0,44.0,0.0,200.0,1
+2013,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2013,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,2
+2013,Sprouts,Salmonella,1,3.0,0.0,0.0,3.0,1
+2013,Vegetable Row Crops,E. coli,7,188.0,63.0,1.0,179.0,0
+2013,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,9
+2013,Vegetable Row Crops,Norovirus,1,8.0,0.0,0.0,8.0,0
+2013,Vegetable Row Crops,Salmonella,0,0.0,0.0,0.0,0.0,0
+2014,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,4
+2014,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2014,Crustaceans,Salmonella,3,23.0,5.0,0.0,23.0,0
+2014,Dairy,E. coli,3,44.0,14.0,0.0,44.0,2
+2014,Dairy,Listeria,4,39.0,34.0,6.0,38.0,26
+2014,Dairy,Norovirus,1,11.0,0.0,0.0,11.0,0
+2014,Dairy,Salmonella,3,23.0,6.0,0.0,17.0,3
+2014,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Eggs,Listeria,0,0.0,0.0,0.0,0.0,4
+2014,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2014,Eggs,Salmonella,2,22.0,3.0,0.0,16.0,1
+2014,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Fish,Listeria,1,9.0,9.0,1.0,9.0,8
+2014,Fish,Norovirus,1,13.0,0.0,0.0,13.0,0
+2014,Fish,Salmonella,2,60.0,7.0,0.0,60.0,0
+2014,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Fruits,Listeria,2,37.0,36.0,8.0,37.0,12
+2014,Fruits,Norovirus,2,25.0,0.0,0.0,25.0,0
+2014,Fruits,Salmonella,3,51.0,17.0,0.0,47.0,8
+2014,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2014,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2014,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2014,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,2
+2014,Grains-beans,Norovirus,2,10.0,0.0,0.0,10.0,0
+2014,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,2
+2014,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Herbs,Listeria,0,0.0,0.0,0.0,0.0,2
+2014,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2014,Herbs,Salmonella,1,7.0,1.0,0.0,7.0,8
+2014,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2014,Mollusks,Norovirus,3,31.0,0.0,0.0,31.0,1
+2014,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2014,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,19
+2014,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2014,Nuts-seeds,Salmonella,3,69.0,12.0,0.0,51.0,11
+2014,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2014,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2014,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2014,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,1
+2014,Root/Underground,Norovirus,1,23.0,0.0,0.0,23.0,0
+2014,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2014,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2014,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,4
+2014,Seeded Vegetables,Norovirus,1,58.0,0.0,0.0,0.0,0
+2014,Seeded Vegetables,Salmonella,5,357.0,68.0,1.0,213.0,6
+2014,Sprouts,E. coli,1,19.0,5.0,0.0,19.0,0
+2014,Sprouts,Listeria,2,7.0,5.0,2.0,5.0,5
+2014,Sprouts,Salmonella,1,115.0,19.0,0.0,75.0,3
+2014,Vegetable Row Crops,E. coli,6,94.0,14.0,0.0,78.0,0
+2014,Vegetable Row Crops,Listeria,1,18.0,16.0,3.0,16.0,4
+2014,Vegetable Row Crops,Norovirus,3,39.0,0.0,0.0,39.0,0
+2014,Vegetable Row Crops,Salmonella,2,18.0,3.0,0.0,18.0,0
+2015,Crustaceans,E. coli,1,9.0,6.0,0.0,8.0,0
+2015,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,1
+2015,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2015,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2015,Dairy,E. coli,2,19.0,3.0,0.0,19.0,1
+2015,Dairy,Listeria,2,4.0,1.0,1.0,3.0,12
+2015,Dairy,Norovirus,1,5.0,0.0,0.0,5.0,0
+2015,Dairy,Salmonella,5,120.0,28.0,0.0,116.0,1
+2015,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2015,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2015,Eggs,Salmonella,5,74.0,16.0,0.0,73.0,0
+2015,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Fish,Listeria,0,0.0,0.0,0.0,0.0,4
+2015,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2015,Fish,Salmonella,1,69.0,12.0,0.0,66.0,3
+2015,Fruits,E. coli,3,19.0,2.0,0.0,18.0,0
+2015,Fruits,Listeria,0,0.0,0.0,0.0,0.0,8
+2015,Fruits,Norovirus,1,35.0,0.0,0.0,0.0,0
+2015,Fruits,Salmonella,0,0.0,0.0,0.0,0.0,4
+2015,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2015,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2015,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2015,Grains-beans,E. coli,2,69.0,25.0,0.0,62.0,0
+2015,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,8
+2015,Grains-beans,Norovirus,1,16.0,1.0,0.0,7.0,0
+2015,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,2
+2015,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2015,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2015,Herbs,Salmonella,2,42.0,8.0,0.0,34.0,1
+2015,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,1
+2015,Mollusks,Norovirus,7,63.0,0.0,0.0,60.0,0
+2015,Mollusks,Salmonella,2,36.0,2.0,0.0,30.0,1
+2015,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,3
+2015,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2015,Nuts-seeds,Salmonella,1,13.0,0.0,0.0,11.0,36
+2015,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2015,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2015,Other Aquatic Animals,Salmonella,1,5.0,1.0,0.0,5.0,0
+2015,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,3
+2015,Root/Underground,Norovirus,1,12.0,0.0,0.0,12.0,0
+2015,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2015,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,2
+2015,Seeded Vegetables,Norovirus,2,59.0,2.0,0.0,57.0,0
+2015,Seeded Vegetables,Salmonella,4,1048.0,225.0,6.0,853.0,9
+2015,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2015,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,7
+2015,Sprouts,Salmonella,1,32.0,10.0,1.0,31.0,0
+2015,Vegetable Row Crops,E. coli,2,23.0,15.0,0.0,23.0,0
+2015,Vegetable Row Crops,Listeria,1,19.0,19.0,1.0,19.0,8
+2015,Vegetable Row Crops,Norovirus,6,82.0,1.0,0.0,74.0,0
+2015,Vegetable Row Crops,Salmonella,2,263.0,2.0,0.0,262.0,2
+2016,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,1
+2016,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,2
+2016,Crustaceans,Norovirus,2,48.0,2.0,0.0,48.0,0
+2016,Crustaceans,Salmonella,2,62.0,13.0,0.0,62.0,2
+2016,Dairy,E. coli,4,35.0,14.0,0.0,35.0,8
+2016,Dairy,Listeria,1,10.0,9.0,2.0,10.0,25
+2016,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2016,Dairy,Salmonella,5,141.0,26.0,0.0,128.0,19
+2016,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2016,Eggs,Listeria,0,0.0,0.0,0.0,0.0,3
+2016,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2016,Eggs,Salmonella,5,156.0,10.0,0.0,142.0,4
+2016,Fish,E. coli,0,0.0,0.0,0.0,0.0,1
+2016,Fish,Listeria,0,0.0,0.0,0.0,0.0,8
+2016,Fish,Norovirus,1,4.0,0.0,0.0,4.0,0
+2016,Fish,Salmonella,0,0.0,0.0,0.0,0.0,2
+2016,Fruits,E. coli,1,56.0,10.0,0.0,56.0,3
+2016,Fruits,Listeria,2,16.0,15.0,3.0,16.0,9
+2016,Fruits,Norovirus,3,70.0,2.0,0.0,68.0,0
+2016,Fruits,Salmonella,4,99.0,16.0,1.0,69.0,7
+2016,Fungi,Listeria,1,36.0,31.0,4.0,33.0,0
+2016,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2016,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2016,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,1
+2016,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,15
+2016,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2016,Grains-beans,Salmonella,1,8.0,0.0,0.0,7.0,0
+2016,Herbs,E. coli,1,96.0,19.0,0.0,,1
+2016,Herbs,Listeria,0,0.0,0.0,0.0,0.0,2
+2016,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2016,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,0
+2016,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2016,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,1
+2016,Mollusks,Norovirus,6,209.0,3.0,0.0,208.0,0
+2016,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2016,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,1
+2016,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,43
+2016,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2016,Nuts-seeds,Salmonella,3,22.0,5.0,0.0,18.0,23
+2016,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2016,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2016,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2016,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,2
+2016,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,7
+2016,Root/Underground,Norovirus,1,2.0,0.0,0.0,2.0,0
+2016,Root/Underground,Salmonella,1,29.0,6.0,0.0,29.0,0
+2016,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,3
+2016,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,7
+2016,Seeded Vegetables,Norovirus,1,20.0,0.0,0.0,19.0,0
+2016,Seeded Vegetables,Salmonella,4,60.0,15.0,0.0,52.0,10
+2016,Sprouts,E. coli,1,11.0,2.0,0.0,11.0,0
+2016,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,1
+2016,Sprouts,Salmonella,3,88.0,16.0,0.0,73.0,4
+2016,Vegetable Row Crops,E. coli,2,22.0,8.0,0.0,22.0,2
+2016,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,13
+2016,Vegetable Row Crops,Norovirus,2,26.0,0.0,0.0,26.0,0
+2016,Vegetable Row Crops,Salmonella,1,7.0,0.0,0.0,6.0,3
+2017,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,2
+2017,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Crustaceans,Salmonella,1,6.0,1.0,0.0,6.0,0
+2017,Dairy,E. coli,1,11.0,1.0,0.0,11.0,2
+2017,Dairy,Listeria,5,20.0,19.0,0.0,20.0,27
+2017,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Dairy,Salmonella,3,22.0,4.0,0.0,17.0,2
+2017,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Eggs,Listeria,1,8.0,5.0,1.0,7.0,2
+2017,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Eggs,Salmonella,5,81.0,20.0,1.0,77.0,0
+2017,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Fish,Listeria,0,0.0,0.0,0.0,0.0,6
+2017,Fish,Norovirus,1,25.0,0.0,0.0,25.0,0
+2017,Fish,Salmonella,1,4.0,0.0,0.0,4.0,1
+2017,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Fruits,Listeria,0,0.0,0.0,0.0,0.0,13
+2017,Fruits,Norovirus,3,62.0,0.0,0.0,62.0,0
+2017,Fruits,Salmonella,12,460.0,129.0,2.0,394.0,0
+2017,Fungi,Listeria,1,5.0,4.0,1.0,4.0,0
+2017,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2017,Grains-beans,E. coli,1,7.0,2.0,0.0,5.0,1
+2017,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,9
+2017,Grains-beans,Norovirus,1,13.0,0.0,0.0,13.0,0
+2017,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2017,Herbs,E. coli,0,0.0,0.0,0.0,0.0,1
+2017,Herbs,Listeria,0,0.0,0.0,0.0,0.0,5
+2017,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Herbs,Salmonella,1,18.0,2.0,0.0,18.0,1
+2017,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2017,Mollusks,Norovirus,20,166.0,1.0,0.0,133.0,0
+2017,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2017,Nuts-seeds,E. coli,1,32.0,12.0,0.0,32.0,3
+2017,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,21
+2017,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,5
+2017,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2017,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2017,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,4
+2017,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2017,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,2
+2017,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2017,Seeded Vegetables,Salmonella,1,21.0,0.0,0.0,21.0,2
+2017,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2017,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,2
+2017,Sprouts,Salmonella,1,62.0,3.0,0.0,51.0,0
+2017,Vegetable Row Crops,E. coli,4,104.0,33.0,1.0,93.0,2
+2017,Vegetable Row Crops,Listeria,1,10.0,7.0,3.0,7.0,10
+2017,Vegetable Row Crops,Norovirus,2,20.0,0.0,0.0,20.0,0
+2017,Vegetable Row Crops,Salmonella,2,178.0,35.0,0.0,145.0,0
+2018,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,0
+2018,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2018,Dairy,E. coli,3,21.0,7.0,0.0,20.0,0
+2018,Dairy,Listeria,1,4.0,3.0,0.0,3.0,9
+2018,Dairy,Norovirus,2,27.0,0.0,0.0,27.0,0
+2018,Dairy,Salmonella,2,35.0,2.0,0.0,27.0,10
+2018,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2018,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Eggs,Salmonella,3,60.0,14.0,0.0,49.0,4
+2018,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Fish,Listeria,0,0.0,0.0,0.0,0.0,6
+2018,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Fish,Salmonella,1,12.0,3.0,0.0,10.0,1
+2018,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Fruits,Listeria,1,11.0,10.0,1.0,10.0,3
+2018,Fruits,Norovirus,2,38.0,0.0,0.0,35.0,1
+2018,Fruits,Salmonella,4,91.0,36.0,1.0,83.0,5
+2018,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2018,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2018,Grains-beans,E. coli,2,30.0,3.0,0.0,29.0,0
+2018,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,3
+2018,Grains-beans,Norovirus,1,47.0,1.0,0.0,41.0,0
+2018,Grains-beans,Salmonella,1,136.0,35.0,0.0,102.0,8
+2018,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2018,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,3
+2018,Mollusks,E. coli,1,16.0,2.0,0.0,15.0,0
+2018,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,1
+2018,Mollusks,Norovirus,7,188.0,1.0,0.0,101.0,0
+2018,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,1
+2018,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,1
+2018,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,7
+2018,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Nuts-seeds,Salmonella,1,6.0,0.0,0.0,6.0,10
+2018,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2018,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2018,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,0
+2018,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2018,Root/Underground,Salmonella,2,266.0,48.0,0.0,157.0,1
+2018,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,2
+2018,Seeded Vegetables,Norovirus,2,16.0,0.0,0.0,7.0,0
+2018,Seeded Vegetables,Salmonella,2,72.0,15.0,0.0,71.0,3
+2018,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2018,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,2
+2018,Sprouts,Salmonella,1,41.0,9.0,0.0,36.0,2
+2018,Vegetable Row Crops,E. coli,7,452.0,153.0,5.0,419.0,2
+2018,Vegetable Row Crops,Listeria,1,19.0,18.0,1.0,19.0,3
+2018,Vegetable Row Crops,Norovirus,1,5.0,0.0,0.0,5.0,0
+2018,Vegetable Row Crops,Salmonella,2,12.0,3.0,0.0,11.0,6
+2019,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2019,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,3
+2019,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2019,Crustaceans,Salmonella,0,0.0,0.0,0.0,0.0,1
+2019,Dairy,E. coli,0,0.0,0.0,0.0,0.0,0
+2019,Dairy,Listeria,0,0.0,0.0,0.0,0.0,10
+2019,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2019,Dairy,Salmonella,1,2.0,1.0,0.0,2.0,5
+2019,Eggs,E. coli,0,0.0,0.0,0.0,0.0,1
+2019,Eggs,Listeria,0,0.0,0.0,0.0,0.0,12
+2019,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2019,Eggs,Salmonella,3,27.0,3.0,0.0,27.0,1
+2019,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2019,Fish,Listeria,0,0.0,0.0,0.0,0.0,23
+2019,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2019,Fish,Salmonella,2,41.0,3.0,0.0,38.0,2
+2019,Fruits,E. coli,0,0.0,0.0,0.0,0.0,1
+2019,Fruits,Listeria,0,0.0,0.0,0.0,0.0,8
+2019,Fruits,Norovirus,0,0.0,0.0,0.0,0.0,5
+2019,Fruits,Salmonella,7,512.0,173.0,0.0,395.0,2
+2019,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2019,Fungi,Norovirus,1,5.0,0.0,0.0,5.0,0
+2019,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2019,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,2
+2019,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,6
+2019,Grains-beans,Norovirus,1,5.0,0.0,0.0,5.0,0
+2019,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,0
+2019,Herbs,E. coli,0,0.0,0.0,0.0,0.0,1
+2019,Herbs,Listeria,0,0.0,0.0,0.0,0.0,2
+2019,Herbs,Norovirus,1,39.0,0.0,0.0,34.0,0
+2019,Herbs,Salmonella,1,2.0,0.0,0.0,2.0,2
+2019,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2019,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2019,Mollusks,Norovirus,5,40.0,0.0,0.0,39.0,0
+2019,Mollusks,Salmonella,1,12.0,3.0,0.0,9.0,0
+2019,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2019,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,5
+2019,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2019,Nuts-seeds,Salmonella,1,6.0,1.0,0.0,6.0,6
+2019,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2019,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2019,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2019,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2019,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,7
+2019,Root/Underground,Norovirus,2,22.0,0.0,0.0,16.0,0
+2019,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,1
+2019,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,1
+2019,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,5
+2019,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2019,Seeded Vegetables,Salmonella,1,24.0,9.0,0.0,21.0,3
+2019,Sprouts,E. coli,1,23.0,1.0,0.0,23.0,1
+2019,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,5
+2019,Sprouts,Salmonella,0,0.0,0.0,0.0,0.0,0
+2019,Vegetable Row Crops,E. coli,8,287.0,129.0,0.0,271.0,2
+2019,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,10
+2019,Vegetable Row Crops,Norovirus,3,34.0,0.0,0.0,30.0,0
+2019,Vegetable Row Crops,Salmonella,1,32.0,5.0,0.0,31.0,3
+2020,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,2
+2020,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Crustaceans,Salmonella,1,14.0,3.0,0.0,14.0,1
+2020,Dairy,E. coli,1,15.0,11.0,0.0,15.0,1
+2020,Dairy,Listeria,2,15.0,13.0,2.0,14.0,3
+2020,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Dairy,Salmonella,0,0.0,0.0,0.0,0.0,3
+2020,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Eggs,Listeria,0,0.0,0.0,0.0,0.0,2
+2020,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Eggs,Salmonella,2,9.0,4.0,0.0,9.0,1
+2020,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Fish,Listeria,0,0.0,0.0,0.0,0.0,4
+2020,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Fish,Salmonella,1,7.0,1.0,0.0,4.0,1
+2020,Fruits,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Fruits,Listeria,0,0.0,0.0,0.0,0.0,3
+2020,Fruits,Norovirus,0,0.0,0.0,0.0,0.0,2
+2020,Fruits,Salmonella,3,218.0,59.0,0.0,183.0,5
+2020,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2020,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Fungi,Salmonella,1,55.0,6.0,0.0,48.0,0
+2020,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,1
+2020,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,2
+2020,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Herbs,Listeria,0,0.0,0.0,0.0,0.0,2
+2020,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,4
+2020,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2020,Mollusks,Norovirus,3,7.0,0.0,0.0,4.0,0
+2020,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2020,Nuts-seeds,E. coli,1,51.0,3.0,0.0,41.0,0
+2020,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,1
+2020,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Nuts-seeds,Salmonella,2,38.0,6.0,0.0,34.0,3
+2020,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2020,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2020,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,1
+2020,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Root/Underground,Salmonella,2,2.0,167.0,0.0,707.0,1
+2020,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2020,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,1
+2020,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Seeded Vegetables,Salmonella,2,71.0,31.0,0.0,59.0,3
+2020,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,1
+2020,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,0
+2020,Sprouts,Salmonella,0,0.0,0.0,0.0,0.0,0
+2020,Vegetable Row Crops,E. coli,1,40.0,4.0,0.0,28.0,1
+2020,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,0
+2020,Vegetable Row Crops,Norovirus,0,0.0,0.0,0.0,0.0,0
+2020,Vegetable Row Crops,Salmonella,0,0.0,0.0,0.0,0.0,4
+2021,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,2
+2021,Crustaceans,Norovirus,1,6.0,1.0,0.0,6.0,0
+2021,Crustaceans,Salmonella,2,14.0,5.0,0.0,14.0,2
+2021,Dairy,E. coli,1,4.0,0.0,0.0,4.0,0
+2021,Dairy,Listeria,0,0.0,0.0,0.0,0.0,5
+2021,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Dairy,Salmonella,1,2.0,2.0,0.0,2.0,0
+2021,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2021,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Eggs,Salmonella,1,2.0,0.0,0.0,2.0,0
+2021,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Fish,Listeria,0,0.0,0.0,0.0,0.0,3
+2021,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Fish,Salmonella,0,0.0,0.0,0.0,0.0,2
+2021,Fruits,E. coli,1,11.0,2.0,0.0,11.0,0
+2021,Fruits,Listeria,0,0.0,0.0,0.0,0.0,5
+2021,Fruits,Norovirus,1,13.0,1.0,0.0,1.0,0
+2021,Fruits,Salmonella,4,114.0,29.0,4.0,78.0,0
+2021,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2021,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2021,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,2
+2021,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,1
+2021,Herbs,E. coli,0,0.0,0.0,0.0,0.0,2
+2021,Herbs,Listeria,0,0.0,0.0,0.0,0.0,1
+2021,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,1
+2021,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,1
+2021,Mollusks,Norovirus,3,8.0,0.0,0.0,5.0,0
+2021,Mollusks,Salmonella,0,0.0,0.0,0.0,0.0,0
+2021,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,5
+2021,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,7
+2021,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2021,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2021,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,2
+2021,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Root/Underground,Salmonella,1,,260.0,0.0,778.0,2
+2021,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,3
+2021,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2021,Seeded Vegetables,Salmonella,2,68.0,14.0,0.0,59.0,1
+2021,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2021,Sprouts,Listeria,1,11.0,8.0,0.0,10.0,2
+2021,Sprouts,Salmonella,0,0.0,0.0,0.0,0.0,1
+2021,Vegetable Row Crops,E. coli,3,35.0,12.0,0.0,32.0,0
+2021,Vegetable Row Crops,Listeria,1,12.0,12.0,5.0,12.0,7
+2021,Vegetable Row Crops,Norovirus,3,57.0,2.0,0.0,52.0,0
+2021,Vegetable Row Crops,Salmonella,4,45.0,7.0,0.0,42.0,5
+2022,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,0
+2022,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Crustaceans,Salmonella,1,28.0,10.0,0.0,28.0,0
+2022,Dairy,E. coli,2,31.0,2.0,0.0,31.0,0
+2022,Dairy,Listeria,0,0.0,0.0,0.0,0.0,6
+2022,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Dairy,Salmonella,0,0.0,0.0,0.0,0.0,3
+2022,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Eggs,Listeria,0,0.0,0.0,0.0,0.0,0
+2022,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Eggs,Salmonella,1,9.0,3.0,1.0,9.0,0
+2022,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Fish,Listeria,0,0.0,0.0,0.0,0.0,2
+2022,Fish,Norovirus,1,6.0,0.0,0.0,6.0,0
+2022,Fish,Salmonella,3,81.0,23.0,0.0,74.0,1
+2022,Fruits,E. coli,0,0.0,0.0,0.0,0.0,1
+2022,Fruits,Listeria,0,0.0,0.0,0.0,0.0,5
+2022,Fruits,Norovirus,3,80.0,0.0,0.0,80.0,1
+2022,Fruits,Salmonella,1,87.0,32.0,0.0,73.0,4
+2022,Fungi,Listeria,1,5.0,5.0,0.0,5.0,0
+2022,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2022,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,3
+2022,Grains-beans,Norovirus,0,0.0,0.0,0.0,0.0,1
+2022,Grains-beans,Salmonella,1,14.0,3.0,0.0,13.0,1
+2022,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2022,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Herbs,Salmonella,1,22.0,1.0,0.0,15.0,2
+2022,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2022,Mollusks,Norovirus,10,560.0,2.0,0.0,494.0,0
+2022,Mollusks,Salmonella,1,9.0,6.0,0.0,8.0,0
+2022,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,1
+2022,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Nuts-seeds,Salmonella,1,21.0,4.0,0.0,13.0,27
+2022,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2022,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2022,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,1
+2022,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,1
+2022,Root/Underground,Salmonella,0,0.0,0.0,0.0,0.0,0
+2022,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,0
+2022,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,2
+2022,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2022,Seeded Vegetables,Salmonella,5,163.0,32.0,0.0,127.0,1
+2022,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,1
+2022,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,1
+2022,Sprouts,Salmonella,1,63.0,10.0,0.0,59.0,1
+2022,Vegetable Row Crops,E. coli,4,133.0,67.0,0.0,121.0,0
+2022,Vegetable Row Crops,Listeria,0,0.0,0.0,0.0,0.0,4
+2022,Vegetable Row Crops,Norovirus,1,40.0,0.0,0.0,38.0,0
+2022,Vegetable Row Crops,Salmonella,0,0.0,0.0,0.0,0.0,2
+2023,Crustaceans,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Crustaceans,Listeria,0,0.0,0.0,0.0,0.0,3
+2023,Crustaceans,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Crustaceans,Salmonella,1,6.0,3.0,0.0,5.0,0
+2023,Dairy,E. coli,5,46.0,15.0,0.0,44.0,2
+2023,Dairy,Listeria,0,0.0,0.0,0.0,0.0,7
+2023,Dairy,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Dairy,Salmonella,0,0.0,0.0,0.0,0.0,2
+2023,Eggs,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Eggs,Listeria,0,0.0,0.0,0.0,0.0,2
+2023,Eggs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Eggs,Salmonella,4,52.0,7.0,0.0,51.0,0
+2023,Fish,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Fish,Listeria,0,0.0,0.0,0.0,0.0,3
+2023,Fish,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Fish,Salmonella,0,0.0,0.0,0.0,0.0,0
+2023,Fruits,E. coli,2,10.0,1.0,0.0,10.0,0
+2023,Fruits,Listeria,1,3.0,3.0,0.0,3.0,9
+2023,Fruits,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Fruits,Salmonella,2,418.0,163.0,6.0,370.0,16
+2023,Fungi,Listeria,0,0.0,0.0,0.0,0.0,0
+2023,Fungi,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Fungi,Salmonella,0,0.0,0.0,0.0,0.0,0
+2023,Grains-beans,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Grains-beans,Listeria,0,0.0,0.0,0.0,0.0,2
+2023,Grains-beans,Norovirus,1,4.0,0.0,0.0,0.0,0
+2023,Grains-beans,Salmonella,0,0.0,0.0,0.0,0.0,1
+2023,Herbs,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Herbs,Listeria,0,0.0,0.0,0.0,0.0,0
+2023,Herbs,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Herbs,Salmonella,0,0.0,0.0,0.0,0.0,0
+2023,Mollusks,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Mollusks,Listeria,0,0.0,0.0,0.0,0.0,0
+2023,Mollusks,Norovirus,5,18.0,0.0,0.0,18.0,0
+2023,Mollusks,Salmonella,1,11.0,1.0,0.0,11.0,1
+2023,Nuts-seeds,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Nuts-seeds,Listeria,0,0.0,0.0,0.0,0.0,4
+2023,Nuts-seeds,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Nuts-seeds,Salmonella,0,0.0,0.0,0.0,0.0,3
+2023,Oils-sugars,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Oils-sugars,Salmonella,0,0.0,0.0,0.0,0.0,0
+2023,Other Aquatic Animals,Salmonella,0,0.0,0.0,0.0,0.0,0
+2023,Root/Underground,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Root/Underground,Listeria,0,0.0,0.0,0.0,0.0,2
+2023,Root/Underground,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Root/Underground,Salmonella,2,106.0,23.0,1.0,97.0,0
+2023,Seeded Vegetables,E. coli,0,0.0,0.0,0.0,0.0,1
+2023,Seeded Vegetables,Listeria,0,0.0,0.0,0.0,0.0,3
+2023,Seeded Vegetables,Norovirus,0,0.0,0.0,0.0,0.0,0
+2023,Seeded Vegetables,Salmonella,1,54.0,12.0,0.0,47.0,0
+2023,Sprouts,E. coli,0,0.0,0.0,0.0,0.0,0
+2023,Sprouts,Listeria,0,0.0,0.0,0.0,0.0,4
+2023,Sprouts,Salmonella,0,0.0,0.0,0.0,0.0,1
+2023,Vegetable Row Crops,E. coli,4,56.0,25.0,0.0,52.0,1
+2023,Vegetable Row Crops,Listeria,1,4.0,4.0,0.0,4.0,6
+2023,Vegetable Row Crops,Norovirus,2,81.0,1.0,0.0,81.0,0
+2023,Vegetable Row Crops,Salmonella,1,31.0,5.0,0.0,31.0,1
